@@ -259,7 +259,7 @@ $('.tab').click(function() {
       $openElem = $(`#${openName}`),
       height = $target.children('.header').outerHeight(),
       openSubmenu = $('.submenu.open').length > 0 && $openElem,
-      secondLayer = $tab.parents('.layerTwo').length > 0  && $openElem;
+      secondLayer = $tab.parents('.layerTwo.open').length > 0  && $openElem;
 
   $('.submenu').removeAttr('style');
 
