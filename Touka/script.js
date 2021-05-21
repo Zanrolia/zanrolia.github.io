@@ -22,7 +22,7 @@ $('<style>', {
 
 
 // SET ALL VOLUME 0 BEING MUTE AND 1 BEING LOUDEST
-video.volume = 0.1;
+video.volume = 0.5;
 hover.volume = 0.8;
 select.volume = 0.6;
 mainMenu.volume = 0;
