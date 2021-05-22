@@ -310,7 +310,7 @@ $('.tab').click(function() {
 
 
 // BACK TO MAIN MENU FUNCTION
-$('#back-to-main').click(function(){
+$('.back-to-main').click(function(){
   $('.layerTwo.open, .inmenu-tab.open').removeClass('open');
   $('.tab.selected').removeClass('selected');
   $('.submenu').fadeOut(500);
