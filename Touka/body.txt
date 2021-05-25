@@ -33,7 +33,7 @@
  <div id="main-profile">
  <div class="clouds"></div>
  <div class="tabs">
- <div class="tab selected" opens="rules" content="Rules" details="Reading these will help you navigate more pleasurably."></div>
+ <div class="tab" opens="rules" content="Rules" details="Reading these will help you navigate more pleasurably."></div>
  <div class="tab" opens="submenu-character" content="The Character" details="A brief summary of Touka Kirishima, the character whom you are viewing!"></div>
  <div class="tab" opens="submenu-storycanon" content="Story (Canon)" details="Retells the events of Touka's story from Tokyo Ghoul and Tokyo Ghoul:re. (Warning, MASSIVE spoilers ahead!)"></div>
  <div class="tab" opens="submenu-rpc" content="Story (RPC)" details="Tells the events that have occurred in after the conclusion of Tokyo Ghoul:re. (Spoilers aren't as big for this one)"></div>
