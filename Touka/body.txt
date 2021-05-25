@@ -57,6 +57,7 @@
  <li>Use your mouse to navigate from tab to tab</li>
  <li>Adjust the volume of the background music by hovering over the mute button on the lower left side of the screen</li>
  <li>There are MASSIVE spoilers about the Tokyo Ghoul series in this profile. Tread carefully if you haven't seen it and would like to!</li>
+ <li>The music may turn off if you switch between tabs too fast.  If that happens, return to this menu and it'll come back.</li>
  </ol>
  </div>
  </div>
@@ -150,9 +151,9 @@
  <div class="submenu" id="submenu-storycanon">
  <div class="tabs">
  <div class="tab" opens="layer-one" content="The Past" details="Touka's story before the main plot begins."></div>
- <div class="tab" opens="layer-two" content="Tokyo Ghoul (S1)" details="Touka's story before the main plot begins."></div>
- <div class="tab" opens="layer-three" content="Tokyo Ghoul (S2)" details="Touka's story before the main plot begins."></div>
- <div class="tab" opens="layer-four" content="Tokyo Ghoul:re" details="Touka's story before the main plot begins."></div>
+ <div class="tab" opens="layer-two" content="Tokyo Ghoul (S1)" details="The beginning of the main story."></div>
+ <div class="tab" opens="layer-three" content="Tokyo Ghoul (S2)" details="The middle of the story."></div>
+ <div class="tab" opens="layer-four" content="Tokyo Ghoul:re" details="The ending of Touka's story."></div>
  </div>
  <div class="arrow back-to-main">Back</div>
 
@@ -433,100 +434,100 @@ The CCG (Coalition of Counter Ghouls. Or 'doves') have located Jason's whereabou
  </div>
  <div class="inmenu-tab" id="hinami-stays">
  <div class="image" img="https://i.imgur.com/D2LLghN.png"></div>
- <h2 class="header">Hunted, Chased, and Left for Dead</h2>
+ <h2 class="header">With Nowhere to go, Hinami Lives with Touka</h2>
  <div class="scroller">
  <p>
- Type here.
+ Due to hinami now being an orphan, she has nowhere to go.  Luckily, Touka let Hinami crash and live with her.  The two's bonds grew significantly during this time.  
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="however">
  <div class="image" img="https://i.imgur.com/WW9DuVL.gif"></div>
- <h2 class="header">Mysterious Old Man</h2>
+ <h2 class="header">A void in the Heart that can Never be Filled</h2>
  <div class="scroller">
  <p>
- Type here.
+ Secretly, Touka misses Kaneki greatly.  It has been over 6 months, yet any mentions of him causes her to become sad.  What was he doing with Aogiri?  She briefly saw on the news that a ghoul named 'eyepatch' was battling against the doves directly, which concerned her.  She attempted to keep this out of her mind and was mostly successful.  Unless he was brought up again.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="kaneki-returns">
  <div class="image" img="https://i.imgur.com/B0CrZaq.gif"></div>
- <h2 class="header">The Infamous Kirishima Twins from the 20th Ward</h2>
+ <h2 class="header">He's Back?!</h2>
  <div class="scroller">
  <p>
-Type here.
+ Kaneki returns to Anteiku while Touka was out studying with her friend, Yoriko.  Kaneki decides to talk to Yoshimura about something and slips out while Touka was gone.  Hinami learns of this and goes to the library to inform Touka.  Once Touka learned of this, she bolted from the library and left her friend behind, rushing down the streets in an attempt to catch the male attempting to weasle out of her grasp.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="fit-of-rage">
  <div class="image" img="https://i.imgur.com/EAYrvBq.gif"></div>
- <h2 class="header">It's Time to Learn!</h2>
+ <h2 class="header">'Trash Like You Should Never Come Back to Anteiku!'</h2>
  <div class="scroller">
  <p>
-Type here.
+Touka eventually catches up to Kaneki and attempts to learn why he went with Aogiri, the ghoul terrorist organization.  He told her that it was to keep her safe and out of harms way.  And well, since it's been 6 months without any violence, he was doing a good job.  However, this did not sit well with Touka.  She blurted out hateful words to him about being selfish and never putting his friends first, and that she hated him for it.  He then replied that as long as she was safe, then he was fine with that.  This tilted her over the edge, and she socked Kaneki right in the face and told him never to come back.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="regret">
  <div class="image" img="https://i.imgur.com/9iqUSbg.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">'I finally see himm again, and what do I do?  Sock him in the face and call him names.'</h2>
  <div class="scroller">
  <p>
-Type here.
+After that event, regret began to set it.  She wanted Kaneki to come back, not stay away!  Why did she do that?  She called herself an idiot multiple times, the interaction still fresh on her mind.  She attempts to push those thoughts off and focus on her studying.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="time-to-pack">
  <div class="image" img="https://i.imgur.com/nCSxZuK.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">Her Apartment Gets </h2>
  <div class="scroller">
  <p>
-Type here.
+ The building Touka was living at was being renovated, so she would have to crash at Yomo's place, her uncle.  Yoriko, her friend, tries to make Touka stay at her place instead, wanting her to live with her so they can be closer.  Yoriko always fed Touka meals she made because she enjoyed cooking, unaware that Touka was a ghoul.  Touka quickly declined, saying that it was alright and that they would continue to keep in touch.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="targeted">
  <div class="image" img="https://i.imgur.com/AeLKSH0.png"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">Anteiku is Targeted by the CCG</h2>
  <div class="scroller">
  <p>
-Type here.
+Yoshimura has been known as 'The Owl', an extremely powerful ghoul that was responsible for many Dove deaths during operations.  His location has been hidden quite well, until now.  The doves suspected that he works at a coffee shop called Anteiku and they seek to investigate.  Yomo and Yoshimura talked this over and they quickly agreed to evacuate the young ones from the area, and Yoshimura called in assistance to help defend his home from the eventual CCG attack.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="the-move">
  <div class="image" img="https://i.imgur.com/28YqeqV.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">Touka and Hinami are Lead to Safety</h2>
  <div class="scroller">
  <p>
-Type here.
+Yoshimura and Yomo go ahead with the plan to get the two moved to Yomo's place.  Yoshimura waves them off, Touka unaware that Anteiku was being targeted and brought away from the fight.  Yoshimura did not want Touka and Hinami to be caught up in the consequences in his past.  And so they were taken to safety, away from the deathly grasp of the CCG.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="the-discovery">
  <div class="image" img="https://i.imgur.com/hc5AM0D.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">Anteiku is Under Attack?!</h2>
  <div class="scroller">
  <p>
-Type here.
+Touka learns of the attack on Anteiku through the news and Touka quickly departs in an attempt to help defend it, but she was stopped by Yoshimura.  He tells her that this was not her fight, it was Yoshimura's, as well as the rest of the staff, for they have done their fair share of sins in the past, and this is their redemption; to fight and die at Anteiku.  Touka did not accept this, screaming at Yomo and running off passed him as she attempted to race towards Anteiku.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="fear-of-losing">
  <div class="image" img="https://i.imgur.com/eOfacGO.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">'All of my friends.. my home.. I'm going to lose it all again!'</h2>
  <div class="scroller">
  <p>
-Type here.
+ Touka was quite far from Anteiku and had quite the distance to cover.  She raced towards her destination in fear of losing the friends and home she has come to love, not again.  Tears and emotions flood from the bluette as she went to save everyone, despite not being nearly as strong as them.  The CCG were ruthless, where all ghouls must die, and she was well aware of this fact.  She has sinned too!  Shouldn't she also be punished?!
  </p>
  </div>
  </div> 
  <div class="inmenu-tab" id="yoshimura-dies">
  <div class="image" img="https://i.imgur.com/eP0txzg.png"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">The CCG are successful in their Mission</h2>
  <div class="scroller">
  <p>
-Type here.
+The most powerful of the CCG burrow down on Anteiku to fight Yoshimura, and with a long fought battle on a rooftop.  With a final gasp of Yoshimura's child and his long-dead wife, falls over, now defeated.  Though Kaneki had returned to save the rest of the staff, he was unable to reach Yoshimura in time.
  </p>
  </div>
  </div> 
