@@ -470,7 +470,7 @@ Touka eventually catches up to Kaneki and attempts to learn why he went with Aog
  </div>
  <div class="inmenu-tab" id="regret">
  <div class="image" img="https://i.imgur.com/9iqUSbg.gif"></div>
- <h2 class="header">'I finally see himm again, and what do I do?  Sock him in the face and call him names.'</h2>
+ <h2 class="header">'I finally see him again, and what do I do?  Sock him in the face and call him names.'</h2>
  <div class="scroller">
  <p>
 After that event, regret began to set it.  She wanted Kaneki to come back, not stay away!  Why did she do that?  She called herself an idiot multiple times, the interaction still fresh on her mind.  She attempts to push those thoughts off and focus on her studying.
@@ -533,37 +533,37 @@ The most powerful of the CCG burrow down on Anteiku to fight Yoshimura, and with
  </div> 
  <div class="inmenu-tab" id="grieve">
  <div class="image" img="https://i.imgur.com/sWNcOCi.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">"No.. Not again.."</h2>
  <div class="scroller">
  <p>
-Type here.
+Through the cheers of victory that rang through the ward, Touka learns of the death of her beloved father figure.  The woman falls into deep depression once again.  The man that had raised her since she was only five years old, now dead at the hands of the organization who also took her blood father, as well as her mother, away from her.
  </p>
  </div>
  </div> 
  <div class="inmenu-tab" id="anteiku-burns">
  <div class="image" img="https://i.imgur.com/Ur97EUk.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">The Suffering Continues</h2>
  <div class="scroller">
  <p>
-Type here.
+With the CCG having pulled away from Anteiku, Touka moves to retreat to it in solice.  The others that survive would be hiding there.. right?  She runs back onto the block, only to stare in absolute horror -- <b>Anteiku was burning. </b> Most likely set ablaze by the CCG before they left, Touka watched in horror as the memories of her loved ones shattered and burned away in the hateful flames.
  </p>
  </div>
  </div> 
  <div class="inmenu-tab" id="kept-safe">
  <div class="image" img="https://i.imgur.com/ASM3bcx.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">'Why.. Why are you stopping me?'</h2>
  <div class="scroller">
  <p>
-Type here.
+ Touka finds Kaneki walking away from Anteiku with his friend in his arms.  He's.. dead?  She stared off as Kaneki began to walk out towards the CCG base that was temporarily set up to take care of their wounded, a helicopter flying over and spotting Kaneki, and the CCG knew he was the eyepatch.  Touka moved to go join Kaneki; she wanted to be there with him, to kill the CCG, and to avenge her father figure, Yoshimura.  She was stopped again by Yomo, and this time he did not budge, telling her to forget about him and focus on her future.  She was too young to die now; what about college?  Her future?  Touka broke out into tears, but Yomo remained firmed, keeping her from an early death.
  </p>
  </div>
  </div> 
  <div class="inmenu-tab" id="new-beginning">
  <div class="image" img="https://i.imgur.com/dLwiSS5.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">A Second Chance at Life</h2>
  <div class="scroller">
  <p>
-Type here.
+There are times where life seems not worth living.  But you have to remember that there are people who shed blood and tears for you, so that you could live on.  Even if those people are not around anymore, having moved on or died, you must remember to live on, for them.  Shoulder your grief and push forward into the future, one which your loved ones would have wanted you to do.  Don't let their sacrifices be in vein.  With this in mind, Touka did just that.  With the threat of the CCG no longer looming over her, and with the help of Yomo, Touka opens a brand new cafe of her own to carry on the legacy of Yoshimura.  With a smile and a brush of her hair, she flipped the sign from 'closed' to 'open', and she made her way inside of her cafe, the bell ringing as the door opened.  The cafe's name?  .. <b>:re </b>.
  </p>
  </div>
  </div> 
