@@ -1,0 +1,980 @@
+<body>
+<link href="https://zanrolia.github.io/Touka/style.css" rel="stylesheet">
+ <!-- insert code from setting up step 1 in STEP 2 - USING YOUR CODE -->
+ <!-- stylesheets || please do not touch below this -->
+ <link rel="stylesheet" href="https://themonstrousdev.github.io/styles/fancy-fonts.css">
+ <link rel="stylesheet" href="https://themonstrousdev.github.io/styles/google-fonts.css">
+ <!-- stylesheets || please do not touch above this -->
+
+ 
+ <div id="intro">
+ <div id="tokyo"></div>
+ <div id="play">PRESS ANY BUTTON</div>
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Kingdom+Corp" target="_blank" id="introCredit">Code Design © Kindom Corp</a>
+ </div>
+
+ <div id="cinema">
+ <video id="cinematic" src="https://dl.dropbox.com/s/u80snrxr1dc645q/Watch%20Tokyo%20Ghoul%20Season%203%20Episode%2013%20Sub%20%26%20Dub%20_%20Anime%20Uncut%20_%20Funimation%20-%20Google%20Chrome%202021-04-09%2011-15-29.mp4"></video>
+ <div id="skip-video">Skip Cinematic</div>
+ </div>
+
+ <div id="loading-video">
+ <div class="text">
+ Code Design © Kingdom Corp<br>
+ <span>[ PRESS ANY BUTTON ]<span>
+ </div>
+ </div>
+
+
+ <!--
+ ==============================
+ ----- MAIN PROFILE START -----
+ ==============================
+ -->
+ <div id="main-profile">
+ <div class="clouds"></div>
+ <div class="tabs">
+ <div class="tab selected" opens="rules" content="Rules" details="Reading these will help you navigate more pleasurably."></div>
+ <div class="tab" opens="submenu-character" content="The Character" details="A brief summary of Touka Kirishima, the character whom you are viewing!"></div>
+ <div class="tab" opens="submenu-storycanon" content="Story (Canon)" details="Retells the events of Touka's story from Tokyo Ghoul and Tokyo Ghoul:re. (Warning, MASSIVE spoilers ahead!)"></div>
+ <div class="tab" opens="submenu-rpc" content="Story (RPC)" details="Tells the events that have occurred in after the conclusion of Tokyo Ghoul:re. (Spoilers aren't as big for this one)"></div>
+ <div class="tab" opens="submenu-contacts" content="Contact List" details="The list of fellow roleplayers who have made a special place in Touka's heart."></div>
+ <div class="tab" opens="submenu-template" content="Gallery" details="A list of my favorite pieces of art for Touka will go here."></div>
+ <div class="tab" opens="menu-template" content="OOC" details="Stuff you should know about the writer."></div>
+ </div>
+ <a class="arrow" href="http://roleplay.chat/profile.php?user=Kingdom+Corp" target="_blank" rel="noopener noreferrer">© Kingdom Corp</a>
+
+ <!--
+ ============================
+ ----- NON SUBMENU TABS -----
+ ============================
+ Insert your non submenu tabs under this section
+ -->
+ <div id="rules" class="inmenu-tab">
+ <h2 class="header">Rules</h2>
+ <div class="scroller">
+ <ol>
+ <li>Have your volume up to at least 30% when browsing the profile</li>
+ <li>Use your mouse to navigate from tab to tab</li>
+ <li>Adjust the volume of the background music by hovering over the mute button on the lower left side of the screen</li>
+ <li>There are MASSIVE spoilers about the Tokyo Ghoul series in this profile. Tread carefully if you haven't seen it and would like to!</li>
+ </ol>
+ </div>
+ </div>
+
+ <div id="image-template" class="inmenu-tab">
+ <div class="image" img="https://wallpaperaccess.com/full/119946.png"></div>
+ <h2 class="header">Touka Kirishima</h2>
+ <div class="scroller">
+ Touka Kirishima is a ghoul raised in the 20th ward of Tokyo. During her younger days she was cold, ruthless, and had little patience with those she did not classify as friends. She attended high school before going to college. From there, she was able to set up a cafe of her own.
+ </div>
+ </div>
+
+ <div id="menu-template" class="inmenu-tab">
+ <div class="image" img="https://i.pinimg.com/originals/7e/35/68/7e3568a7bfa7aef70ffdcbfa15c2ef17.jpg"></div>
+ <h2 class="header">Image Tab Template</h2>
+ <div class="scroller">
+ Follow this format for a tab with an image.
+ </div>
+ </div>
+ <!--
+ all non submenu tabs should be above this section
+ ================================
+ ----- NON SUBMENU TABS END -----
+ ================================
+ -->
+ </div>
+ <!--
+ ============================
+ ----- MAIN PROFILE END -----
+ ============================
+ -->
+
+
+
+ <!--
+ ==========================
+ ----- SUBMENUS START -----
+ ==========================
+ -->
+ <!-- FOLLOW THIS SUBMENU TEMPLATE -->
+ <div class="submenu" id="submenu-character">
+ <div class="tabs">
+ <div class="tab" opens="summary" content="Summary"></div>
+ <div class="tab" opens="personality" content="Personality"></div>
+ <div class="tab" opens="ghoul" content="What is a ghoul?"></div>
+ <div class="tab" opens="gender" content="Gender"></div>
+ <div class="tab" opens="sexual-orientation" content="Sexual Orientation"></div>
+ </div>
+ <div class="arrow back-to-main">Back</div>
+
+ <div class="inmenu-tab" id="ghoul">
+ <div class="image" img="https://i.imgur.com/9U1Ib2J.gif"></div>
+ <h2 class="header">The Predator of Human-kind</h2>
+ <div class="scroller">
+ Ghouls are humanoids who survive by consuming human flesh. Unlike the mythical, undead versions that everyone has come to know, these ghouls are living, vulnerable to the clutches of hunger and death. They are biologically superior to humans, though they have staggering weaknesses. Ghouls' bodies are comprised of many RC cells, cells that normally humans possess, but Ghouls do in massive quantities. This abundance of RC cells cause them to be faster, stronger, and much more durable. They are effectively resistant to normal weaponry, even go as far as to say they are almost completely immune to them. Guns, blades, and other conventional weapons simply do not work on them, for they cannot cut the RC-filled skin. They have a special limb that is called a Kagune, which is a survival and hunting tool that comes out their body when they need to fight. Ghouls have different types of kagune, ranging from ranged types, regenerative, to tank-like, and even ones that which have no blaring weakness, or perhaps a mix breed of any. Ghouls can only be hurt by other ghouls, or by a weapons specifically made to deteriorate or break RC cells, such as a Ghoul Investigator's blades known as 'quinque'. A ghoul looks exactly like a human until they release their kagune, so they hide amongst the humans, pretending to be like them, and quietly taking lives to live on. If they were found out, their lives were over. They would be hunted and killed, every last ghoul. Such is the sick cycle of life and death.
+ </div>
+ </div>
+ <div class="inmenu-tab" id="summary">
+ <div class="image" img="https://i.pinimg.com/originals/79/d2/34/79d234b2d33a5596f9400c6aa3c916d4.gif"></div>
+ <h2 class="header">The Coffee Master Bluette</h2>
+ <div class="scroller">
+ Touka Kirishima is a ghoul, and one of the last survivors of the Kirishima bloodline. Through her passion for coffee, she strove to survive in the harsh world of Tokyo, eventually becoming a strong and loving person, despite her dark, tragic past. She owns a cafe in Japan known as ':re', and owns a cafe brand known as 'Kiri Cafe' that has spread its way into the Americas and still growing. Touka is an 'Ukaku' ghoul, which is a ghoul that excels in speed, landing in precise, lightning fast and deadly attacks, with a blaring weakness of low stamina. Ukaku are ranged, and not very effective up close, as they are usually very fragile, so they do their best to keep their distance.
+ </div>
+ </div>
+ <div class="inmenu-tab" id="personality">
+ <h2 class="header">Once Cruel, Now Loving</h2>
+ <div class="scroller">
+ Touka was once a very cruel person, disregarding humans in a rather hateful manner, often killing them merely from getting upset. However, she treated ghouls rather neutrally, unless known to be a pain. Over time, these feelings balanced out, and she became a more caring and loving individual in the face of both humans and ghouls alike. However, her cruel demeanor can occasionally manifest into some rough-housing time and again. Her love for coffee triumphs everything else, and she can always be seen holding a cup.
+ </div>
+ </div>
+ <div class="inmenu-tab" id="gender">
+ <h2 class="header">Sex of the Bluette</h2>
+ <div class="scroller">
+ Touka is female by default and is always female by roleplaying standards. With a separate roleplay unrelated to RPC canon, a plot item to change this, or a little bit of friendly shitposting, she could become a futa.
+ </div>
+ </div>
+ <div class="inmenu-tab" id="sexual-orientation">
+ <h2 class="header">What does she like?</h2>
+ <div class="scroller">
+ Touka is almost exclusively into other women, extra or not. She finds the feminine body much more appealing than the other sex. A walkup from a male seeking sexual actions is guaranteed to end up in failure.
+ </div>
+ </div>
+ </div>
+ 
+ <!--
+ ================================
+ ----- BREAK -----
+ ================================
+ -->
+
+ <div class="submenu" id="submenu-storycanon">
+ <div class="tabs">
+ <div class="tab" opens="layer-one" content="The Past" details="Touka's story before the main plot begins."></div>
+ <div class="tab" opens="layer-two" content="Tokyo Ghoul (S1)" details="Touka's story before the main plot begins."></div>
+ <div class="tab" opens="layer-three" content="Tokyo Ghoul (S2)" details="Touka's story before the main plot begins."></div>
+ <div class="tab" opens="layer-four" content="Tokyo Ghoul:re" details="Touka's story before the main plot begins."></div>
+ </div>
+ <div class="arrow back-to-main">Back</div>
+
+ <div class="layerTwo" id="layer-one">
+ <div class="tabs">
+ <div class="tabsHeader">The Past</div>
+ <div class="tab" content="As a kid" opens="as-a-kid"></div>
+ <div class="tab" content="Family" opens="family"></div>
+ <div class="tab" content="Birds" opens="birds"></div>
+ <div class="tab" content="Found" opens="found"></div>
+ <div class="tab" content="Yoshimura" opens="yoshimura"></div>
+ <div class="tab" content="Troublemakers" opens="troublemakers"></div>
+ <div class="tab" content="High School" opens="high-school"></div>
+ <div class="tab" content="Separation" opens="separation"></div>
+ 
+ </div>
+
+ <div class="inmenu-tab" id="as-a-kid">
+ <div class="image" img="https://i.imgur.com/P0GlfLK.jpg"></div>
+ <h2 class="header">Little Touka</h2>
+ <div class="scroller">
+ <p>
+ In the very beginning, Touka was as an innocent little ghoul squirt as they came. For the first five years of her life, her story was filled with the love and care that a small child should always be given. She was very happy, and a very nice child, even though she occasionally got jealous of her little brother, Ayato, when he got attention.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="family">
+ <div class="image" img="https://i.imgur.com/A261uOE.jpg"></div>
+ <h2 class="header">The Kirishima Family</h2>
+ <div class="scroller">
+ <p>
+ Touka was in the loving care of her father, Arata Kirishima. The mother was hardly around, leaving most of the care of the siblings in his hands. Her brother was Ayato Kirishima, also a kind child, though had very different opinions about the various things around them. Arata held a terrible secret from his kids; a secret they would not discover for a very, very long time. A secret that made him pay the price.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="birds">
+ <div class="image" img="https://i.imgur.com/ZOQnDho.png"></div>
+ <h2 class="header">Peck, peck!</h2>
+ <div class="scroller">
+ <p>
+ One day, the two siblings found an injured bird and moved to take care of it, nursing it back to health. One day it lashed out on Touka when it began to lash out in a frenzy, shooting from the cage and pecking her right above her eye, leaving a scar. It is the reason why she hides her other eye, is so people would not see the old injury. To this day, Touka has an phobia for bird-like creatures.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="found">
+ <div class="image" img="https://i.imgur.com/nRpk5oE.png"></div>
+ <h2 class="header">Hunted, Chased, and Left for Dead</h2>
+ <div class="scroller">
+ <p>
+ In what seemed like a peaceful ghoul life, one day they found that their father had not returned, and the locals had come to seek the children they somehow figured out were ghouls. The locals managed to harm Ayato, but Touka, using her kagune early (and damaged it in the process), defended her little brother from their onslaught and attempted captures. They were ran out of the place they once called home. With no signs of Father, they continued to move, unaware of their destination.. or of how long they could keep it up.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="yoshimura">
+ <div class="image" img="https://i.imgur.com/B7w3Ixq.gif"></div>
+ <h2 class="header">Mysterious Old Man</h2>
+ <div class="scroller">
+ <p>
+ Yoshimura, an unknown old man, had found the Kirishima twins in a rough state. Merely only children, and clinging to life however they could. Yoshimura took in the two children, giving them a home in a cafe that he owned, called 'Anteiku'. It was there that the two ghouls would continue to live, and as they slowly grew up in new territory, they began to turn cold to the world around them, as the world had taken their happiness away despite Yoshimura's attempts to keep them docile and friendly folk.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="troublemakers">
+ <div class="image" img="https://i.imgur.com/Wn49b3R.png"></div>
+ <h2 class="header">The Infamous Kirishima Twins from the 20th Ward</h2>
+ <div class="scroller">
+ <p>
+Despite Yoshimura's attempts to raise them to be loving people, Touka and Ayato had turned into ruthless ghouls who consistently encroached in other ghoul's feeding grounds, causing them to become very hated by the rest of the ward. They often got into fights with people over the smallest things, though Ayato was mostly the cause of these actions, with Touka merely following them.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="high-school">
+ <div class="image" img="https://i.imgur.com/PAyr9PI.png"></div>
+ <h2 class="header">It's Time to Learn!</h2>
+ <div class="scroller">
+ <p>
+As the two siblings developed, their caretaker, Yoshimura, was pushing them to become more active in the human community. School was one such attempt, not only to mingle and understand humans better, but to also move up on life and perhaps one day get a job and home of their own through education. Touka was hesitant on the thought of school, even when Yoshimura offered to fully pay for her schooling. While Touka eventually caved in and decided to go, Ayato did not budge at all on the subject, claiming he absolutely loathed humans for what they did to Arata, his father. 
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="separation">
+ <div class="image" img="https://i.imgur.com/8pIJ98k.png"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+After a long while of attending school, Touka comes to enjoy the presence of humans. She makes friends at the school, especially with a specific young woman. Ayato sees the large change that the old man had pushed onto his sister, and absolutely loathed in. In a fit of anger, he lashed out at his sister, stating he could not believe she could become so cozy with the humans after what they have done to their family. Afterwards, he no longer saw a reason to stay at Anteiku. He left, leaving his sister behind and heading to the 24th ward and quickly became known as a problem there. Touka was left alone, and she fell into a deep depression for a very long time.
+ </p>
+ </div>
+ </div>
+ </div>
+ 
+ <div class="layerTwo" id="layer-two">
+ <div class="tabs">
+ <div class="tabsHeader">Tokyo Ghoul (S1)</div>
+ <div class="tab" content="Meeting Kaneki" opens="meeting"></div>
+ <div class="tab" content="Second Meeting" opens="second-meeting"></div>
+ <div class="tab" content="Saving Kaneki" opens="saving"></div>
+ <div class="tab" content="Hinami" opens="hinami"></div>
+ <div class="tab" content="Visiting Uta" opens="visiting-uta"></div>
+ <div class="tab" content="Growing Bond" opens="growing-bond"></div>
+ <div class="tab" content="Warning to Kaneki" opens="warning"></div>
+ <div class="tab" content="Touka vs. Shuu" opens="touka-shuu"></div>
+ <div class="tab" content="A Friend Dies" opens="friend-dies"></div>
+ <div class="tab" content="Vengeance" opens="vengeance"></div>
+ <div class="tab" content="Trapped" opens="trapped"></div>
+ <div class="tab" content="Kaneki Kidnapped" opens="kidnapped"></div>
+ <div class="tab" content="The Rescue" opens="rescue"></div>
+ </div>
+
+ <div class="inmenu-tab" id="meeting">
+ <div class="image" img="https://i.imgur.com/sk4kwWW.gif"></div>
+ <h2 class="header">Touka Meets a Book Nerd and his Friend</h2>
+ <div class="scroller">
+ <p>
+ Lately she has found a young man that goes by Ken Kaneki visit the cafe more and more often and saw that this man was beginning to become a regular. He was quiet, and always had his nose in his book, so she didn't really mind him. He was quiet and kept to himself; a quality Touka was more than happy to see. On an evening after work she came across Kaneki walking with Rize, a ghoul that is known to be a binge eater; someone who eats humans indiscriminately. It was clear that Kaneki was the next meal for her. Touka gave a scowl and minded her own business, leaving Kaneki to his fate.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="second-meeting">
+ <div class="image" img="https://i.imgur.com/oAgkH1n.png"></div>
+ <h2 class="header">A one-eyed ghoul?</h2>
+ <div class="scroller">
+ <p>
+ With the mysterious death of Rize, Touka saw a commotion about fighting for territory Rize once had. One of them was a person known as Nishiki, a high school student who is very territorial. The other was Kaneki, who was somehow still alive. Touka dispatched Nishiki with ease, being much stronger than him. He ran away, leaving Kaneki to the bluette. She soon discovered that he was not actually human, but some kind of half human, half ghoul hybrid. Kaneki began to speak about being once human, and Touka immediately began to berate him, calling him prey and trash, that he would not last long in this new cruel world. She began to viciously attack Kaneki with fists and feet in anger when being called a monster, only to be stopped by Yoshimura. He was taken in by the old man, much to Touka's open disappointment.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="saving">
+ <div class="image" img="https://i.imgur.com/9Uzkqb1.gif"></div>
+ <h2 class="header">Saving Kaneki From a Life-long Regret</h2>
+ <div class="scroller">
+ <p>
+ Yoshimura detects trouble brewing once again with Nishiki, and sends Touka to stop the fighting. She takes off, eventually arriving at a very interesting scene; Nishiki was defeated by Kaneki. Despite being told to eat human meat to stave off starvation, Kaneki refused and eventually gave into the hunger and he made for his unconscious friend. At this point, Touka had made her way in and decided to do a solid for the man she didn't like, and got in the way of his feast. Kaneki, now pissed off and filled with a raging hunger, goes for Touka. Touka flourishes her kagune and easily defeats Kaneki. Kaneki wakes up later at the cafe she works at, Anteiku. He was talked to again by Yoshimura and was fed while unconscious, and then offered shelter and safety from other ghouls if he worked at Anteiku. Kaneki accepts and starts working there.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="hinami">
+ <div class="image" img="https://i.imgur.com/EdtdvjL.gif"></div>
+ <h2 class="header">Something happened to Ryouko and Hinami?</h2>
+ <div class="scroller">
+ <p>
+ The next day, Ryouko, and her daughter Himani, stop by because one of the strongest ghouls in the 20th ward, known as Jason, stopped by Asaki's (Himani's father) work and demanded a new torturing tool for his sick ideals. They came out of fear something might have happened to their beloved family member, and Touka was quick to calm them down. Touka is friends with the Ryouko and is always looking out for her. The two women move to talk to Yoshimura in private, leaving Kaneki and Touka to themselves for the time being. Touka could not help but wonder what the issue was, but kept it to herself for the time being.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="visiting-uta">
+ <div class="image" img="https://i.imgur.com/P3rCYVD.gif"></div>
+ <h2 class="header">Touka Takes Kaneki to Get His Mask Made</h2>
+ <div class="scroller">
+ <p>
+ Due to the activities from Rize and Jason, ghoul hunters (or the 'Doves') have become more active in the 20th ward. As a result, Yoshimura sends Touka to take Kaneki to get his mask made by a friend named Uta. When fighting, a ghoul must keep themselves anonymous, for only a face is needed to hunt down a ghoul. The doves could get an identity match on the ghoul and use it to find their name, and then where they live, what they do, and so on. So when out in the field ready to hunt or kill, it was important to have a mask, and that is the purpose of this visit. Touka minds herself as Kaneki and Uta talk about the mask, before eventually bringing up Touka's good looks and wondered why Kaneki didn't have a big interest in her. He replied that he did, but he 'was also scared of Touka'. Touka caught none of this conversation.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="growing-bond">
+ <div class="image" img="https://i.imgur.com/nIofIGb.gif"></div>
+ <h2 class="header">Kaneki's Care Towards Himani is Noted</h2>
+ <div class="scroller">
+ <p>
+While initially she despised Kaneki for being a half-breed and the way she was talked to back in the alley on their second meet, she slowly becomes more and more used to Kaneki's presence, even to the point where she was surprised he was helping her learn words from complicated books. Hidden from sight, she was happy to hear that Hinami was being taken care of quite well. 
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="warning">
+ <div class="image" img="https://i.imgur.com/iCU62aI.gif"></div>
+ <h2 class="header">An Unwanted Guest Appears</h2>
+ <div class="scroller">
+ <p>
+Another day passes and a new character, known as Shuu, or the 'Gourmet' comes in to assess the situation at Anteiku. He finds Kaneki and immediately becomes interested in him. Though he was not able to indulge long with the half-breed. Touka was quick to shoo him away. She was aware that Shuu enjoyed snatching people and then feeding them to ghouls in some kind of restaurant, and she immediately would have none of that. After Shuu's departure, the woman informed Kaneki not to go near that man, as he was nothing but trouble. However, with the lure of Shu being a bookworm, Kaneki ended up ignoring her warning.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="touka-shuu">
+ <div class="image" img="https://i.imgur.com/cIbGvyR.gif"></div>
+ <h2 class="header">Touka Battles Against Shuu</h2>
+ <div class="scroller">
+ <p>
+Touka quickly learns of Shuu kidnapping Nishiki's girlfriend to lure Kaneki into a trap. The reason? Shuu wanted to eat Kaneki, as he was a half-breed and they were so rare that they were unheard of, and apparently quite tasty. Nishiki, still injured with his fight from Kaneki, regrettably teams up with Kaneki and they both set off to rescue the damsel in distress. However, when the two went into the 
+church for the rescue, they were easily defeated by Shuu. It was then that Touka arrived with a sneak attack on Shuu. He recovers, and the two would battle it out, with the bluette fighting to save her co-worker. After a hard-fought battle, Touka came out on top, spitting on his corpse and telling him to eat his own flesh if he wanted to live. </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="friend-dies">
+ <div class="image" img="https://i.imgur.com/dox8eHC.gif"></div>
+ <h2 class="header">The Hate for Doves Spikes Greatly</h2>
+ <div class="scroller">
+ <p>
+The fight against Shuu took a massive toll on Touka's body, and she required a few days to rest, unable to work. When she recovered, she found that the Anteiku staff have gathered in a meeting, and with confusion, she pushed herself in to find out what was going on. She found out that Ryouko, as well as her husband, were both slain by the Doves. Ryouko and her husband were peaceful ghouls, unable to hunt and kill humans, and got their meals from Anteiku. Touka was angry; why take the lives of innocent people? Simply because they were ghouls, that was the only reason they were slain. With thoughts of her friend dead, and the kid they left behind now an orphan, the woman's heart fills with unbridled rage. Vengeance was on her mind. Yoshimura downtalks Touka, telling her not to go out to get revenge, as doing so would bring more attention to the 20th ward. Touka ignores this warning and runs straight out of Anteiku to get revenge.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="vengeance">
+ <div class="image" img="https://i.imgur.com/QeRZjjM.gif"></div>
+ <h2 class="header">The Fight Against Kureo Mado</h2>
+ <div class="scroller">
+ <p>
+Touka finds a small mask that she used to use when she played with Ayato; a bunny mask. She dons it, as well as a getup she threw together, then went out to fight the doves responsible for Ryouko's death. She managed to kill one of them, but before she could kill the others, the one who struck down Ryouko appeared; Kureo Mado. She attacked at him and Mado quickly figured out she was there to avenge Ryouko and began to belittle Touka, insulting her to become more angry. Despite her efforts, she could barely even lay a hand on her opponent, and with an easy strike to Touka, she was forced to flee, that one attack greatly injuring the woman. She went back to Anteiku and the staff there scolded her, telling her she would receive no help from her injuries. She gave a grunt and attended to attempt first aid on herself with no success. Kaneki attempts to help, but drives him away. He assured Touka to be careful because if she were to die, he would be sad. This greatly confused her, catching her off guard. The words sank into her head as she fumbled with the bandages in the first aid kit. The fight against Mado officially gave her the nickname, 'The Rabbit'. A name which all ghoul investigators come to know.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="trapped">
+ <div class="image" img="https://i.imgur.com/pxPjRaK.gif"></div>
+ <h2 class="header">Touka Attempts to Lure Mado into a Trap, but it's Turned</h2>
+ <div class="scroller">
+ <p>
+Touka, still recovering from her injury, was attempting to set up a trap for Mado to avenge Ryouko. She set up false information to a location to lure him in, but Mado was one step ahead, taking Ryouko's remains and stashing them into said location ahead of time. The scent of her mother lures Himani and she rushes off in excitement, causing Touka to panic and attempt to stop her with no success. Upon arriving, Mado was quick to ambush Touka and Hinami. Since Touka was unable to bide time to grab her mask and outfit, she was fully exposed to the ghoul investigator. This officially became a kill-or-be-killed scenario, for if they escaped, they would simply track her to Anteiku, and the shop would suffer, so one of them had to die. The fight began, and Touka, still injured, was quickly overpowered by Mado's quinque, which was so happened to be made by Ryouko's kagune, angering Touka even further. However at this point, Touka was all talk. She was on deaths door with several holes in her. When Mado began to deliver the final blow, the little Hinami that was sobbing the whole time finally acted out in pure rage. Hinami quickly slays Mado with impressive power, but refused to finish him off. The injured Touka brought herself up and finished off the investigator and Touka takes Hinami home, surprised that Hinami already had her kagune.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="kidnapped">
+ <div class="image" img="https://i.imgur.com/TTi7kFV.gif"></div>
+ <h2 class="header">Ayato Works For the Enemy</h2>
+ <div class="scroller">
+ <p>
+ Jason, who is looking for Rize and unaware of her death, comes to the 20th ward in an attempt to find her. They end up arriving at Anteiku, which they find that, apparently, Kaneki hosts Rize's organs. They smell this on him and decide to kidnap Kaneki. As usual, Touka moves to defend Kaneki from Jason, but an unexpected visitor appeared; Ayato. Her brother whom left her to reign freely over humans. He gets in her way and the two begin to fight. However, Ayato easily defeats Touka. Due to their blood relation, he decides to spare Touka, telling her to crawl along the ground like the worm she was. The group then leaves with Kaneki, leaving an unconcious bluette ghoul in the destroyed Anteiku.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="rescue">
+ <div class="image" img="https://i.imgur.com/E32sMl2.gif"></div>
+ <h2 class="header">Kirishima Bloodshed</h2>
+ <div class="scroller">
+ <p>
+The CCG (Coalition of Counter Ghouls. Or 'doves') have located Jason's whereabouts, and discover he is working for a ghoul organization that was known as "Aogiri". Aogiri is a group of powerful ghouls that lead an army with the intent on destroying human kind and make the world ghoul superior. The CCG move in with an army to assault the hidden base, and the members of Anteiku slip in through the chaos to try and find Kaneki. The group splits up, and while Touka searches, she ends up finding her brother once again, stopping her in her tracks. She attempts to disengage from him with no success, and the two battle it out. Once again, she was utterly defeated by her stronger brother, Ayato. This time, it looked like Ayato was moving for a killing blow.
+ </p>
+ </div>
+ </div>
+ </div> 
+ 
+ <div class="layerTwo" id="layer-three">
+ <div class="tabs">
+ <div class="tabsHeader">Tokyo Ghoul (S2)</div>
+ <div class="tab" content="Kaneki Leaves" opens="kaneki-leaves"></div>
+ <div class="tab" content="The Recovery" opens="the-recovery"></div>
+ <div class="tab" content="Anteiku Reopens" opens="anteiku-reopens"></div>
+ <div class="tab" content="Hinami Stays with Touka" opens="hinami-stays"></div>
+ <div class="tab" content="However..." opens="however"></div>
+ <div class="tab" content="Kaneki Returns" opens="kaneki-returns"></div>
+ <div class="tab" content="Fit of Rage" opens="fit-of-rage"></div>
+ <div class="tab" content="Regret" opens="regret"></div>
+<div class="tab" content="Time to Pack" opens="time-to-pack"></div>
+<div class="tab" content="Targeted" opens="targeted"></div>
+<div class="tab" content="The Move" opens="the-move"></div>
+<div class="tab" content="The Discovery" opens="the-discovery"></div>
+<div class="tab" content="The Fear of Losing" opens="fear-of-losing"></div>
+<div class="tab" content="Yoshimura Dies" opens="yoshimura-dies"></div>
+<div class="tab" content="Grieve" opens="grieve"></div>
+<div class="tab" content="Anteiku Burns" opens="anteiku-burns"></div>
+<div class="tab" content="Touka Kept Safe" opens="kept-safe"></div>
+<div class="tab" content="A New Beginning" opens="new-beginning"></div>
+ </div>
+ 
+ <div class="inmenu-tab" id="kaneki-leaves">
+ <div class="image" img="https://i.imgur.com/7tqUu2J.gif"></div>
+ <h2 class="header">Little Touka</h2>
+ <div class="scroller">
+ <p>
+ Type Here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="the-recovery">
+ <div class="image" img="https://i.imgur.com/wqmORwl.gif"></div>
+ <h2 class="header">The Kirishima Family</h2>
+ <div class="scroller">
+ <p>
+ Type Here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="anteiku-reopens">
+ <div class="image" img="https://i.imgur.com/yRr1Mta.gif"></div>
+ <h2 class="header">Peck, peck!</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="hinami-stays">
+ <div class="image" img="https://i.imgur.com/D2LLghN.png"></div>
+ <h2 class="header">Hunted, Chased, and Left for Dead</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="however">
+ <div class="image" img="https://i.imgur.com/WW9DuVL.gif"></div>
+ <h2 class="header">Mysterious Old Man</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="kaneki-returns">
+ <div class="image" img="https://i.imgur.com/B0CrZaq.gif"></div>
+ <h2 class="header">The Infamous Kirishima Twins from the 20th Ward</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="fit-of-rage">
+ <div class="image" img="https://i.imgur.com/EAYrvBq.gif"></div>
+ <h2 class="header">It's Time to Learn!</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="regret">
+ <div class="image" img="https://i.imgur.com/9iqUSbg.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="time-to-pack">
+ <div class="image" img="https://i.imgur.com/nCSxZuK.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="targeted">
+ <div class="image" img="https://i.imgur.com/AeLKSH0.png"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="the-move">
+ <div class="image" img="https://i.imgur.com/28YqeqV.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="the-discovery">
+ <div class="image" img="https://i.imgur.com/hc5AM0D.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="fear-of-losing">
+ <div class="image" img="https://i.imgur.com/eOfacGO.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div> 
+ <div class="inmenu-tab" id="yoshimura-dies">
+ <div class="image" img="https://i.imgur.com/eP0txzg.png"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div> 
+ <div class="inmenu-tab" id="grieve">
+ <div class="image" img="https://i.imgur.com/sWNcOCi.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div> 
+ <div class="inmenu-tab" id="anteiku-burns">
+ <div class="image" img="https://i.imgur.com/Ur97EUk.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div> 
+ <div class="inmenu-tab" id="kept-safe">
+ <div class="image" img="https://i.imgur.com/ASM3bcx.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div> 
+ <div class="inmenu-tab" id="new-beginning">
+ <div class="image" img="https://i.imgur.com/dLwiSS5.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div> 
+ </div>
+ 
+ <div class="layerTwo" id="layer-four">
+<div class="tabs">
+ <div class="tabsHeader">Tokyo Ghoul:re</div>
+ <div class="tab" content="Unexpected Reunion" opens="unexpected-reunion"></div>
+ <div class="tab" content="Saving Shuu" opens="saving-shuu"></div>
+ <div class="tab" content="The Fight to Save Hinami" opens="save-hinami"></div>
+ <div class="tab" content="Leave it to Ken" opens="leave-to-ken"></div>
+ <div class="tab" content="Hinami Secured" opens="hinami-secured"></div>
+ <div class="tab" content="G.O.A.T." opens="goat"></div>
+ <div class="tab" content="CCG Gets Aggressive" opens="ccg-aggressive"></div>
+ <div class="tab" content="Secret Revealed" opens="secret-revealed"></div>
+<div class="tab" content="Are you... a Virgin?" opens="virgin"></div>
+<div class="tab" content="Attacked" opens="attacked"></div>
+<div class="tab" content="Love" opens="love"></div>
+<div class="tab" content="A Gift to Ken" opens="gift-to-ken"></div>
+<div class="tab" content="Pregnant" opens="pregnant"></div>
+<div class="tab" content="Confession" opens="confession"></div>
+<div class="tab" content="Marriage" opens="marriage"></div>
+<div class="tab" content="Defeated" opens="defeated"></div>
+<div class="tab" content="Dragon" opens="dragon"></div>
+<div class="tab" content="Blamed" opens="blamed"></div>
+<div class="tab" content="Ghouls and Humans" opens="ghouls-and-humans"></div>
+<div class="tab" content="The Search" opens="the-search"></div>
+<div class="tab" content="Found" opens="found2"></div>
+<div class="tab" content="Kaneki Recovers" opens="kaneki-recovers"></div>
+<div class="tab" content="To End the Bloodshed" opens="end-the-bloodshed"></div>
+<div class="tab" content="Dragon Defeated" opens="dragon-defeated"></div>
+<div class="tab" content="6 Years Later" opens="6-years"></div>
+<div class="tab" content="Ichika" opens="ichika"></div>
+<div class="tab" content="The End" opens="the-end"></div>
+ </div>
+ 
+ <div class="inmenu-tab" id="unexpected-reunion">
+ <div class="image" img="https://i.imgur.com/cjgHwJE.gif"></div>
+ <h2 class="header">Little Touka</h2>
+ <div class="scroller">
+ <p>
+ Type Here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="saving-shuu">
+ <div class="image" img="https://i.imgur.com/lA2jnGx.gif"></div>
+ <h2 class="header">The Kirishima Family</h2>
+ <div class="scroller">
+ <p>
+ Type Here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="save-hinami">
+ <div class="image" img="https://i.imgur.com/oK77Fuj.gif"></div>
+ <h2 class="header">Peck, peck!</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="leave-to-ken">
+ <div class="image" img="https://i.imgur.com/JLwEM0h.gif"></div>
+ <h2 class="header">Hunted, Chased, and Left for Dead</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="hinami-secured">
+ <div class="image" img="https://i.imgur.com/6OumflT.gif"></div>
+ <h2 class="header">Mysterious Old Man</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="goat">
+ <div class="image" img="https://i.imgur.com/9x4sMaT.gif"></div>
+ <h2 class="header">The Infamous Kirishima Twins from the 20th Ward</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="ccg-aggressive">
+ <div class="image" img="https://i.imgur.com/T1AsekV.gif"></div>
+ <h2 class="header">It's Time to Learn!</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="secret-revealed">
+ <div class="image" img="https://i.imgur.com/bjZYhCK.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="virgin">
+ <div class="image" img="https://i.imgur.com/GkXXaWc.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="attacked">
+ <div class="image" img="https://i.imgur.com/94xg7e7.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="love">
+ <div class="image" img="https://i.imgur.com/FAHczgq.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="gift-to-ken">
+ <div class="image" img="https://i.imgur.com/6z0xOof.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="pregnant">
+ <div class="image" img="https://i.imgur.com/PIKgiye.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div> 
+ <div class="inmenu-tab" id="confession">
+ <div class="image" img="https://i.imgur.com/8ETSYrS.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div> 
+ <div class="inmenu-tab" id="marriage">
+ <div class="image" img="https://i.imgur.com/CZnPVTW.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div> 
+ <div class="inmenu-tab" id="defeated">
+ <div class="image" img="https://i.imgur.com/mgeVzvG.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div> 
+ <div class="inmenu-tab" id="dragon">
+ <div class="image" img="https://i.imgur.com/gpX9TB2.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div> 
+ <div class="inmenu-tab" id="blamed">
+ <div class="image" img="https://i.imgur.com/i6L36w0.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="ghouls-and-humans">
+ <div class="image" img="https://i.imgur.com/UL2FDU0.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="the-search">
+ <div class="image" img="https://i.imgur.com/ftkg1KW.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="found2">
+ <div class="image" img="https://i.imgur.com/mLhqiiW.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="kaneki-recovers">
+ <div class="image" img="https://i.imgur.com/GqSzb3U.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="end-the-bloodshed">
+ <div class="image" img="https://i.imgur.com/02zDMs4.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="dragon-defeated">
+ <div class="image" img="https://i.imgur.com/5GViJbx.png"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="6-years">
+ <div class="image" img="https://i.imgur.com/9f75IGZ.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="ichika">
+ <div class="image" img="https://i.imgur.com/j6WJRqb.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="the-end">
+ <div class="image" img="https://i.imgur.com/tFw639p.gif"></div>
+ <h2 class="header">The Differences in the Twins Become Explosive to the point where this sucks.</h2>
+ <div class="scroller">
+ <p>
+Type here.
+ </p>
+ </div>
+ </div>
+ </div>
+ 
+ </div>
+ <!--
+ ================================
+ ----- BREAK -----
+ ================================
+ -->
+
+ <div class="submenu" id="submenu-rpc">
+ <div class="tabs">
+ <div class="tab" opens="layer-one" content="Tab One" details="details work here too"></div>
+ <div class="tab" opens="no-subtabs" content="No Subtabs"></div>
+ </div>
+ <div class="arrow back-to-main">Back</div>
+
+ <div class="layerTwo" id="layer-one">
+ <div class="tabs">
+ <div class="tabsHeader">Tab Group Header</div>
+ <div class="tab" content="Picture" opens="clickme"></div>
+ <div class="tab" content="Without Picture" opens="clickme2"></div>
+ </div>
+
+ <div class="inmenu-tab" id="clickme">
+ <div class="image"></div>
+ <h2 class="header">Click Me Header</h2>
+ <div class="scroller">
+ <p>
+ Make sure to put the image above the header otherwise it won't work.
+ </p>
+ <p>
+ Also make sure that the text inside 'header' is inside h2
+ </p>
+ <p>
+ The image you see right now is the default image that shows up if you do not have a set image on your element.
+ </p>
+ </div>
+ </div>
+
+ <div class="inmenu-tab" id="clickme2">
+ <h2 class="header">Click Me Header 2</h2>
+ <div class="scroller">
+ The header and image do not scroll.
+ </div>
+ </div>
+ </div>
+ 
+ <div class="inmenu-tab" id="no-subtabs">
+ <h2 class="header">Sample Header</h2>
+ <div class="scroller">
+ You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ </div>
+ </div>
+ </div>
+ 
+ <!--
+ ================================
+ ----- BREAK -----
+ ================================
+ -->
+
+ <div class="submenu" id="submenu-contacts">
+ <div class="tabs">
+ <div class="tab" opens="kaneki" content="Ken Kaneki"></div>
+ <div class="tab" opens="raven" content="Raven Branwen"></div>
+ <div class="tab" opens="yang" content="Yang Xiao Long"></div>
+ <div class="tab" opens="ichor" content="Ichor"></div>
+ <div class="tab" opens="kratos" content="Kratos"></div>
+ </div>
+ <div class="arrow back-to-main">Back</div>
+
+ <div class="inmenu-tab" id="kaneki">
+ <div class="image" img="https://i.imgur.com/7RtVB3f.jpg"></div>
+ <h2 class="header">Sample Header</h2>
+ <div class="scroller">
+ You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ </div>
+ </div>
+ <div class="inmenu-tab" id="raven">
+ <div class="image" img="https://i.imgur.com/eRQjQO9.jpg"></div>
+ <h2 class="header">Sample Header</h2>
+ <div class="scroller">
+ You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ </div>
+ </div>
+ <div class="inmenu-tab" id="yang">
+ <div class="image" img="https://64.media.tumblr.com/f22b91b862b37f4e57809da6dfcc2967/tumblr_ozzepm62bR1s846hwo1_500.gif"></div>
+ <h2 class="header">Sample Header</h2>
+ <div class="scroller">
+ You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ </div>
+ </div>
+ <div class="inmenu-tab" id="ichor">
+ <div class="image" img="https://i.imgur.com/2vYDmP7.gif"></div>
+ <h2 class="header">Sample Header</h2>
+ <div class="scroller">
+ You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ </div>
+ </div>
+ <div class="inmenu-tab" id="kratos">
+ <div class="image" img="https://i.imgur.com/5Q4Cbco.jpg"></div>
+ <h2 class="header">Sample Header</h2>
+ <div class="scroller">
+ You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ </div>
+ </div>
+ </div>
+ <!--
+ ========================
+ ----- SUBMENUS END -----
+ ========================
+ -->
+
+
+
+
+ <!-- audio controls and cues, don't touch -->
+ <div id="audioControls">
+ <div class="mute"></div>
+ <div class="unmute"></div>
+ <input type="range" id="volume" min="0" max="100" value="5">
+ </div>
+
+ <audio src="https://dl.dropbox.com/s/71rjd686ih33s9v/Touka-hover.mp3" class="hidden" id="hover-cue"></audio>
+ <audio src="https://dl.dropbox.com/s/fo1yc1lx5wa7g49/Touka-select.mp3" class="hidden" id="select-cue"></audio>
+ <audio loop src="https://dl.dropbox.com/s/3uv32wse8uyjcmf/Touka-mainmenu.mp3" class="hidden" id="main-menu"></audio>
+ <audio loop src="https://dl.dropbox.com/s/c1nl047pas206yc/Touka-submenu.mp3" class="hidden" id="submenu"></audio>
+
+ <!-- scripts | please do not touch -->
+<script src="https://themonstrousdev.github.io/scripts/libs/jquery.min.js"></script>
+<script src="https://themonstrousdev.github.io/profiles/Addons/king-commission.js"></script>
+ <!-- insert code from setting up step 2 in STEP 2 - USING YOUR CODE -->
+<script src="https://zanrolia.github.io/Touka/script.js"></script>
+ </body>
