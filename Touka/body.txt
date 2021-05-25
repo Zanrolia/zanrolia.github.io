@@ -406,28 +406,28 @@ The CCG (Coalition of Counter Ghouls. Or 'doves') have located Jason's whereabou
  
  <div class="inmenu-tab" id="kaneki-leaves">
  <div class="image" img="https://i.imgur.com/7tqUu2J.gif"></div>
- <h2 class="header">Little Touka</h2>
+ <h2 class="header">Kaneki Goes to Aogiri?!</h2>
  <div class="scroller">
  <p>
- Type Here.
+ Kaneki manages to break himself out of the hellish prison that Jason had put up for him, killing Jason in the process.  On his way out, he finds Touka beaten and worn by her brother and quickly intervenes to prevent her from being finished off.  She is taken to safety and proceeds to beat Ayato half to death, breaking exactly half of the bones in the male's body, silencing his screams with the phrase 'Does it hurt?  Though Touka went through more pain than this.'  Kaneki left Ayato alive due to him being the only family Touka had left.  Afterwards he told Touka that he will be not returning to Anteiku, apologized, and left a fumbling woman alone, the gal falling soon into depression once again, having lost yet another friend.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="the-recovery">
  <div class="image" img="https://i.imgur.com/wqmORwl.gif"></div>
- <h2 class="header">The Kirishima Family</h2>
+ <h2 class="header">6 Months Later</h2>
  <div class="scroller">
  <p>
- Type Here.
+ Time passes and Touka focuses on school.  With no more violence coming around, she is able to fully focus on studying to get good grades.  She plans to head to Kami University, a very difficult college to get into, requiring very high grades across the board.  She does not falter and studies hard to meet this goal.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="anteiku-reopens">
  <div class="image" img="https://i.imgur.com/yRr1Mta.gif"></div>
- <h2 class="header">Peck, peck!</h2>
+ <h2 class="header">With Peace Upheld, Anteiku Reopens</h2>
  <div class="scroller">
  <p>
- Type here.
+ Anteiku is able to reopen after a long time of peace.  The staff members gather and celebrate its reopening, glad that they're able to once again serve ghouls and humans alike within their little coffee shop of love.
  </p>
  </div>
  </div>
@@ -602,19 +602,19 @@ Type here.
  
  <div class="inmenu-tab" id="unexpected-reunion">
  <div class="image" img="https://i.imgur.com/cjgHwJE.gif"></div>
- <h2 class="header">Little Touka</h2>
+ <h2 class="header">2 Years Later</h2>
  <div class="scroller">
  <p>
- Type Here.
+  2 Years after the destruction of Anteiku, Touka sets up a new cafe shop called :re.  For these two years, life has been relatively peaceful.  Touka knew Kaneki wasn't dead, even when defeated at the hands of Arima, the CCG's strongest ghoul investigator, also known as 'The White Reaper'.  One day when working in :re, she comes across Kaneki once more, but this time as a different person altogether.  He was now known as Haise Sasaki.  With his memories completely erased, he has no memories of Anteiku or Touka, and she was aware of this.  It's been 2 years since she's last seen him, and she was forgotten.  She looks on at him, saddened by his fate.  However, it didn't matter.  It doesn't matter if he's changed appearance, it doesn't even matter if she's forgotten.  As long as he comes back home, then it's alright.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="saving-shuu">
  <div class="image" img="https://i.imgur.com/lA2jnGx.gif"></div>
- <h2 class="header">The Kirishima Family</h2>
+ <h2 class="header">Once and Enemy, now a Friend</h2>
  <div class="scroller">
  <p>
- Type Here.
+ Touka was fairly inactive in the first part of events from :re, but she did act when she was needed, such as saving Shuu.  Once an enemy, now an ally, as he helped defend what they all loved due to their mutual relationship with Kaneki.  As Haise left Shuu for dead, Touka and the rest of the :re staff come to rescue him for that death.  They take him back to the cafe and nurse him back to health.  As far as the doves understood, Shuu was now dead.  At least for the moment.
  </p>
  </div>
  </div>
