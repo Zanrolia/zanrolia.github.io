@@ -720,16 +720,16 @@ The day after, Touka's best friend, Yoriko, gets married to one of the friendly 
  </div> 
  <div class="inmenu-tab" id="confession">
  <div class="image" img="https://i.imgur.com/8ETSYrS.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">Touka Tells Kaneki She's Pregnant</h2>
  <div class="scroller">
  <p>
-Type here.
+ Due to Nishiki spying on Touka as she ate, Kaneki soon learns that indeed Touka was pregnant.  He rushed to the place she was staying at and tried to subtly as how she was feeling, though he was being rather terrible at it, upsetting her.  It was after she calmed down that she informed him that she's pregnant.  The male stared, before letting her know that he was very happy to hear that, a reply which shocked Touka.  "R-really?" she spoke, causing him to nod, and she became happy with his approval.
  </p>
  </div>
  </div> 
  <div class="inmenu-tab" id="marriage">
  <div class="image" img="https://i.imgur.com/CZnPVTW.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">Tying the Knot</h2>
  <div class="scroller">
  <p>
 Type here.
