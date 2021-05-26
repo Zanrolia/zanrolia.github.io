@@ -612,7 +612,7 @@ There are times where life seems not worth living.  But you have to remember tha
  </div>
  <div class="inmenu-tab" id="saving-shuu">
  <div class="image" img="https://i.imgur.com/lA2jnGx.gif"></div>
- <h2 class="header">Once and Enemy, now a Friend</h2>
+ <h2 class="header">Once an Enemy, now a Friend</h2>
  <div class="scroller">
  <p>
  Touka was fairly inactive in the first part of events from :re, but she did act when she was needed, such as saving Shuu.  Once an enemy, now an ally, as he helped defend what they all loved due to their mutual relationship with Kaneki.  As Haise left Shuu for dead, Touka and the rest of the :re staff come to rescue him for that death.  They take him back to the cafe and nurse him back to health.  As far as the doves understood, Shuu was now dead.  At least for the moment.
@@ -621,100 +621,100 @@ There are times where life seems not worth living.  But you have to remember tha
  </div>
  <div class="inmenu-tab" id="save-hinami">
  <div class="image" img="https://i.imgur.com/oK77Fuj.gif"></div>
- <h2 class="header">Peck, peck!</h2>
+ <h2 class="header">Hinami was Captured by the CCG</h2>
  <div class="scroller">
  <p>
- Type here.
+ She didn't understand why, but Hinami has been working with Ayato this whole time.  She seemed to be working with Aogiri.  She didn't understand, but she knew that Hinami was in trouble.  Aogiri invade the prison in an attempt to free a very powerful ghoul that has been locked away, and the crew at :re move to slip in during the chaos and try to free her.  In the way of Hinami was Arima, the White Reaper.  A very powerful foe that was the her father's killer.  Yomo was especially pissed off at this, and charged out to fight him.  With the sudden support fromm Ayato, the three attack Arima together.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="leave-to-ken">
- <div class="image" img="https://i.imgur.com/JLwEM0h.gif"></div>
- <h2 class="header">Hunted, Chased, and Left for Dead</h2>
+ <div class="image" img="https://i.imgur.com/jD5Wpid.gif"></div>
+ <h2 class="header">Kaneki is Back to Normal?!  Touka goes to find Hinami</h2>
  <div class="scroller">
  <p>
- Type here.
+ When things were looking bleak for the three against the powerful Arima, Kaneki steps in and prevents the finishing blow on Yomo.  Touka was surprised; he wasn't that Haise anymore, not only that, but he was much, much stronger.  Kaneki tells them to go get Hinami and get out of here.  Touka gave a smile and nodded, and she told Kaneki that she would see him soon, and then left.  These words stung Kaneki, hard.  Because he was fighting the White Reaper, the most powerful CCG member out there.  He planned on dying in this fight.  See him soon?  Did she even begin to understand those words?
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="hinami-secured">
  <div class="image" img="https://i.imgur.com/6OumflT.gif"></div>
- <h2 class="header">Mysterious Old Man</h2>
+ <h2 class="header">Touka was Glad to See her Old Friend Again</h2>
  <div class="scroller">
  <p>
- Type here.
+ Touka, having caught up with Himani, grips up her cheeks and calls her a screw up while smiling, then pulled her into one of the greatest hugs she ever made.  She quickly takes Hinami back home so that they can regroup.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="goat">
  <div class="image" img="https://i.imgur.com/9x4sMaT.gif"></div>
- <h2 class="header">The Infamous Kirishima Twins from the 20th Ward</h2>
+ <h2 class="header">Attempting to Bring Ghouls and Doves Together</h2>
  <div class="scroller">
  <p>
-Type here.
+Kaneki believes that there is a future where ghouls and humans can live together in peace.  He made friends during his time as Haise, due to him being a Dove back then when his memories were erased.  He called upon them, as well as the remnants of Aogiri to talk about working together to take down the new leader of the CCG, who was being very aggressive with ghoul killing, and this was getting in Kaneki's way.  Almost everyone refused to be a part of Goat, and because of it, Kaneki did not have the forces he was seeking to claim.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="ccg-aggressive">
  <div class="image" img="https://i.imgur.com/T1AsekV.gif"></div>
- <h2 class="header">It's Time to Learn!</h2>
+ <h2 class="header">CCG Turns Up the Heat</h2>
  <div class="scroller">
  <p>
-Type here.
+The new leader of the CCG was a man named Furata.  He was a merciless leader that lead the CCG into territories that the CCG didn't know about before and slaughtered thousands of ghouls, innocent and not.  The news terrified Touka a bit; how did this man know so much about the hiding places of ghouls?  It didn't make sense.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="secret-revealed">
  <div class="image" img="https://i.imgur.com/bjZYhCK.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">'I killed your father'</h2>
  <div class="scroller">
  <p>
-Type here.
+ One of the CCG people that did team up with Kaneki was known as Akira Mado.  A woman that had mourned Kureo's death at the hands of 'The Rabbit'.  Since they were allies now, she decided to release the tension.  She dragged Akira out of bed and informed her that she was the rabbit, and she was the one that killed her father.  Akira loathed Touka for this.  "That's one hell of a thing to drag a sick woman out of bed to say to." Touka informs her that she only did it because he was after Hinami, though the hatred for Touka was strong, seeing Hinami going up to Akira and telling her that she forgave her father for killing Hinami's parents.. it drove down the rage just a bit.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="virgin">
  <div class="image" img="https://i.imgur.com/GkXXaWc.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">'You know.. I could help you with that'</h2>
  <div class="scroller">
  <p>
-Type here.
+ Back at :re, Kaneki and Touka enjoy the break they've been needing.  Turns out he killed Arima and became this mythical title all of the ghouls are calling him now: 'The One-Eyed King'.  Since he was finally back, she couldn't help but bring up a question that was bothering her.  "Are you.. a virgin?" It completely caught him off guard.  To which after he recovers, she tells him that she could help him with his virgin problem.  She explained to a dumbstruck Kaneki that she always noticed that during his visits while he was Haise that she caught his glances towards her.  And then informed him that she was surprised that he didn't see her.. taking glances back.  A seemingly romantic moment began to fill the area between the two.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="attacked">
  <div class="image" img="https://i.imgur.com/94xg7e7.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">'Die, You Thieving Tramp!'</h2>
  <div class="scroller">
  <p>
-Type here.
+ A mysterious eyepatched woman comes into her cafe shop, who was seemingly one of Kaneki's teammates.  Shoving Kaneki to the side, she openly attacks Touka, setting fire to her coffee shop.  She attempts to hold back to the angry ghoul investigator, being told that she stole Kaneki from her?  What in the world was that supposed to mean?  Kaneki manages to thwart off Mutsuki and grabs Touka, taking her to safety.  Unfortunate that :re had to crash and burn.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="love">
  <div class="image" img="https://i.imgur.com/FAHczgq.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">Love Sparks in the Kirishima</h2>
  <div class="scroller">
  <p>
-Type here.
+ Once out of the clutches of the CCG, the two are able to have a moment to themselves.  Touka, still bent on helping his virginity, begins to show affection for Kaneki, and eventually ends up stripping.  He follows, and the two enjoy themselves on the cold floor of an abandoned building in the middle of the night.  Virginity-begone.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="gift-to-ken">
  <div class="image" img="https://i.imgur.com/6z0xOof.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">'This is imporant to me, so I want you to have it.'</h2>
  <div class="scroller">
  <p>
-Type here.
+The day after, Touka's best friend, Yoriko, gets married to one of the friendly Doves that had joined Goat, and her and Kaneki attend the wedding at a distance.  The two stayed in silence for a while to take in the moment, and then Touka presents a ring that her father wore during his time married to her mother.  She gifted it to him, telling him that it was a precious item and she wanted him to have it.  He took it gladly, saying he will always remember her whenever he sees it.
  </p>
  </div>
  </div>
  <div class="inmenu-tab" id="pregnant">
  <div class="image" img="https://i.imgur.com/PIKgiye.gif"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
+ <h2 class="header">Eating Human Food to Nurse the Baby</h2>
  <div class="scroller">
  <p>
-Type here.
+ It seemed Kaneki had a weak pullout game.  Or Touka loved the hot feeling of cum inside of her.  Either way, Touka now carried a half-human, half-ghoul baby inside of her.  It was known that a ghoul and a human cannot breed very well together, that the chance of the baby's survival is less than 10%.  On top of this, for the baby to get nurishment, she is forced to eat human food; the poison for ghouls.  Eating human food is disgusting and dangerous for a ghoul, but for the child, it was necessary.  With great hesitation, she builds up the courage to eat, putting her health at risk for her baby.
  </p>
  </div>
  </div> 
