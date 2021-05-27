@@ -912,7 +912,7 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="tab" opens="yang" content="Yang Xiao Long"></div>
  <div class="tab" opens="ichor" content="Ichor"></div>
  <div class="tab" opens="kratos" content="Kratos"></div>
- <div class="tab" opens="hinemo" content="Hinemo"></div>
+ <div class="tab" opens="himeno" content="Hinemo"></div>
  <div class="tab" opens="constanze" content="Constanze"></div>
  <div class="tab" opens=
  <div class="tab" opens=
@@ -923,14 +923,14 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="image" img="https://i.imgur.com/7RtVB3f.jpg"></div>
  <h2 class="header">The One-Eyed King</h2>
  <div class="scroller">
- You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Kaneki" title="" target="_blank">Ken Kaneki</a>.  Her first, and current mate.  Once a mesely bookworm who couldn't even go near a woman without blushing, now a legend amongst all ghouls.  There isn't a single ghoul out there that doesn't know about this man.  He is Touka's wingman, aiding her through the thick and the thin, and Touka could find no greater person out there, ghoul or human.
  </div>
  </div>
  <div class="inmenu-tab" id="raven">
  <div class="image" img="https://i.imgur.com/eRQjQO9.jpg"></div>
- <h2 class="header">Sample Header</h2>
+ <h2 class="header">Bandit Leader</h2>
  <div class="scroller">
- You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Raven%20Branwen" title="" target="_blank">Raven Branwen</a>.  The second person she ever fell in love with.  Despite the way she treated others around her, she was very caring, and held dark secrets that only Touka knows about.  They lived together for a long time in Remnant, and one day she left, with no reason or even a goodbye.  To this day Touka still misses Raven, wondering what happened to her.
  </div>
  </div>
  <div class="inmenu-tab" id="yang">
@@ -942,37 +942,32 @@ With a second child on the way, the three move to walk along their land, looking
  </div>
  <div class="inmenu-tab" id="ichor">
  <div class="image" img="https://i.imgur.com/2vYDmP7.gif"></div>
- <h2 class="header">Sample Header</h2>
+ <h2 class="header">Blood Master</h2>
  <div class="scroller">
- You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Miss%20Ichor" title="" target="_blank">Ichor</a>.  An absolute brat, and a master of blood bending, it seemed.  She's around more to piss off Touka than anything, making her kagune and kakuho randomly activate just to tease her.  When not being a complete bitch, she is quite lovable.
  </div>
  </div>
  <div class="inmenu-tab" id="kratos">
  <div class="image" img="https://i.imgur.com/5Q4Cbco.jpg"></div>
- <h2 class="header">Sample Header</h2>
+ <h2 class="header">The God of War</h2>
  <div class="scroller">
- You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Allfather%20Kratos" title="" target="_blank">Kratos</a>  Once known as the God of War, Kratos is a man with decades of experience under his belt, and plenty of weapons to come with it.  He has a son, who has grown up and moved on in the world.  He doesn't seem to have a goal in mind, but he does help Touka with weapon training, as she knows next to nothing with it.  He won't admit it, but he's also very kind and caring.  Just don't call himm 'allfather' to his face.
  </div>
  </div>
- <div class="inmenu-tab" id="hinemo">
+ <div class="inmenu-tab" id="himeno">
  <div class="image" img="https://i.imgur.com/7RtVB3f.jpg"></div>
- <h2 class="header">The One-Eyed King</h2>
+ <h2 class="header">Stubborn :re Staff</h2>
  <div class="scroller">
- You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Himeno" title="" target="_blank">Himeno</a>.  A government agent, now turned into :re staff!  This woman has always known how to kill people, but throw her into a building full of hungry customers?  The girl's completely lost.  Good thing her -boss- is there to help her out.  One coffee stain at a time.
  </div>
  </div>
  <div class="inmenu-tab" id="constanze">
- <div class="image" img="https://i.imgur.com/7RtVB3f.jpg"></div>
- <h2 class="header">The One-Eyed King</h2>
+ <div class="image" img="https://i.imgur.com/yuM5XkF.gif"></div>
+ <h2 class="header">Mechanic Master</h2>
  <div class="scroller">
- You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Constanze" title="" target="_blank">Constanze</a>.  She's not very affectionate and she doesn't seem to care much for social interactions, but that's alright.  Regardless of the rare moments they have together, she is happy to spend her time with Constanze.  Constanze is a caring individual, always using her knowledge of machinery to help others, and learn more about machines in the process.
  </div>
  </div>
- <div class="inmenu-tab" id="constanze">
- <div class="image" img="https://i.imgur.com/7RtVB3f.jpg"></div>
- <h2 class="header">The One-Eyed King</h2>
- <div class="scroller">
- You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
  <!--
  ========================
  ----- SUBMENUS END -----
