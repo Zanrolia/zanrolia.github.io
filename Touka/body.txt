@@ -931,9 +931,9 @@ With a second child on the way, the three move to walk along their land, looking
  </div>
  <div class="inmenu-tab" id="yang">
  <div class="image" img="https://64.media.tumblr.com/f22b91b862b37f4e57809da6dfcc2967/tumblr_ozzepm62bR1s846hwo1_500.gif"></div>
- <h2 class="header">Sample Header</h2>
+ <h2 class="header">The Flaming Brawler</h2>
  <div class="scroller">
- You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Gilded+Fury" title="" target="_blank">Yang Xiao Long</a>.  A woman with a passion for fighting, but an even bigger passion for protecting her friends.  In a way, she kind of reminds her of herself.  She's just as affectionate as she is enthusiastic.  She can't help but wonder how Yang would fight when she was angry.  Again, reminds her of herself.
  </div>
  </div>
  <div class="inmenu-tab" id="ichor">
