@@ -35,8 +35,7 @@
  <div class="tabs">
  <div class="tab" opens="rules" content="Rules" details="Reading these will help you navigate more pleasurably."></div>
  <div class="tab" opens="submenu-character" content="The Character" details="A brief summary of Touka Kirishima, the character whom you are viewing!"></div>
- <div class="tab" opens="submenu-storycanon" content="Story (Canon)" details="Retells the events of Touka's story from Tokyo Ghoul and Tokyo Ghoul:re. (Warning, MASSIVE spoilers ahead!)"></div>
- <div class="tab" opens="submenu-rpc" content="Story (RPC)" details="Tells the events that have occurred in after the conclusion of Tokyo Ghoul:re. (Spoilers aren't as big for this one)"></div>
+ <div class="tab" opens="submenu-story" content="Story" details="Retells the events of Touka's story from Tokyo Ghoul and Tokyo Ghoul:re. (Warning, MASSIVE spoilers ahead!)"></div>
  <div class="tab" opens="submenu-contacts" content="Contact List" details="The list of fellow roleplayers who have made a special place in Touka's heart."></div>
  <div class="tab" opens="submenu-template" content="Gallery" details="A list of my favorite pieces of art for Touka will go here."></div>
  <div class="tab" opens="menu-template" content="OOC" details="Stuff you should know about the writer."></div>
@@ -148,12 +147,13 @@
  ================================
  -->
 
- <div class="submenu" id="submenu-storycanon">
+ <div class="submenu" id="submenu-story">
  <div class="tabs">
  <div class="tab" opens="layer-one" content="The Past" details="Touka's story before the main plot begins."></div>
  <div class="tab" opens="layer-two" content="Tokyo Ghoul (S1)" details="The beginning of the main story."></div>
  <div class="tab" opens="layer-three" content="Tokyo Ghoul (S2)" details="The middle of the story."></div>
  <div class="tab" opens="layer-four" content="Tokyo Ghoul:re" details="The ending of Touka's story."></div>
+ <div class="tab" opens="layer-five" content="RPC" details="The ending of Touka's story."></div>
  </div>
  <div class="arrow back-to-main">Back</div>
 
@@ -259,7 +259,7 @@ After a long while of attending school, Touka comes to enjoy the presence of hum
  <div class="tab" content="A Friend Dies" opens="friend-dies"></div>
  <div class="tab" content="Vengeance" opens="vengeance"></div>
  <div class="tab" content="Trapped" opens="trapped"></div>
- <div class="tab" content="Kaneki Kidnapped" opens="kidnapped"></div>
+ <div class="tab" content="Kaneki Kidnapped" opens="kaneki-kidnapped"></div>
  <div class="tab" content="The Rescue" opens="rescue"></div>
  </div>
 
@@ -362,7 +362,7 @@ Touka, still recovering from her injury, was attempting to set up a trap for Mad
  </p>
  </div>
  </div>
- <div class="inmenu-tab" id="kidnapped">
+ <div class="inmenu-tab" id="kaneki-kidnapped">
  <div class="image" img="https://i.imgur.com/TTi7kFV.gif"></div>
  <h2 class="header">Ayato Works For the Enemy</h2>
  <div class="scroller">
@@ -845,58 +845,105 @@ With a second child on the way, the three move to walk along their land, looking
  </div>
  </div>
  </div>
+   
+   <div class="layerTwo" id="layer-five">
+ <div class="tabs">
+ <div class="tabsHeader">RPC</div>
+ <div class="tab" content="Where the canon ends" opens="canon-ends"></div>
+ <div class="tab" content="Kiri Cafe" opens="kiri-cafe"></div>
+ <div class="tab" content="A curious portal" opens="curious-portal"></div>
+ <div class="tab" content="Fight and Fuck: Grand Colosseum" opens="fnf"></div>
+ <div class="tab" content="Living in Remnant" opens="remnant"></div>
+ <div class="tab" content="Kidnapped" opens="kidnapped"></div>
+ <div class="tab" content="Cinder and Jason's Plan" opens="cinder-jason"></div>
+ <div class="tab" content="Kaneki?!" opens="kanekirpc"></div>
+ <div class="tab" content="Kakuja" opens="kakuja"></div>
  
  </div>
- <!--
- ================================
- ----- BREAK -----
- ================================
- -->
 
- <div class="submenu" id="submenu-rpc">
- <div class="tabs">
- <div class="tab" opens="layer-one" content="Tab One" details="details work here too"></div>
- <div class="tab" opens="no-subtabs" content="No Subtabs"></div>
+ <div class="inmenu-tab" id="canon-ends">
+ <div class="image" img="https://i.imgur.com/d1l9NlW.png"></div>
+ <h2 class="header">Little Touka</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
  </div>
- <div class="arrow back-to-main">Back</div>
-
- <div class="layerTwo" id="layer-one">
- <div class="tabs">
- <div class="tabsHeader">Tab Group Header</div>
- <div class="tab" content="Picture" opens="clickme"></div>
- <div class="tab" content="Without Picture" opens="clickme2"></div>
  </div>
-
- <div class="inmenu-tab" id="clickme">
+     <div class="inmenu-tab" id="kiri-cafe">
  <div class="image"></div>
- <h2 class="header">Click Me Header</h2>
+ <h2 class="header">Little Touka</h2>
  <div class="scroller">
  <p>
- Make sure to put the image above the header otherwise it won't work.
- </p>
- <p>
- Also make sure that the text inside 'header' is inside h2
- </p>
- <p>
- The image you see right now is the default image that shows up if you do not have a set image on your element.
+ Type here.
  </p>
  </div>
  </div>
-
- <div class="inmenu-tab" id="clickme2">
- <h2 class="header">Click Me Header 2</h2>
+     <div class="inmenu-tab" id="curious-portal">
+ <div class="image"></div>
+ <h2 class="header">Little Touka</h2>
  <div class="scroller">
- The header and image do not scroll.
+ <p>
+ Type here.
+ </p>
  </div>
  </div>
+     <div class="inmenu-tab" id="fnf">
+ <div class="image"></div>
+ <h2 class="header">Little Touka</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
  </div>
+ </div>
+   <div class="inmenu-tab" id="remnant">
+ <div class="image" img="https://i.imgur.com/o13IoLZ.png"></div>
+ <h2 class="header">Little Touka</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
+ </div>
+ </div>
+   <div class="inmenu-tab" id="kidnapped">
+ <div class="image"></div>
+ <h2 class="header">Little Touka</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
+ </div>
+ </div>
+   <div class="inmenu-tab" id="cinder-jason">
+ <div class="image"></div>
+ <h2 class="header">Little Touka</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
+ </div>
+ </div>
+     <div class="inmenu-tab" id="kanekirpc">
+ <div class="image"></div>
+ <h2 class="header">Little Touka</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
+ </div>
+ </div>
+     <div class="inmenu-tab" id="kakuja">
+ <div class="image"></div>
+ <h2 class="header">Little Touka</h2>
+ <div class="scroller">
+ <p>
+ Type here.
+ </p>
+ </div>
+ </div>
+</div>
  
- <div class="inmenu-tab" id="no-subtabs">
- <h2 class="header">Sample Header</h2>
- <div class="scroller">
- You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
- </div>
- </div>
  </div>
  
  <!--
@@ -914,8 +961,6 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="tab" opens="kratos" content="Kratos"></div>
  <div class="tab" opens="himeno" content="Hinemo"></div>
  <div class="tab" opens="constanze" content="Constanze"></div>
- <div class="tab" opens=
- <div class="tab" opens=
  </div>
  <div class="arrow back-to-main">Back</div>
 
