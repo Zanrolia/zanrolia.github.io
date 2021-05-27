@@ -912,12 +912,16 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="tab" opens="yang" content="Yang Xiao Long"></div>
  <div class="tab" opens="ichor" content="Ichor"></div>
  <div class="tab" opens="kratos" content="Kratos"></div>
+ <div class="tab" opens="hinemo" content="Hinemo"></div>
+ <div class="tab" opens="constanze" content="Constanze"></div>
+ <div class="tab" opens=
+ <div class="tab" opens=
  </div>
  <div class="arrow back-to-main">Back</div>
 
  <div class="inmenu-tab" id="kaneki">
  <div class="image" img="https://i.imgur.com/7RtVB3f.jpg"></div>
- <h2 class="header">Sample Header</h2>
+ <h2 class="header">The One-Eyed King</h2>
  <div class="scroller">
  You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
  </div>
@@ -933,7 +937,7 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="image" img="https://i.imgur.com/yxvSzIY.gif"></div>
  <h2 class="header">The Flaming Brawler</h2>
  <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Gilded+Fury" title="" target="_blank">Yang Xiao Long</a>.  A woman with a passion for fighting, but an even bigger passion for protecting her friends.  In a way, she kind of reminds her of herself.  She's just as affectionate as she is enthusiastic.  She can't help but wonder how Yang would fight when she was angry.  Again, reminds her of herself.
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Gilded+Fury" title="" target="_blank">Yang Xiao Long</a>.  A woman with a passion for fighting, but an even bigger passion for protecting her friends.  In a way, she kind of reminds Touka of herself.  She's just as affectionate as she is enthusiastic.  She can't help but wonder how Yang would fight when she was angry.  Again, reminds her of herself.
  </div>
  </div>
  <div class="inmenu-tab" id="ichor">
@@ -950,7 +954,25 @@ With a second child on the way, the three move to walk along their land, looking
  You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
  </div>
  </div>
+ <div class="inmenu-tab" id="hinemo">
+ <div class="image" img="https://i.imgur.com/7RtVB3f.jpg"></div>
+ <h2 class="header">The One-Eyed King</h2>
+ <div class="scroller">
+ You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
  </div>
+ </div>
+ <div class="inmenu-tab" id="constanze">
+ <div class="image" img="https://i.imgur.com/7RtVB3f.jpg"></div>
+ <h2 class="header">The One-Eyed King</h2>
+ <div class="scroller">
+ You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
+ </div>
+ </div>
+ <div class="inmenu-tab" id="constanze">
+ <div class="image" img="https://i.imgur.com/7RtVB3f.jpg"></div>
+ <h2 class="header">The One-Eyed King</h2>
+ <div class="scroller">
+ You can also have a submenu tab that doesn't open up another set of tabs. This can also contain an image.
  <!--
  ========================
  ----- SUBMENUS END -----
