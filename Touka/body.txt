@@ -965,7 +965,7 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="arrow back-to-main">Back</div>
 
  <div class="inmenu-tab" id="kaneki">
- <div class="image" img="https://i.imgur.com/7RtVB3f.jpg"></div>
+ <div class="image" img="https://i.imgur.com/8rbcgIG.gif"></div>
  <h2 class="header">The One-Eyed King</h2>
  <div class="scroller">
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Kaneki" title="" target="_blank">Ken Kaneki</a>.  Her first, and current mate.  Once a mesely bookworm who couldn't even go near a woman without blushing, now a legend amongst all ghouls.  There isn't a single ghoul out there that doesn't know about this man.  He is Touka's wingman, aiding her through the thick and the thin, and Touka could find no greater person out there, ghoul or human.
@@ -986,7 +986,7 @@ With a second child on the way, the three move to walk along their land, looking
  </div>
  </div>
  <div class="inmenu-tab" id="ichor">
- <div class="image" img="https://i.imgur.com/2vYDmP7.gif"></div>
+ <div class="image" img="https://i.imgur.com/WBGXEFl.gif"></div>
  <h2 class="header">Blood Master</h2>
  <div class="scroller">
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Miss%20Ichor" title="" target="_blank">Ichor</a>.  An absolute brat, and a master of blood bending, it seemed.  She's around more to piss off Touka than anything, making her kagune and kakuho randomly activate just to tease her.  When not being a complete bitch, she is quite lovable.
@@ -996,11 +996,11 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="image" img="https://i.imgur.com/5Q4Cbco.jpg"></div>
  <h2 class="header">The God of War</h2>
  <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Allfather%20Kratos" title="" target="_blank">Kratos</a>  Once known as the God of War, Kratos is a man with decades of experience under his belt, and plenty of weapons to come with it.  He has a son, who has grown up and moved on in the world.  He doesn't seem to have a goal in mind, but he does help Touka with weapon training, as she knows next to nothing with it.  He won't admit it, but he's also very kind and caring.  Just don't call himm 'allfather' to his face.
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Allfather%20Kratos" title="" target="_blank">Kratos</a>  Once known as the God of War, Kratos is a man with decades of experience under his belt, and plenty of weapons to come with it.  He has a son, who has grown up and moved on in the world.  He doesn't seem to have a goal in mind, but he does help Touka with weapon training, as she knows next to nothing with it.  He won't admit it, but he's also very kind and caring.  Just don't call him 'allfather' to his face.
  </div>
  </div>
  <div class="inmenu-tab" id="himeno">
- <div class="image" img="https://i.imgur.com/7RtVB3f.jpg"></div>
+ <div class="image" img="https://i.imgur.com/eZKQ3La.png"></div>
  <h2 class="header">Stubborn :re Staff</h2>
  <div class="scroller">
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Himeno" title="" target="_blank">Himeno</a>.  A government agent, now turned into :re staff!  This woman has always known how to kill people, but throw her into a building full of hungry customers?  The girl's completely lost.  Good thing her -boss- is there to help her out.  One coffee stain at a time.
