@@ -73,7 +73,7 @@
  <div class="image" img="https://i.pinimg.com/originals/7e/35/68/7e3568a7bfa7aef70ffdcbfa15c2ef17.jpg"></div>
  <h2 class="header">Image Tab Template</h2>
  <div class="scroller">
- Follow this format for a tab with an image.
+ If it wasn't obvious, I am a huge Tokyo Ghoul fan.  I'm read through most of the manga and I have seen the anime many times.  It's just that each time I watch that first episode, it's.. just so magical.  A lame way to describe it, I know.  But it's how I see it.  I'm up for chatting with random people most of the time (unless I got a find rp up, then I am looking for rp) and just like everyone else on this site, I game!  Feel free to let me know if you have any desires to game.  Don't forget the golden rule, everyone.  Be nice.~
  </div>
  </div>
  <!--
@@ -153,7 +153,7 @@
  <div class="tab" opens="layer-two" content="Tokyo Ghoul (S1)" details="The beginning of the main story."></div>
  <div class="tab" opens="layer-three" content="Tokyo Ghoul (S2)" details="The middle of the story."></div>
  <div class="tab" opens="layer-four" content="Tokyo Ghoul:re" details="The ending of Touka's story."></div>
- <div class="tab" opens="layer-five" content="RPC" details="The ending of Touka's story."></div>
+ <div class="tab" opens="layer-five" content="RPC" details="The story after the ending."></div>
  </div>
  <div class="arrow back-to-main">Back</div>
 
@@ -863,7 +863,7 @@ With a second child on the way, the three move to walk along their land, looking
 
  <div class="inmenu-tab" id="canon-ends">
  <div class="image" img="https://i.imgur.com/d1l9NlW.png"></div>
- <h2 class="header">Little Touka</h2>
+ <h2 class="header">Where the Story Ends and the Roleplay Begins!</h2>
  <div class="scroller">
  <p>
  Type here.
@@ -961,6 +961,7 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="tab" opens="kratos" content="Kratos"></div>
  <div class="tab" opens="himeno" content="Hinemo"></div>
  <div class="tab" opens="constanze" content="Constanze"></div>
+ <div class="tab" opens="elizabeth" content="Elizabeth"></div>
  </div>
  <div class="arrow back-to-main">Back</div>
 
@@ -1011,6 +1012,13 @@ With a second child on the way, the three move to walk along their land, looking
  <h2 class="header">Mechanic Master</h2>
  <div class="scroller">
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Constanze" title="" target="_blank">Constanze</a>.  She's not very affectionate and she doesn't seem to care much for social interactions, but that's alright.  Regardless of the rare moments they have together, she is happy to spend her time with Constanze.  Constanze is a caring individual, always using her knowledge of machinery to help others, and learn more about machines in the process.
+ </div>
+ </div>
+ <div class="inmenu-tab" id="elizabeth">
+ <div class="image" img="https://i.imgur.com/j2bKRTX.gif"></div>
+ <h2 class="header">Lovable Bunble of Joy</h2>
+ <div class="scroller">
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Elizabeth+Liones" title="" target="_blank">Elizabeth</a>.  A very seemingly shy individual who gets emotional at a moment's notice.  Her tendency to cry is quite high.. For the sake of her health, she needs to get a little bit of an iron will!  But until then, she's alright with how Elizbaeth is.  She is lovable, caring, and easy to tease.  Qualities Touka herself don't want to have changed anytime soon.  She's the closest Touka has seen to a genuine angel.  She's also got some nice tits-- But uh.  Don't tell her I said that.~
  </div>
  </div>
  <!--
