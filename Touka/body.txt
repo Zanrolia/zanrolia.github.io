@@ -1021,6 +1021,7 @@ With a second child on the way, the three move to walk along their land, looking
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Elizabeth+Liones" title="" target="_blank">Elizabeth</a>.  A very seemingly shy individual who gets emotional at a moment's notice.  Her tendency to cry is quite high.. For the sake of her health, she needs to get a little bit of an iron will!  But until then, she's alright with how Elizbaeth is.  She is lovable, caring, and easy to tease.  Qualities Touka herself don't want to have changed anytime soon.  She's the closest Touka has seen to a genuine angel.  She's also got some nice tits-- But uh.  Don't tell her I said that.~
  </div>
  </div>
+ </div>
  <!--
  ========================
  ----- SUBMENUS END -----
@@ -1031,6 +1032,9 @@ With a second child on the way, the three move to walk along their land, looking
 
 
  <!-- audio controls and cues, don't touch -->
+ </div>
+ </div>
+ </div>
  <div id="audioControls">
  <div class="mute"></div>
  <div class="unmute"></div>
