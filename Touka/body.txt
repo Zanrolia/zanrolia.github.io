@@ -962,6 +962,7 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="tab" opens="himeno" content="Hinemo"></div>
  <div class="tab" opens="constanze" content="Constanze"></div>
  <div class="tab" opens="elizabeth" content="Elizabeth"></div>
+ <div class="tab" opens="rize" content="Rize"></div>
  </div>
  <div class="arrow back-to-main">Back</div>
 
@@ -1019,6 +1020,13 @@ With a second child on the way, the three move to walk along their land, looking
  <h2 class="header">Lovable Bunble of Joy</h2>
  <div class="scroller">
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Elizabeth+Liones" title="" target="_blank">Elizabeth</a>.  A very seemingly shy individual who gets emotional at a moment's notice.  Her tendency to cry is quite high.. For the sake of her health, she needs to get a little bit of an iron will!  But until then, she's alright with how Elizbaeth is.  She is lovable, caring, and easy to tease.  Qualities Touka herself don't want to have changed anytime soon.  She's the closest Touka has seen to a genuine angel.  She's also got some nice tits-- But uh.  Don't tell her I said that.~
+ </div>
+ </div>
+ <div class="inmenu-tab" id="rize">
+ <div class="image" img="https://i.imgur.com/7fQbksV.gif"></div>
+ <h2 class="header">The Territorial Binge Eater</h2>
+ <div class="scroller">
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Rize%20the%20Binge%20Eater" title="" target="_blank">Rize</a>.  A false damsel.  I've seen her drag many lives into the alley to be eaten and left to rot.  A binge eater, who eats for fun and leaves quite a massive mess.  Want my advice?  Stay far away from her.  She had a nasty habit of hunting customers at Anteiku and it was pretty annoying losing customers.  Ever try to have a conversation with her?  If you live to tell the tale, tell me how it goes.
  </div>
  </div>
  </div>
