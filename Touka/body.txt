@@ -101,6 +101,7 @@
  <div class="tabs">
  <div class="tab" opens="summary" content="Summary"></div>
  <div class="tab" opens="personality" content="Personality"></div>
+ <div class="tab" opens="mate" content="Love Interest"
  <div class="tab" opens="ghoul" content="What is a ghoul?"></div>
  <div class="tab" opens="gender" content="Gender"></div>
  <div class="tab" opens="sexual-orientation" content="Sexual Orientation"></div>
@@ -119,7 +120,14 @@
  <div class="image" img="https://i.pinimg.com/originals/79/d2/34/79d234b2d33a5596f9400c6aa3c916d4.gif"></div>
  <h2 class="header">The Coffee Master Bluette</h2>
  <div class="scroller">
- Touka Kirishima is a ghoul, and one of the last survivors of the Kirishima bloodline. Through her passion for coffee, she strove to survive in the harsh world of Tokyo, eventually becoming a strong and loving person, despite her dark, tragic past. She owns a cafe in Japan known as ':re', and owns a cafe brand known as 'Kiri Cafe' that has spread its way into the Americas and still growing. Touka is an 'Ukaku' ghoul, which is a ghoul that excels in speed, landing in precise, lightning fast and deadly attacks, with a blaring weakness of low stamina. Ukaku are ranged, and not very effective up close, as they are usually very fragile, so they do their best to keep their distance.
+ Touka Kirishima is a ghoul, and one of the last survivors of the Kirishima bloodline. Through her passion for coffee, she strove to survive in the harsh world of Tokyo, eventually becoming a strong and loving person, despite her dark, tragic past. She owns a cafe in Japan known as ':re', and owns a cafe brand known as 'Kiri Cafe' that has spread its way into the Americas and still growing.  She gains friends and allies everyday to fill the life of a cafe girl.
+ </div>
+ </div>
+  <div class="inmenu-tab" id="mate">
+ <div class="image" img="https://i.imgur.com/zkFbRAx.gif"></div>
+ <h2 class="header">Once Law Enforcement, Now a Demon of the Night</h2>
+ <div class="scroller">
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Seras%20Viktoria" title="" target="_blank">Seras Victoria</a> was apparently once a vampire.  Vampires don't exist in Tokyo, but Touka knows about them through stories and video games.  While they had a bit of a rocky start, she soon got into the idea of a vampire and a ghoul being together.  While they just started, she is eager to learn more about this cannon-wielding bombshell of a blonde.
  </div>
  </div>
  <div class="inmenu-tab" id="personality">
@@ -986,7 +994,7 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="image" img="https://i.imgur.com/8rbcgIG.gif"></div>
  <h2 class="header">The One-Eyed King</h2>
  <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Kaneki" title="" target="_blank">Ken Kaneki</a>.  Her first, and current mate.  Once a mesely bookworm who couldn't even go near a woman without blushing, now a legend amongst all ghouls.  There isn't a single ghoul out there that doesn't know about this man.  He is Touka's wingman, aiding her through the thick and the thin, and Touka could find no greater person out there, ghoul or human.
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Kaneki" title="" target="_blank">Ken Kaneki</a>.  Her first mate.  Once a mesely bookworm who couldn't even go near a woman without blushing, now a legend amongst all ghouls.  There isn't a single ghoul out there that doesn't know about this man.  He is Touka's wingman, aiding her through the thick and the thin, and Touka could find no greater person out there, ghoul or human.  He is the father of her currently only child, Ichika.
  </div>
  </div>
  <div class="inmenu-tab" id="raven">
