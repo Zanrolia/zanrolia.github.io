@@ -124,10 +124,10 @@
  </div>
  </div>
   <div class="inmenu-tab" id="mate">
- <div class="image" img="https://i.imgur.com/CP2gXCc.gif"></div>
- <h2 class="header">Single</h2>
+ <div class="image" img="https://i.imgur.com/zkFbRAx.gif"></div>
+ <h2 class="header">Once Law Enforcement, Now a Demon of the Night</h2>
  <div class="scroller">
- Sometimes, it just doesn't work out.
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Seras%20Viktoria" title="" target="_blank">Seras Victoria</a> was apparently once a vampire.  Vampires don't exist in Tokyo, but Touka knows about them through stories and video games.  While they had a bit of a rocky start, she soon got into the idea of a vampire and a ghoul being together.  While they just started, she is eager to learn more about this cannon-wielding bombshell of a blonde.
  </div>
  </div>
  <div class="inmenu-tab" id="personality">
