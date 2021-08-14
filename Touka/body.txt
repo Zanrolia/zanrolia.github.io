@@ -987,6 +987,7 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="tab" opens="constanze" content="Constanze"></div>
  <div class="tab" opens="elizabeth" content="Elizabeth"></div>
  <div class="tab" opens="rize" content="Rize"></div>
+ <div class="tab" opens="ichigo" content="Ichigo"></div>
  </div>
  <div class="arrow back-to-main">Back</div>
 
@@ -1053,6 +1054,11 @@ With a second child on the way, the three move to walk along their land, looking
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Rize%20the%20Binge%20Eater" title="" target="_blank">Rize</a>.  A false damsel.  I've seen her drag many lives into the alley to be eaten and left to rot.  A binge eater, who eats for fun and leaves quite a massive mess.  Want my advice?  Stay far away from her.  She had a nasty habit of hunting customers at Anteiku and it was pretty annoying losing customers.  Ever try to have a conversation with her?  If you live to tell the tale, tell me how it goes.
  </div>
  </div>
+ <div class="inmenu-tab" id="ichigo">
+ <div class="image" img="https://i.imgur.com/2qzHfag.gif"></div>
+ <h2 class="header">Multi-form Wonder</h2>
+ <div class="scroller">
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Killer+Strawberry" title="" target="_blank">Ichigo Kurosaki</a>.  A shinigami.  Or what most call, a 'Soul Reaper'.  This man guides souls to their destination, and he is very powerful.  I'm starting to think he has more transformations than Kaneki, and I think that's a little frightening.  But besides that, the man is very honorable and kind, and I can certainly see how he has so many friends.  Well, he just earned another one.
  </div>
  <!--
  ========================
