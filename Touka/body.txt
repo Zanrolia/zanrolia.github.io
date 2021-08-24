@@ -1060,6 +1060,12 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="scroller">
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Killer+Strawberry" title="" target="_blank">Ichigo Kurosaki</a>.  A shinigami.  Or what most call, a 'Soul Reaper'.  This man guides souls to their destination, and he is very powerful.  I'm starting to think he has more transformations than Kaneki, and I think that's a little frightening.  But besides that, the man is very honorable and kind, and I can certainly see how he has so many friends.  Well, he just earned another one.
  </div>
+ </div>
+ <div class="inmenu-tab" id="alita">
+ <div class="image" img="https://i.imgur.com/bbRZCo9.gif"></div>
+ <h2 class="header">The Androi-- CYBORG from Space</h2>
+ <div class="scroller">
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Battle+Angel" title="" target="_blank">Alita</a>.  A cyborg from another world.  From what I've been told, she's been through a lot, and friends like me is something she desperately needs.  Well, you don't have to ask twice, she's worth being around.  Just don't call her an android.
  <!--
  ========================
  ----- SUBMENUS END -----
