@@ -988,7 +988,7 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="tab" opens="elizabeth" content="Elizabeth"></div>
  <div class="tab" opens="rize" content="Rize"></div>
  <div class="tab" opens="ichigo" content="Ichigo"></div>
- <div class="tab" opens="alita" content="Altia"></div>
+ <div class="tab" opens="alita" content="Alita"></div>
  </div>
  <div class="arrow back-to-main">Back</div>
 
