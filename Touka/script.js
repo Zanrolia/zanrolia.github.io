@@ -111,14 +111,11 @@ function updateVol() {
 function loadingVideo() {
   let load = setInterval(() => {
     if(video.readyState === 4) {
-      $('#loading-video .text span').addClass('show')
-      setTimeout(() => {
-        $('#loading-video .text span.show').addClass('animate');
-      }, 200);
+      $('#loading-video .text span').addClass('show animate')
       loadedVideo = true;
       clearInterval(load);
     }
-  }, 1000);
+  }, 200);
 }
 
 function loadDone(target) {
