@@ -120,7 +120,7 @@
  <div class="image" img="https://i.pinimg.com/originals/79/d2/34/79d234b2d33a5596f9400c6aa3c916d4.gif"></div>
  <h2 class="header">The Coffee Master Bluette</h2>
  <div class="scroller">
- Touka Kirishima is a ghoul, and one of the last survivors of the Kirishima bloodline. Through her passion for coffee, she strove to survive in the harsh world of Tokyo, eventually becoming a strong and loving person, despite her dark, tragic past. She owns a cafe in Japan known as ':re', and owns a cafe brand known as 'Kiri Cafe' that has spread its way into the Americas and still growing.  She gains friends and allies everyday to fill the life of a cafe girl.
+ Touka Kirishima is a ghoul at 27 years old, and one of the last survivors of the Kirishima bloodline. Through her passion for coffee, she strove to survive in the harsh world of Tokyo, eventually becoming a strong and loving person, despite her dark, tragic past. She owns a cafe in Japan known as ':re', and owns a cafe brand known as 'Kiri Cafe' that has spread its way into the Americas and still growing.  She gains friends and allies everyday to fill the life of a cafe girl.
  </div>
  </div>
   <div class="inmenu-tab" id="mate">
@@ -978,6 +978,7 @@ With a second child on the way, the three move to walk along their land, looking
 
  <div class="submenu" id="submenu-contacts">
  <div class="tabs">
+  <div class="tab" opens="accelerator" content="Accelerator"></div>
  <div class="tab" opens="kaneki" content="Ken Kaneki"></div>
  <div class="tab" opens="raven" content="Raven Branwen"></div>
  <div class="tab" opens="yang" content="Yang Xiao Long"></div>
@@ -991,7 +992,14 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="tab" opens="alita" content="Alita"></div>
  </div>
  <div class="arrow back-to-main">Back</div>
-
+ 
+<div class="inmenu-tab" id="accelerator">
+ <div class="image" img="https://i.imgur.com/lv4WkQD.gif"></div>
+ <h2 class="header">The Accelerator</h2>
+ <div class="scroller">
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Accelerator." title="" target="_blank">Accelerator</a>. She can't get a good pin down on this guy.  At times he seems like the best father figure, and others he is the most sadistic person she's ever met.  Because of this, Touka alternates between being nice to him and being an ass.  She wants to be nice, but it can be difficult due to his nature.  But clearly he trusts her, so she definitely feels she could trust him.  A complicated relationship, you could say.
+ </div>
+ </div>
  <div class="inmenu-tab" id="kaneki">
  <div class="image" img="https://i.imgur.com/8rbcgIG.gif"></div>
  <h2 class="header">The One-Eyed King</h2>
