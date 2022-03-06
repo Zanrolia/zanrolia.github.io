@@ -983,7 +983,6 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="submenu" id="submenu-contacts">
  <div class="tabs">
   <div class="tab" opens="accelerator" content="Accelerator"></div>
- <div class="tab" opens="kaneki" content="Ken Kaneki"></div>
  <div class="tab" opens="raven" content="Raven Branwen"></div>
  <div class="tab" opens="yang" content="Yang Xiao Long"></div>
  <div class="tab" opens="ichor" content="Ichor"></div>
@@ -992,7 +991,6 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="tab" opens="constanze" content="Constanze"></div>
  <div class="tab" opens="elizabeth" content="Elizabeth"></div>
  <div class="tab" opens="rize" content="Rize"></div>
- <div class="tab" opens="ichigo" content="Ichigo"></div>
  <div class="tab" opens="alita" content="Alita"></div>
  </div>
  <div class="arrow back-to-main">Back</div>
@@ -1004,11 +1002,6 @@ With a second child on the way, the three move to walk along their land, looking
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Accelerator." title="" target="_blank">Accelerator</a>. She can't get a good pin down on this guy.  At times he seems like the best father figure, and others he is the most sadistic person she's ever met.  Because of this, Touka alternates between being nice to him and being an ass.  She wants to be nice, but it can be difficult due to his nature.  But clearly he trusts her, so she definitely feels she could trust him.  A complicated relationship, you could say.
  </div>
  </div>
- <div class="inmenu-tab" id="kaneki">
- <div class="image" img="https://i.imgur.com/8rbcgIG.gif"></div>
- <h2 class="header">The One-Eyed King</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Kaneki" title="" target="_blank">Ken Kaneki</a>.  Her first mate.  Once a mesely bookworm who couldn't even go near a woman without blushing, now a legend amongst all ghouls.  There isn't a single ghoul out there that doesn't know about this man.  He is Touka's wingman, aiding her through the thick and the thin, and Touka could find no greater person out there, ghoul or human.  He is the father of her currently only child, Ichika.
  </div>
  </div>
  <div class="inmenu-tab" id="raven">
@@ -1067,11 +1060,6 @@ With a second child on the way, the three move to walk along their land, looking
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Rize%20the%20Binge%20Eater" title="" target="_blank">Rize</a>.  A false damsel.  I've seen her drag many lives into the alley to be eaten and left to rot.  A binge eater, who eats for fun and leaves quite a massive mess.  Want my advice?  Stay far away from her.  She had a nasty habit of hunting customers at Anteiku and it was pretty annoying losing customers.  Ever try to have a conversation with her?  If you live to tell the tale, tell me how it goes.
  </div>
  </div>
- <div class="inmenu-tab" id="ichigo">
- <div class="image" img="https://i.imgur.com/2qzHfag.gif"></div>
- <h2 class="header">Multi-form Wonder</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Killer+Strawberry" title="" target="_blank">Ichigo Kurosaki</a>.  A shinigami.  Or what most call, a 'Soul Reaper'.  This man guides souls to their destination, and he is very powerful.  I'm starting to think he has more transformations than Kaneki, and I think that's a little frightening.  But besides that, the man is very honorable and kind, and I can certainly see how he has so many friends.  Well, he just earned another one.
  </div>
  </div>
  <div class="inmenu-tab" id="alita">
