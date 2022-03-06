@@ -38,6 +38,8 @@
  <div class="tab" opens="submenu-story" content="Story" details="Retells the events of Touka's story from Tokyo Ghoul and Tokyo Ghoul:re. (Warning, MASSIVE spoilers ahead!)"></div>
  <div class="tab" opens="submenu-contacts" content="Contact List" details="The list of fellow roleplayers who have made a special place in Touka's heart."></div>
  <div class="tab" opens="submenu-template" content="Gallery" details="A list of my favorite pieces of art for Touka will go here."></div>
+ <div class="tab" opens="submenu-restaff" content=":re Staff" details="A list of all her employees across her various cafe shops."></div>
+ <div class="tab" opens="submenu-alts" content="Alts List" details="Feel like you would click with another character better than this one?  Check out these alts and tell me if you wanna roleplay!"></div>
  <div class="tab" opens="menu-template" content="OOC" details="Stuff you should know about the writer."></div>
  </div>
  <a class="arrow" href="http://roleplay.chat/profile.php?user=Kingdom+Corp" target="_blank" rel="noopener noreferrer">© Kingdom Corp</a>
@@ -967,6 +969,8 @@ With a second child on the way, the three move to walk along their land, looking
  </div>
  </div>
 </div>
+ 
+ 
  
  </div>
  
