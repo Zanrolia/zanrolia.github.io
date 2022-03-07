@@ -987,7 +987,6 @@ With a second child on the way, the three move to walk along their land, looking
  <div class="tab" opens="yang" content="Yang Xiao Long"></div>
  <div class="tab" opens="ichor" content="Ichor"></div>
  <div class="tab" opens="kratos" content="Kratos"></div>
- <div class="tab" opens="himeno" content="Hinemo"></div>
  <div class="tab" opens="constanze" content="Constanze"></div>
  <div class="tab" opens="elizabeth" content="Elizabeth"></div>
  <div class="tab" opens="rize" content="Rize"></div>
@@ -1032,12 +1031,6 @@ With a second child on the way, the three move to walk along their land, looking
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Allfather%20Kratos" title="" target="_blank">Kratos</a>  Once known as the God of War, Kratos is a man with decades of experience under his belt, and plenty of weapons to come with it.  He has a son, who has grown up and moved on in the world.  He doesn't seem to have a goal in mind, but he does help Touka with weapon training, as she knows next to nothing with it.  He won't admit it, but he's also very kind and caring.  Just don't call him 'allfather' to his face.
  </div>
  </div>
- <div class="inmenu-tab" id="himeno">
- <div class="image" img="https://i.imgur.com/eZKQ3La.png"></div>
- <h2 class="header">Stubborn :re Staff</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Himeno" title="" target="_blank">Himeno</a>.  A government agent, now turned into :re staff!  This woman has always known how to kill people, but throw her into a building full of hungry customers?  The girl's completely lost.  Good thing her -boss- is there to help her out.  One coffee stain at a time.
- </div>
  </div>
  <div class="inmenu-tab" id="constanze">
  <div class="image" img="https://i.imgur.com/yuM5XkF.gif"></div>
@@ -1074,19 +1067,53 @@ With a second child on the way, the three move to walk along their land, looking
  
  <div class="submenu" id="submenu-restaff">
  <div class="tabs">
-  <div class="tab" opens="accelerator" content="Accelerator"></div>
- <div class="tab" opens="raven" content="Raven Branwen"></div>
- <div class="tab" opens="yang" content="Yang Xiao Long"></div>
- <div class="tab" opens="ichor" content="Ichor"></div>
- <div class="tab" opens="kratos" content="Kratos"></div>
- <div class="tab" opens="himeno" content="Hinemo"></div>
- <div class="tab" opens="constanze" content="Constanze"></div>
- <div class="tab" opens="elizabeth" content="Elizabeth"></div>
- <div class="tab" opens="rize" content="Rize"></div>
- <div class="tab" opens="alita" content="Alita"></div>
+  <div class="tab" opens="kasana" content="Kasana"></div>
+ <div class="tab" opens="tear" content="Tear></div>
+  <div class="tab" opens="himeno" content="Hinemo"></div>
+  <div class="tab" opens="hayase" content="Hayase"></div>
  </div>
  <div class="arrow back-to-main">Back</div>
  
+ 
+ <div class="inmenu-tab" id="kasana">
+ <div class="image" img="https://i.imgur.com/SRTJPP7.png"></div>
+ <h2 class="header">Kasana Ichiro</h2>
+ <div class="scroller">
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Kasana%20Ichiro" title="" target="_blank">Kasana</a>. She found this one-eyed ghoul strapped to a tree and left to die of starvation.  Thankfully Touka had rescued her, however unbeknowest to Kasane, she wasn't exactly human, and when a nice, tasty human came by, she learned the hard way of what she truly is.  Now, she serves as a waitress and as clean-up crew for :re.
+ </div>
+ </div>
+ </div>
+ </div>
+ 
+  <div class="inmenu-tab" id="tear">
+ <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+ <h2 class="header">Tear Grants</h2>
+ <div class="scroller">
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Tear" title="" target="_blank">Tear</a>. She met this woman at the colosseum one day, apparently having lost their way.  She is a healer capable of ressurection and mending grevious wounds.  However, it seems she wishes to live that life behind-- well, mostly.  Wanting a different life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations we must take against those who want to ruin the peace between us all.
+ </div>
+ </div>
+ </div>
+ </div>
+ 
+ 
+ <div class="inmenu-tab" id="himeno">
+ <div class="image" img="https://i.imgur.com/eZKQ3La.png"></div>
+ <h2 class="header">Stubborn :re Staff</h2>
+ <div class="scroller">
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Himeno" title="" target="_blank">Himeno</a>.  A government agent, now turned into :re staff!  This woman has always known how to kill people, but throw her into a building full of hungry customers?  The girl's completely lost.  Good thing her -boss- is there to help her out.  One coffee stain at a time.
+ </div>
+ </div>
+ </div>
+ </div>
+ <div class="inmenu-tab" id="hayase">
+ <div class="image" img="https://i.imgur.com/eZKQ3La.png"></div>
+ <h2 class="header">Looks can be Deceiving!</h2>
+ <div class="scroller">
+ <a target="_blank" href="https://roleplay.chat/profile.php?user=Hayase+Reizo" title="" target="_blank">Hayase</a>.  A surprisingly strong man considering his appearance.  For the brief time they battled, Hayase was shown to be fast, clever, and powerful.  Traits that will definitely get on Touka's good side.  He works at :re as a host.
+ </div>
+ </div>
+ </div>
+ </div>
  <!--
  ========================
  ----- SUBMENUS END -----
