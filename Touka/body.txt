@@ -1067,10 +1067,10 @@ With a second child on the way, the three move to walk along their land, looking
  
  <div class="submenu" id="submenu-restaff">
  <div class="tabs">
-  <div class="tab" opens="kasana" content="Kasana"></div>
+ <div class="tab" opens="kasana" content="Kasana"></div>
  <div class="tab" opens="tear" content="Tear"></div>
-  <div class="tab" opens="himeno" content="Hinemo"></div>
-  <div class="tab" opens="hayase" content="Hayase"></div>
+ <div class="tab" opens="himeno" content="Hinemo"></div>
+ <div class="tab" opens="hayase" content="Hayase"></div>
  </div>
  <div class="arrow back-to-main">Back</div>
  
@@ -1084,7 +1084,7 @@ With a second child on the way, the three move to walk along their land, looking
  </div>
  </div>
  </div>
-  <div class="inmenu-tab" id="tear">
+ <div class="inmenu-tab" id="tear">
  <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
  <h2 class="header">Tear Grants</h2>
  <div class="scroller">
@@ -1102,6 +1102,8 @@ With a second child on the way, the three move to walk along their land, looking
  </div>
  </div>
  </div>
+ 
+ 
  <div class="inmenu-tab" id="hayase">
  <div class="image" img="https://i.imgur.com/eZKQ3La.png"></div>
  <h2 class="header">Looks can be Deceiving!</h2>
@@ -1111,6 +1113,7 @@ With a second child on the way, the three move to walk along their land, looking
  </div>
  </div>
  </div>
+ 
  <!--
  ========================
  ----- SUBMENUS END -----
