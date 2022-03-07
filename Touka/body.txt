@@ -1583,7 +1583,7 @@
 
 
   <div class="inmenu-tab" id="tear">
-    <div class="image" img=""></div>
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
     <h2 class="header">Tear Grants</h2>
     <div class="scroller">
       <a target="_blank" href="https://roleplay.chat/profile.php?user=Tear" title="" target="_blank">Tear</a>. She met
@@ -1608,7 +1608,7 @@
 
 
   <div class="inmenu-tab" id="hayase">
-    <div class="image" img="https://i.imgur.com/eZKQ3La.png"></div>
+    <div class="image" img="https://i.imgur.com/XaXzjRD.jpg"></div>
     <h2 class="header">Looks can be Deceiving!</h2>
     <div class="scroller">
       <a target="_blank" href="https://roleplay.chat/profile.php?user=Hayase+Reizo" title="" target="_blank">Hayase</a>.
