@@ -1084,6 +1084,8 @@ With a second child on the way, the three move to walk along their land, looking
  </div>
  </div>
  </div>
+ 
+ 
  <div class="inmenu-tab" id="tear">
  <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
  <h2 class="header">Tear Grants</h2>
@@ -1093,6 +1095,8 @@ With a second child on the way, the three move to walk along their land, looking
  </div>
  </div>
  </div>
+ 
+ 
  <div class="inmenu-tab" id="himeno">
  <div class="image" img="https://i.imgur.com/eZKQ3La.png"></div>
  <h2 class="header">Stubborn :re Staff</h2>
