@@ -1,91 +1,112 @@
 <link href="https://zanrolia.github.io/Touka/style.css" rel="stylesheet">
- <!-- insert code from setting up step 1 in STEP 2 - USING YOUR CODE -->
- <!-- stylesheets || please do not touch below this -->
- <link rel="stylesheet" href="https://themonstrousdev.github.io/styles/fancy-fonts.css">
- <link rel="stylesheet" href="https://themonstrousdev.github.io/styles/google-fonts.css">
- <!-- stylesheets || please do not touch above this -->
-
- 
- <div id="intro">
- <div id="tokyo"></div>
- <div id="play">PRESS ANY BUTTON</div>
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Kingdom+Corp" target="_blank" id="introCredit">Code Design © Kindom Corp</a>
- </div>
-
- <div id="cinema">
- <video id="cinematic" src="https://cdn.discordapp.com/attachments/895484899421736990/914851575825055754/Ken___Watch_on_Funimation_-_Google_Chrome_2021-11-29_03-05-50.mp4"></video>
- <div id="skip-video">Skip Cinematic</div>
- </div>
-
- <div id="loading-video">
- <div class="text">
- Code Design © Kingdom Corp<br>
- <span>[ PRESS ANY BUTTON ]<span>
- </div>
- </div>
+<!-- insert code from setting up step 1 in STEP 2 - USING YOUR CODE -->
+<!-- stylesheets || please do not touch below this -->
+<link rel="stylesheet" href="https://themonstrousdev.github.io/styles/fancy-fonts.css">
+<link rel="stylesheet" href="https://themonstrousdev.github.io/styles/google-fonts.css">
+<!-- stylesheets || please do not touch above this -->
 
 
- <!--
+<div id="intro">
+  <div id="tokyo"></div>
+  <div id="play">PRESS ANY BUTTON</div>
+  <a target="_blank" href="https://roleplay.chat/profile.php?user=Kingdom+Corp" target="_blank" id="introCredit">Code
+    Design © Kindom Corp</a>
+</div>
+
+<div id="cinema">
+  <video id="cinematic"
+    src="https://cdn.discordapp.com/attachments/895484899421736990/914851575825055754/Ken___Watch_on_Funimation_-_Google_Chrome_2021-11-29_03-05-50.mp4"></video>
+  <div id="skip-video">Skip Cinematic</div>
+</div>
+
+<div id="loading-video">
+  <div class="text">
+    Code Design © Kingdom Corp<br>
+    <span>[ PRESS ANY BUTTON ]<span>
+  </div>
+</div>
+
+
+<!--
  ==============================
  ----- MAIN PROFILE START -----
  ==============================
  -->
- <div id="main-profile">
- <div class="clouds"></div>
- <div class="tabs">
- <div class="tab" opens="rules" content="Rules" details="Reading these will help you navigate more pleasurably."></div>
- <div class="tab" opens="submenu-character" content="The Character" details="A brief summary of Touka Kirishima, the character whom you are viewing!"></div>
- <div class="tab" opens="submenu-story" content="Story" details="Retells the events of Touka's story from Tokyo Ghoul and Tokyo Ghoul:re. (Warning, MASSIVE spoilers ahead!)"></div>
- <div class="tab" opens="submenu-contacts" content="Contact List" details="The list of fellow roleplayers who have made a special place in Touka's heart."></div>
- <div class="tab" opens="submenu-template" content="Gallery" details="A list of my favorite pieces of art for Touka will go here."></div>
- <div class="tab" opens="submenu-restaff" content=":re Staff" details="A list of all her employees across her various cafe shops."></div>
- <div class="tab" opens="submenu-alts" content="Alts List" details="Feel like you would click with another character better than this one?  Check out these alts and tell me if you wanna roleplay!"></div>
- <div class="tab" opens="menu-template" content="OOC" details="Stuff you should know about the writer."></div>
- </div>
- <a class="arrow" href="http://roleplay.chat/profile.php?user=Kingdom+Corp" target="_blank" rel="noopener noreferrer">© Kingdom Corp</a>
+<div id="main-profile">
+  <div class="clouds"></div>
+  <div class="tabs">
+    <div class="tab" opens="rules" content="Rules" details="Reading these will help you navigate more pleasurably.">
+    </div>
+    <div class="tab" opens="submenu-character" content="The Character"
+      details="A brief summary of Touka Kirishima, the character whom you are viewing!"></div>
+    <div class="tab" opens="submenu-story" content="Story"
+      details="Retells the events of Touka's story from Tokyo Ghoul and Tokyo Ghoul:re. (Warning, MASSIVE spoilers ahead!)">
+    </div>
+    <div class="tab" opens="submenu-contacts" content="Contact List"
+      details="The list of fellow roleplayers who have made a special place in Touka's heart."></div>
+    <div class="tab" opens="submenu-template" content="Gallery"
+      details="A list of my favorite pieces of art for Touka will go here."></div>
+    <div class="tab" opens="submenu-restaff" content=":re Staff"
+      details="A list of all her employees across her various cafe shops."></div>
+    <div class="tab" opens="submenu-alts" content="Alts List"
+      details="Feel like you would click with another character better than this one?  Check out these alts and tell me if you wanna roleplay!">
+    </div>
+    <div class="tab" opens="menu-template" content="OOC" details="Stuff you should know about the writer."></div>
+  </div>
+  <a class="arrow" href="http://roleplay.chat/profile.php?user=Kingdom+Corp" target="_blank" rel="noopener noreferrer">©
+    Kingdom Corp</a>
 
- <!--
+  <!--
  ============================
  ----- NON SUBMENU TABS -----
  ============================
  Insert your non submenu tabs under this section
  -->
- <div id="rules" class="inmenu-tab">
- <h2 class="header">Rules</h2>
- <div class="scroller">
- <ol>
- <li>Have your volume up to at least 30% when browsing the profile</li>
- <li>Use your mouse to navigate from tab to tab</li>
- <li>Adjust the volume of the background music by hovering over the mute button on the lower left side of the screen</li>
- <li>There are MASSIVE spoilers about the Tokyo Ghoul series in this profile. Tread carefully if you haven't seen it and would like to!</li>
- <li>The music may turn off if you switch between tabs too fast.  If that happens, return to this menu and it'll come back.</li>
- </ol>
- </div>
- </div>
+  <div id="rules" class="inmenu-tab">
+    <h2 class="header">Rules</h2>
+    <div class="scroller">
+      <ol>
+        <li>Have your volume up to at least 30% when browsing the profile</li>
+        <li>Use your mouse to navigate from tab to tab</li>
+        <li>Adjust the volume of the background music by hovering over the mute button on the lower left side of the
+          screen</li>
+        <li>There are MASSIVE spoilers about the Tokyo Ghoul series in this profile. Tread carefully if you haven't seen
+          it and would like to!</li>
+        <li>The music may turn off if you switch between tabs too fast. If that happens, return to this menu and it'll
+          come back.</li>
+      </ol>
+    </div>
+  </div>
 
- <div id="image-template" class="inmenu-tab">
- <div class="image" img="https://wallpaperaccess.com/full/119946.png"></div>
- <h2 class="header">Touka Kirishima</h2>
- <div class="scroller">
- Touka Kirishima is a ghoul raised in the 20th ward of Tokyo. During her younger days she was cold, ruthless, and had little patience with those she did not classify as friends. She attended high school before going to college. From there, she was able to set up a cafe of her own.
- </div>
- </div>
+  <div id="image-template" class="inmenu-tab">
+    <div class="image" img="https://wallpaperaccess.com/full/119946.png"></div>
+    <h2 class="header">Touka Kirishima</h2>
+    <div class="scroller">
+      Touka Kirishima is a ghoul raised in the 20th ward of Tokyo. During her younger days she was cold, ruthless, and
+      had little patience with those she did not classify as friends. She attended high school before going to college.
+      From there, she was able to set up a cafe of her own.
+    </div>
+  </div>
 
- <div id="menu-template" class="inmenu-tab">
- <div class="image" img="https://i.pinimg.com/originals/7e/35/68/7e3568a7bfa7aef70ffdcbfa15c2ef17.jpg"></div>
- <h2 class="header">Image Tab Template</h2>
- <div class="scroller">
- If it wasn't obvious, I am a huge Tokyo Ghoul fan.  I'm read through most of the manga and I have seen the anime many times.  It's just that each time I watch that first episode, it's.. just so magical.  A lame way to describe it, I know.  But it's how I see it.  I'm up for chatting with random people most of the time (unless I got a find rp up, then I am looking for rp) and just like everyone else on this site, I game!  Feel free to let me know if you have any desires to game.  Don't forget the golden rule, everyone.  Be nice.~
- </div>
- </div>
- <!--
+  <div id="menu-template" class="inmenu-tab">
+    <div class="image" img="https://i.pinimg.com/originals/7e/35/68/7e3568a7bfa7aef70ffdcbfa15c2ef17.jpg"></div>
+    <h2 class="header">Image Tab Template</h2>
+    <div class="scroller">
+      If it wasn't obvious, I am a huge Tokyo Ghoul fan. I'm read through most of the manga and I have seen the anime
+      many times. It's just that each time I watch that first episode, it's.. just so magical. A lame way to describe
+      it, I know. But it's how I see it. I'm up for chatting with random people most of the time (unless I got a find rp
+      up, then I am looking for rp) and just like everyone else on this site, I game! Feel free to let me know if you
+      have any desires to game. Don't forget the golden rule, everyone. Be nice.~
+    </div>
+  </div>
+  <!--
  all non submenu tabs should be above this section
  ================================
  ----- NON SUBMENU TABS END -----
  ================================
  -->
- </div>
- <!--
+</div>
+<!--
  ============================
  ----- MAIN PROFILE END -----
  ============================
@@ -93,1032 +114,1512 @@
 
 
 
- <!--
+<!--
  ==========================
  ----- SUBMENUS START -----
  ==========================
  -->
- <!-- FOLLOW THIS SUBMENU TEMPLATE -->
- <div class="submenu" id="submenu-character">
- <div class="tabs">
- <div class="tab" opens="summary" content="Summary"></div>
- <div class="tab" opens="personality" content="Personality"></div>
- <div class="tab" opens="mate" content="Love Interest"
- <div class="tab" opens="ghoul" content="What is a ghoul?"></div>
- <div class="tab" opens="gender" content="Gender"></div>
- <div class="tab" opens="sexual-orientation" content="Sexual Orientation"></div>
- <div class="tab" opens="combat" content="Combat Capabilities"></div>
- </div>
- <div class="arrow back-to-main">Back</div>
+<!-- FOLLOW THIS SUBMENU TEMPLATE -->
+<div class="submenu" id="submenu-character">
+  <div class="tabs">
+    <div class="tab" opens="summary" content="Summary"></div>
+    <div class="tab" opens="personality" content="Personality"></div>
+    <div class="tab" opens="mate" content="Love Interest" <div class="tab" opens="ghoul" content="What is a ghoul?">
+    </div>
+    <div class="tab" opens="gender" content="Gender"></div>
+    <div class="tab" opens="sexual-orientation" content="Sexual Orientation"></div>
+    <div class="tab" opens="combat" content="Combat Capabilities"></div>
+  </div>
+  <div class="arrow back-to-main">Back</div>
 
- <div class="inmenu-tab" id="ghoul">
- <div class="image" img="https://i.imgur.com/9U1Ib2J.gif"></div>
- <h2 class="header">The Predator of Human-kind</h2>
- <div class="scroller">
- Ghouls are humanoids who survive by consuming human flesh. Unlike the mythical, undead versions that everyone has come to know, these ghouls are living, vulnerable to the clutches of hunger and death. They are biologically superior to humans, though they have staggering weaknesses. Ghouls' bodies are comprised of many RC cells, cells that normally humans possess, but Ghouls do in massive quantities. This abundance of RC cells cause them to be faster, stronger, and much more durable. They are effectively resistant to normal weaponry, even go as far as to say they are almost completely immune to them. Guns, blades, and other conventional weapons simply do not work on them, for they cannot cut the RC-filled skin. They have a special limb that is called a Kagune, which is a survival and hunting tool that comes out their body when they need to fight. Ghouls have different types of kagune, ranging from ranged types, regenerative, to tank-like, and even ones that which have no blaring weakness, or perhaps a mix breed of any. Ghouls can only be hurt by other ghouls, or by a weapons specifically made to deteriorate or break RC cells, such as a Ghoul Investigator's blades known as 'quinque'. A ghoul looks exactly like a human until they release their kagune, so they hide amongst the humans, pretending to be like them, and quietly taking lives to live on. If they were found out, their lives were over. They would be hunted and killed, every last ghoul. Such is the sick cycle of life and death.
- </div>
- </div>
- <div class="inmenu-tab" id="summary">
- <div class="image" img="https://i.pinimg.com/originals/79/d2/34/79d234b2d33a5596f9400c6aa3c916d4.gif"></div>
- <h2 class="header">The Coffee Master Bluette</h2>
- <div class="scroller">
- Touka Kirishima is a ghoul at 27 years old, and one of the last survivors of the Kirishima bloodline. Through her passion for coffee, she strove to survive in the harsh world of Tokyo, eventually becoming a strong and loving person, despite her dark, tragic past. She owns a cafe in Japan known as ':re', and owns a cafe brand known as 'Kiri Cafe' that has spread its way into the Americas and still growing.  She gains friends and allies everyday to fill the life of a cafe girl.
- </div>
- </div>
+  <div class="inmenu-tab" id="ghoul">
+    <div class="image" img="https://i.imgur.com/9U1Ib2J.gif"></div>
+    <h2 class="header">The Predator of Human-kind</h2>
+    <div class="scroller">
+      Ghouls are humanoids who survive by consuming human flesh. Unlike the mythical, undead versions that everyone has
+      come to know, these ghouls are living, vulnerable to the clutches of hunger and death. They are biologically
+      superior to humans, though they have staggering weaknesses. Ghouls' bodies are comprised of many RC cells, cells
+      that normally humans possess, but Ghouls do in massive quantities. This abundance of RC cells cause them to be
+      faster, stronger, and much more durable. They are effectively resistant to normal weaponry, even go as far as to
+      say they are almost completely immune to them. Guns, blades, and other conventional weapons simply do not work on
+      them, for they cannot cut the RC-filled skin. They have a special limb that is called a Kagune, which is a
+      survival and hunting tool that comes out their body when they need to fight. Ghouls have different types of
+      kagune, ranging from ranged types, regenerative, to tank-like, and even ones that which have no blaring weakness,
+      or perhaps a mix breed of any. Ghouls can only be hurt by other ghouls, or by a weapons specifically made to
+      deteriorate or break RC cells, such as a Ghoul Investigator's blades known as 'quinque'. A ghoul looks exactly
+      like a human until they release their kagune, so they hide amongst the humans, pretending to be like them, and
+      quietly taking lives to live on. If they were found out, their lives were over. They would be hunted and killed,
+      every last ghoul. Such is the sick cycle of life and death.
+    </div>
+  </div>
+  <div class="inmenu-tab" id="summary">
+    <div class="image" img="https://i.pinimg.com/originals/79/d2/34/79d234b2d33a5596f9400c6aa3c916d4.gif"></div>
+    <h2 class="header">The Coffee Master Bluette</h2>
+    <div class="scroller">
+      Touka Kirishima is a ghoul at 27 years old, and one of the last survivors of the Kirishima bloodline. Through her
+      passion for coffee, she strove to survive in the harsh world of Tokyo, eventually becoming a strong and loving
+      person, despite her dark, tragic past. She owns a cafe in Japan known as ':re', and owns a cafe brand known as
+      'Kiri Cafe' that has spread its way into the Americas and still growing. She gains friends and allies everyday to
+      fill the life of a cafe girl.
+    </div>
+  </div>
   <div class="inmenu-tab" id="mate">
- <div class="image" img="https://i.imgur.com/JGGThkb.gif"></div>
- <h2 class="header">Single</h2>
- <div class="scroller">
- <a target="_blank" href="--" title="" target="_blank">Sometimes</a> things just don't work out.
- </div>
- </div>
- <div class="inmenu-tab" id="personality">
- <h2 class="header">Once Cruel, Now Loving</h2>
- <div class="scroller">
- Touka was once a very cruel person, disregarding humans in a rather hateful manner, often killing them merely from getting upset. However, she treated ghouls rather neutrally, unless known to be a pain. Over time, these feelings balanced out, and she became a more caring and loving individual in the face of both humans and ghouls alike. However, her cruel demeanor can occasionally manifest into some rough-housing time and again. Her love for coffee triumphs everything else, and she can always be seen holding a cup.
- </div>
- </div>
- <div class="inmenu-tab" id="gender">
- <h2 class="header">Sex of the Bluette</h2>
- <div class="scroller">
- Touka is female by default and is always female by roleplaying standards. With a separate roleplay unrelated to RPC canon, a plot item to change this, or a little bit of friendly shitposting, she could become a futa.
- </div>
- </div>
- <div class="inmenu-tab" id="sexual-orientation">
- <h2 class="header">What does she like?</h2>
- <div class="scroller">
- Touka is almost exclusively into other women, extra or not. She finds the feminine body much more appealing than the other sex. A walkup from a male seeking sexual actions is guaranteed to end up in failure.  https://www.f-list.net/c/touka123 (You can also find this on the bio when you DM me, but a lot of people are missing it.  So I will post it here, too.)
- </div>
- </div>
- <div class="inmenu-tab" id="combat">
- <div class="image" img="https://i.imgur.com/CxZWQXt.gif"></div>
- <h2 class="header">How to Fight Touka (and other Ukaku ghouls)</h2>
- <div class="scroller">
- <p>There are many factors that should be known when you want to take on a fight with this woman, or any ghoul in general.  The more you know, the better your chances.</p>
- 
- <p><b>Ghoul Durability: </b> A ghoul has a very impressive durability when it comes to taking attacks.  Their skin is much harder to break, and their organs and bones are much harder to destroy (ie. bullets will not penetrate.  Swords and other melee weapons will not injure her).  However, this is completely bypassable if using CRC weapons (counter red cell), or other ghouls  When they -are- injured, they have a regeneration effect.  The strength of said regeneration depends on the type of ghoul they are.  Rinkaku ghouls (such as Kaneki) can regenerate very quickly, and because of it, they are typically the hardest to kill.  However, such is not the case here.  Touka does have regneration, but unless she stalls in a fight long enough for it to take effect, it won't do very much for her.  If you're fighting her and you lose sight of her or leave her alone, she can regenerate her wounds within a few minutes (though her stamina won't recover).  If Touka's kagune is destroyed, she can regenerate it within a few minutes, but Touka heavily relies on her kagune to fight.  Without it, she cannot do very much.  Ghouls can take a lot of damage as well, able to survive multiple impalements and burns.  In the Fight and Fuck Grand Colosseum arena, her physical durability when getting hurt by weaponry is heavily nerfed, so not everyone is required to carry CRC weapons to harm her.  However, ghouls can be killed in other ways, such as drowning, bleeding out, being crushed, and many other tactics.  Ghouls are also almost completely resistant to poison and diseases, for their immune system is extremely strong.</p>
- 
- <p><b>Ukaku: </b> Touka is an Ukaku ghoul.  An Ukaku ghoul is a type of ghoul that sports high speed and low stamina, and excel at ranged attacks.  While this kind of kagune is seen in both male and female ghouls, this type of kagune is mostly given to females due to their small stature and light weight.  An Ukaku sports two large feather-like wings that are seemingly made of fire.  These wings can either be used offensively or defensively.  They can solidify and turn into hardened crystals, and can bend in any way the user chooses to.  It can be thrown in front as a shield, or wrapped around and twirled as a hybrid of protection and attacking.  These wings can be used to glide (but not fly), and produce crystal-like shards that are then shot at a high speed towards the target.  Typically, these shards are shot at mass quantities at once, so they can be very difficult to avoid.  Touka does best at a far range, so it is recommended to always be up close to Touka and attempt to use manuevers that prevent her from moving, such as grabs or slows.  Due to her low stamina, her goal in a battle is to end it as quickly as possible, and with her speed and ranged abilities, this is very much possible to the unprepared opponent.  Some Ukaku ghouls also possess the ability to use bioelectric fields, mostly for offensive purposes.</p>
- 
- <p>For a better understanding of kagune, think of it as a survival tool for ghouls.  They need it to defend themselves, as well as to hunt and kill humans, their source of food.  They are an extra set of limbs that humans don't have.  They come from a unique body part called the kakuho, which is holes underneath the flesh that produce RC cells to make this kagune come to life.  The skin covering the kakuhos will break, allowing the kagune to slip free.  Damaging a ghoul's kakuho can prevent them from using their kagune almost entirely.  In this case, Touka has two kakuho's located on her shoulders.  If you critically damage them, she'll be robbed of 90% of her fighting capabilities, pretty much securing a victory over her.  However, targeting a kakuho is rather difficult.  Not only must you get behind them, but their kagune can't be active, as the kagune would block access to them. </p>
- 
- <p><b>Kakuja: </b> A kakuja is a twisted manifestation that rarely occurs in ghouls who practice cannibalism (in this case, Touka was force fed ghoul flesh as a method of torture).  Cannibalism is typically unhealthy for a ghoul due to it causing insanity.  However, in rare cases, cannibalism can cause a special type of kagune to manifest onto a ghoul, a very powerful and hard to use kagune called a 'kakuja'.  A kakuja is a very powerful kagune that greatly increases the abilities of its user.  Mastery of a kakuja is extremely difficult, and often leads to the users death (going insane and rampaging until someone kills them).  But in this case, mastery of her kakuja was able to be accomplished due to her long time friend, Kaneki, who also possesses one.  Touka's kakuja provides an exceptional amount of defense, as well as greatly increasing her strength, speed, regeneration factors, and stamina.  It can also give her the ability to use bioelectric fields much more potently, up to the point where she straight up shoots lightning.  Once per fight, activating her kakuja will restore up to a third of her health.  As a result, she uses her kakuja when she's about to lose.  She delves more into melee in this form, since it's much easier to do so, but ultimately keep her ranged attacks coming.  Be careful when facing Touka when she's using this; she's at her most powerful. </p>
- </div>
- </div>
- </div>
- 
- <!--
- ================================
- ----- BREAK -----
- ================================
- -->
+    <div class="image" img="https://i.imgur.com/JGGThkb.gif"></div>
+    <h2 class="header">Single</h2>
+    <div class="scroller">
+      <a target="_blank" href="--" title="" target="_blank">Sometimes</a> things just don't work out.
+    </div>
+  </div>
+  <div class="inmenu-tab" id="personality">
+    <h2 class="header">Once Cruel, Now Loving</h2>
+    <div class="scroller">
+      Touka was once a very cruel person, disregarding humans in a rather hateful manner, often killing them merely from
+      getting upset. However, she treated ghouls rather neutrally, unless known to be a pain. Over time, these feelings
+      balanced out, and she became a more caring and loving individual in the face of both humans and ghouls alike.
+      However, her cruel demeanor can occasionally manifest into some rough-housing time and again. Her love for coffee
+      triumphs everything else, and she can always be seen holding a cup.
+    </div>
+  </div>
+  <div class="inmenu-tab" id="gender">
+    <h2 class="header">Sex of the Bluette</h2>
+    <div class="scroller">
+      Touka is female by default and is always female by roleplaying standards. With a separate roleplay unrelated to
+      RPC canon, a plot item to change this, or a little bit of friendly shitposting, she could become a futa.
+    </div>
+  </div>
+  <div class="inmenu-tab" id="sexual-orientation">
+    <h2 class="header">What does she like?</h2>
+    <div class="scroller">
+      Touka is almost exclusively into other women, extra or not. She finds the feminine body much more appealing than
+      the other sex. A walkup from a male seeking sexual actions is guaranteed to end up in failure.
+      https://www.f-list.net/c/touka123 (You can also find this on the bio when you DM me, but a lot of people are
+      missing it. So I will post it here, too.)
+    </div>
+  </div>
+  <div class="inmenu-tab" id="combat">
+    <div class="image" img="https://i.imgur.com/CxZWQXt.gif"></div>
+    <h2 class="header">How to Fight Touka (and other Ukaku ghouls)</h2>
+    <div class="scroller">
+      <p>There are many factors that should be known when you want to take on a fight with this woman, or any ghoul in
+        general. The more you know, the better your chances.</p>
 
- <div class="submenu" id="submenu-story">
- <div class="tabs">
- <div class="tab" opens="layer-one" content="The Past" details="Touka's story before the main plot begins."></div>
- <div class="tab" opens="layer-two" content="Tokyo Ghoul (S1)" details="The beginning of the main story."></div>
- <div class="tab" opens="layer-three" content="Tokyo Ghoul (S2)" details="The middle of the story."></div>
- <div class="tab" opens="layer-four" content="Tokyo Ghoul:re" details="The ending of Touka's story."></div>
- <div class="tab" opens="layer-five" content="RPC" details="The story after the ending."></div>
- </div>
- <div class="arrow back-to-main">Back</div>
+      <p><b>Ghoul Durability: </b> A ghoul has a very impressive durability when it comes to taking attacks. Their skin
+        is much harder to break, and their organs and bones are much harder to destroy (ie. bullets will not penetrate.
+        Swords and other melee weapons will not injure her). However, this is completely bypassable if using CRC weapons
+        (counter red cell), or other ghouls When they -are- injured, they have a regeneration effect. The strength of
+        said regeneration depends on the type of ghoul they are. Rinkaku ghouls (such as Kaneki) can regenerate very
+        quickly, and because of it, they are typically the hardest to kill. However, such is not the case here. Touka
+        does have regneration, but unless she stalls in a fight long enough for it to take effect, it won't do very much
+        for her. If you're fighting her and you lose sight of her or leave her alone, she can regenerate her wounds
+        within a few minutes (though her stamina won't recover). If Touka's kagune is destroyed, she can regenerate it
+        within a few minutes, but Touka heavily relies on her kagune to fight. Without it, she cannot do very much.
+        Ghouls can take a lot of damage as well, able to survive multiple impalements and burns. In the Fight and Fuck
+        Grand Colosseum arena, her physical durability when getting hurt by weaponry is heavily nerfed, so not everyone
+        is required to carry CRC weapons to harm her. However, ghouls can be killed in other ways, such as drowning,
+        bleeding out, being crushed, and many other tactics. Ghouls are also almost completely resistant to poison and
+        diseases, for their immune system is extremely strong.</p>
 
- <div class="layerTwo" id="layer-one">
- <div class="tabs">
- <div class="tabsHeader">The Past</div>
- <div class="tab" content="As a kid" opens="as-a-kid"></div>
- <div class="tab" content="Family" opens="family"></div>
- <div class="tab" content="Birds" opens="birds"></div>
- <div class="tab" content="Found" opens="found"></div>
- <div class="tab" content="Yoshimura" opens="yoshimura"></div>
- <div class="tab" content="Troublemakers" opens="troublemakers"></div>
- <div class="tab" content="High School" opens="high-school"></div>
- <div class="tab" content="Separation" opens="separation"></div>
- 
- </div>
+      <p><b>Ukaku: </b> Touka is an Ukaku ghoul. An Ukaku ghoul is a type of ghoul that sports high speed and low
+        stamina, and excel at ranged attacks. While this kind of kagune is seen in both male and female ghouls, this
+        type of kagune is mostly given to females due to their small stature and light weight. An Ukaku sports two large
+        feather-like wings that are seemingly made of fire. These wings can either be used offensively or defensively.
+        They can solidify and turn into hardened crystals, and can bend in any way the user chooses to. It can be thrown
+        in front as a shield, or wrapped around and twirled as a hybrid of protection and attacking. These wings can be
+        used to glide (but not fly), and produce crystal-like shards that are then shot at a high speed towards the
+        target. Typically, these shards are shot at mass quantities at once, so they can be very difficult to avoid.
+        Touka does best at a far range, so it is recommended to always be up close to Touka and attempt to use manuevers
+        that prevent her from moving, such as grabs or slows. Due to her low stamina, her goal in a battle is to end it
+        as quickly as possible, and with her speed and ranged abilities, this is very much possible to the unprepared
+        opponent. Some Ukaku ghouls also possess the ability to use bioelectric fields, mostly for offensive purposes.
+      </p>
 
- <div class="inmenu-tab" id="as-a-kid">
- <div class="image" img="https://i.imgur.com/P0GlfLK.jpg"></div>
- <h2 class="header">Little Touka</h2>
- <div class="scroller">
- <p>
- In the very beginning, Touka was as an innocent little ghoul squirt as they came. For the first five years of her life, her story was filled with the love and care that a small child should always be given. She was very happy, and a very nice child, even though she occasionally got jealous of her little brother, Ayato, when he got attention.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="family">
- <div class="image" img="https://i.imgur.com/A261uOE.jpg"></div>
- <h2 class="header">The Kirishima Family</h2>
- <div class="scroller">
- <p>
- Touka was in the loving care of her father, Arata Kirishima. The mother was hardly around, leaving most of the care of the siblings in his hands. Her brother was Ayato Kirishima, also a kind child, though had very different opinions about the various things around them. Arata held a terrible secret from his kids; a secret they would not discover for a very, very long time. A secret that made him pay the price.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="birds">
- <div class="image" img="https://i.imgur.com/ZOQnDho.png"></div>
- <h2 class="header">Peck, peck!</h2>
- <div class="scroller">
- <p>
- One day, the two siblings found an injured bird and moved to take care of it, nursing it back to health. One day it lashed out on Touka when it began to lash out in a frenzy, shooting from the cage and pecking her right above her eye, leaving a scar. It is the reason why she hides her other eye, is so people would not see the old injury. To this day, Touka has an phobia for bird-like creatures.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="found">
- <div class="image" img="https://i.imgur.com/nRpk5oE.png"></div>
- <h2 class="header">Hunted, Chased, and Left for Dead</h2>
- <div class="scroller">
- <p>
- In what seemed like a peaceful ghoul life, one day they found that their father had not returned, and the locals had come to seek the children they somehow figured out were ghouls. The locals managed to harm Ayato, but Touka, using her kagune early (and damaged it in the process), defended her little brother from their onslaught and attempted captures. They were ran out of the place they once called home. With no signs of Father, they continued to move, unaware of their destination.. or of how long they could keep it up.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="yoshimura">
- <div class="image" img="https://i.imgur.com/B7w3Ixq.gif"></div>
- <h2 class="header">Mysterious Old Man</h2>
- <div class="scroller">
- <p>
- Yoshimura, an unknown old man, had found the Kirishima twins in a rough state. Merely only children, and clinging to life however they could. Yoshimura took in the two children, giving them a home in a cafe that he owned, called 'Anteiku'. It was there that the two ghouls would continue to live, and as they slowly grew up in new territory, they began to turn cold to the world around them, as the world had taken their happiness away despite Yoshimura's attempts to keep them docile and friendly folk.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="troublemakers">
- <div class="image" img="https://i.imgur.com/Wn49b3R.png"></div>
- <h2 class="header">The Infamous Kirishima Twins from the 20th Ward</h2>
- <div class="scroller">
- <p>
-Despite Yoshimura's attempts to raise them to be loving people, Touka and Ayato had turned into ruthless ghouls who consistently encroached in other ghoul's feeding grounds, causing them to become very hated by the rest of the ward. They often got into fights with people over the smallest things, though Ayato was mostly the cause of these actions, with Touka merely following them.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="high-school">
- <div class="image" img="https://i.imgur.com/PAyr9PI.png"></div>
- <h2 class="header">It's Time to Learn!</h2>
- <div class="scroller">
- <p>
-As the two siblings developed, their caretaker, Yoshimura, was pushing them to become more active in the human community. School was one such attempt, not only to mingle and understand humans better, but to also move up on life and perhaps one day get a job and home of their own through education. Touka was hesitant on the thought of school, even when Yoshimura offered to fully pay for her schooling. While Touka eventually caved in and decided to go, Ayato did not budge at all on the subject, claiming he absolutely loathed humans for what they did to Arata, his father. 
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="separation">
- <div class="image" img="https://i.imgur.com/8pIJ98k.png"></div>
- <h2 class="header">The Differences in the Twins Become Explosive</h2>
- <div class="scroller">
- <p>
-After a long while of attending school, Touka comes to enjoy the presence of humans. She makes friends at the school, especially with a specific young woman. Ayato sees the large change that the old man had pushed onto his sister, and absolutely loathed in. In a fit of anger, he lashed out at his sister, stating he could not believe she could become so cozy with the humans after what they have done to their family. Afterwards, he no longer saw a reason to stay at Anteiku. He left, leaving his sister behind and heading to the 24th ward and quickly became known as a problem there. Touka was left alone, and she fell into a deep depression for a very long time.
- </p>
- </div>
- </div>
- </div>
- 
- <div class="layerTwo" id="layer-two">
- <div class="tabs">
- <div class="tabsHeader">Tokyo Ghoul (S1)</div>
- <div class="tab" content="Meeting Kaneki" opens="meeting"></div>
- <div class="tab" content="Second Meeting" opens="second-meeting"></div>
- <div class="tab" content="Saving Kaneki" opens="saving"></div>
- <div class="tab" content="Hinami" opens="hinami"></div>
- <div class="tab" content="Visiting Uta" opens="visiting-uta"></div>
- <div class="tab" content="Growing Bond" opens="growing-bond"></div>
- <div class="tab" content="Warning to Kaneki" opens="warning"></div>
- <div class="tab" content="Touka vs. Shuu" opens="touka-shuu"></div>
- <div class="tab" content="A Friend Dies" opens="friend-dies"></div>
- <div class="tab" content="Vengeance" opens="vengeance"></div>
- <div class="tab" content="Trapped" opens="trapped"></div>
- <div class="tab" content="Kaneki Kidnapped" opens="kaneki-kidnapped"></div>
- <div class="tab" content="The Rescue" opens="rescue"></div>
- </div>
+      <p>For a better understanding of kagune, think of it as a survival tool for ghouls. They need it to defend
+        themselves, as well as to hunt and kill humans, their source of food. They are an extra set of limbs that humans
+        don't have. They come from a unique body part called the kakuho, which is holes underneath the flesh that
+        produce RC cells to make this kagune come to life. The skin covering the kakuhos will break, allowing the kagune
+        to slip free. Damaging a ghoul's kakuho can prevent them from using their kagune almost entirely. In this case,
+        Touka has two kakuho's located on her shoulders. If you critically damage them, she'll be robbed of 90% of her
+        fighting capabilities, pretty much securing a victory over her. However, targeting a kakuho is rather difficult.
+        Not only must you get behind them, but their kagune can't be active, as the kagune would block access to them.
+      </p>
 
- <div class="inmenu-tab" id="meeting">
- <div class="image" img="https://i.imgur.com/sk4kwWW.gif"></div>
- <h2 class="header">Touka Meets a Book Nerd and his Friend</h2>
- <div class="scroller">
- <p>
- Lately, Touka found a young man that goes by Ken Kaneki.  He's been visiting the cafe more often, and he was starting to become a regular. He was quiet, and always had his nose in his book.  He certainly wasn't a trouble maker, a quality Touka was more than happy to see. One evening after work she came across Kaneki walking with Rize, a ghoul that is known to be a binge eater; someone who eats humans indiscriminately. It was clear that Kaneki was Rize's next meal. Touka gave a scowl and minded her own business, leaving Kaneki to his fate.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="second-meeting">
- <div class="image" img="https://i.imgur.com/oAgkH1n.png"></div>
- <h2 class="header">A one-eyed ghoul?</h2>
- <div class="scroller">
- <p>
- With the mysterious death of Rize, Touka saw a commotion about fighting for the territory Rize once had. One of them was a person known as Nishiki, a high school student who was very territorial. The other was Kaneki, who was somehow still alive. Touka was able to defeat Nishiki with ease, due to her being much stronger than him. He then ran away, leaving Kaneki to the victor. She soon discovered that he was not actually human, but some kind of half human, half ghoul hybrid. Kaneki began to speak about being once human, and Touka immediately began to berate him, calling him prey and trash, that he would not last long in this new cruel world. She began to viciously attack Kaneki with fists and feet in anger when being called a monster, only to be stopped by Yoshimura. He was taken in by the old man, much to Touka's open disappointment.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="saving">
- <div class="image" img="https://i.imgur.com/9Uzkqb1.gif"></div>
- <h2 class="header">Saving Kaneki From a Life-long Regret</h2>
- <div class="scroller">
- <p>
- Yoshimura detects trouble brewing once again with Nishiki, and sends Touka to stop the fighting. She takes off, eventually arriving at a very interesting scene; Nishiki was defeated by Kaneki. Despite being told to eat human meat to stave off starvation, Kaneki refused and eventually gave into the hunger and he made for his unconscious friend. At this point, Touka had made her way in and decided to do a solid for the man she didn't like, and got in the way of his feast. Kaneki, now pissed off and filled with a raging hunger, goes for Touka. Touka flourishes her kagune and easily defeats Kaneki. Kaneki wakes up later at the cafe she works at, Anteiku. He was talked to again by Yoshimura and was fed while unconscious, and then offered shelter and safety from other ghouls if he worked at Anteiku. Kaneki accepts and starts working there.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="hinami">
- <div class="image" img="https://i.imgur.com/EdtdvjL.gif"></div>
- <h2 class="header">Something happened to Ryouko and Hinami?</h2>
- <div class="scroller">
- <p>
- The next day, Ryouko, and her daughter Himani, stop by because one of the strongest ghouls in the 20th ward, known as Jason, stopped by Asaki's (Himani's father) work and demanded a new torturing tool for his sick ideals. They came out of fear something might have happened to their beloved family member, and Touka was quick to calm them down. Touka is friends with the Ryouko and is always looking out for her. The two women move to talk to Yoshimura in private, leaving Kaneki and Touka to themselves for the time being. Touka could not help but wonder what the issue was, but kept it to herself for the time being.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="visiting-uta">
- <div class="image" img="https://i.imgur.com/P3rCYVD.gif"></div>
- <h2 class="header">Touka Takes Kaneki to Get His Mask Made</h2>
- <div class="scroller">
- <p>
- Due to the activities from Rize and Jason, ghoul hunters (or the 'Doves') have become more active in the 20th ward. As a result, Yoshimura sends Touka to take Kaneki to get his mask made by a friend named Uta. When fighting, a ghoul must keep themselves anonymous, for only a face is needed to hunt down a ghoul. The doves could get an identity match on the ghoul and use it to find their name, and then where they live, what they do, and so on. So when out in the field ready to hunt or kill, it was important to have a mask, and that is the purpose of this visit. Touka minds herself as Kaneki and Uta talk about the mask, before eventually bringing up Touka's good looks and wondered why Kaneki didn't have a big interest in her. He replied that he did, but he 'was also scared of Touka'. Touka caught none of this conversation.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="growing-bond">
- <div class="image" img="https://i.imgur.com/nIofIGb.gif"></div>
- <h2 class="header">Kaneki's Care Towards Himani is Noted</h2>
- <div class="scroller">
- <p>
-While initially she despised Kaneki for being a half-breed and the way she was talked to back in the alley on their second meet, she slowly becomes more and more used to Kaneki's presence, even to the point where she was surprised he was helping her learn words from complicated books. Hidden from sight, she was happy to hear that Hinami was being taken care of quite well. 
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="warning">
- <div class="image" img="https://i.imgur.com/iCU62aI.gif"></div>
- <h2 class="header">An Unwanted Guest Appears</h2>
- <div class="scroller">
- <p>
-Another day passes and a new character, known as Shuu, or the 'Gourmet' comes in to assess the situation at Anteiku. He finds Kaneki and immediately becomes interested in him. Though he was not able to indulge long with the half-breed. Touka was quick to shoo him away. She was aware that Shuu enjoyed snatching people and then feeding them to ghouls in some kind of restaurant, and she immediately would have none of that. After Shuu's departure, the woman informed Kaneki not to go near that man, as he was nothing but trouble. However, with the lure of Shu being a bookworm, Kaneki ended up ignoring her warning.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="touka-shuu">
- <div class="image" img="https://i.imgur.com/cIbGvyR.gif"></div>
- <h2 class="header">Touka Battles Against Shuu</h2>
- <div class="scroller">
- <p>
-Touka quickly learns of Shuu kidnapping Nishiki's girlfriend to lure Kaneki into a trap. The reason? Shuu wanted to eat Kaneki, as he was a half-breed and they were so rare that they were unheard of, and apparently quite tasty. Nishiki, still injured with his fight from Kaneki, regrettably teams up with Kaneki and they both set off to rescue the damsel in distress. However, when the two went into the 
-church for the rescue, they were easily defeated by Shuu. It was then that Touka arrived with a sneak attack on Shuu. He recovers, and the two would battle it out, with the bluette fighting to save her co-worker. After a hard-fought battle, Touka came out on top, spitting on his corpse and telling him to eat his own flesh if he wanted to live. </p>
- </div>
- </div>
- <div class="inmenu-tab" id="friend-dies">
- <div class="image" img="https://i.imgur.com/dox8eHC.gif"></div>
- <h2 class="header">The Hate for Doves Spikes Greatly</h2>
- <div class="scroller">
- <p>
-The fight against Shuu took a massive toll on Touka's body, and she required a few days to rest, unable to work. When she recovered, she found that the Anteiku staff have gathered in a meeting, and with confusion, she pushed herself in to find out what was going on. She found out that Ryouko, as well as her husband, were both slain by the Doves. Ryouko and her husband were peaceful ghouls, unable to hunt and kill humans, and got their meals from Anteiku. Touka was angry; why take the lives of innocent people? Simply because they were ghouls, that was the only reason they were slain. With thoughts of her friend dead, and the kid they left behind now an orphan, the woman's heart fills with unbridled rage. Vengeance was on her mind. Yoshimura downtalks Touka, telling her not to go out to get revenge, as doing so would bring more attention to the 20th ward. Touka ignores this warning and runs straight out of Anteiku to get revenge.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="vengeance">
- <div class="image" img="https://i.imgur.com/QeRZjjM.gif"></div>
- <h2 class="header">The Fight Against Kureo Mado</h2>
- <div class="scroller">
- <p>
-Touka finds a small mask that she used to use when she played with Ayato; a bunny mask. She dons it, as well as a getup she threw together, then went out to fight the doves responsible for Ryouko's death. She managed to kill one of them, but before she could kill the others, the one who struck down Ryouko appeared; Kureo Mado. She attacked at him and Mado quickly figured out she was there to avenge Ryouko and began to belittle Touka, insulting her to become more angry. Despite her efforts, she could barely even lay a hand on her opponent, and with an easy strike to Touka, she was forced to flee, that one attack greatly injuring the woman. She went back to Anteiku and the staff there scolded her, telling her she would receive no help from her injuries. She gave a grunt and attended to attempt first aid on herself with no success. Kaneki attempts to help, but drives him away. He assured Touka to be careful because if she were to die, he would be sad. This greatly confused her, catching her off guard. The words sank into her head as she fumbled with the bandages in the first aid kit. The fight against Mado officially gave her the nickname, 'The Rabbit'. A name which all ghoul investigators come to know.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="trapped">
- <div class="image" img="https://i.imgur.com/pxPjRaK.gif"></div>
- <h2 class="header">Touka Attempts to Lure Mado into a Trap, but it's Turned</h2>
- <div class="scroller">
- <p>
-Touka, still recovering from her injury, was attempting to set up a trap for Mado to avenge Ryouko. She set up false information to a location to lure him in, but Mado was one step ahead, taking Ryouko's remains and stashing them into said location ahead of time. The scent of her mother lures Himani and she rushes off in excitement, causing Touka to panic and attempt to stop her with no success. Upon arriving, Mado was quick to ambush Touka and Hinami. Since Touka was unable to bide time to grab her mask and outfit, she was fully exposed to the ghoul investigator. This officially became a kill-or-be-killed scenario, for if they escaped, they would simply track her to Anteiku, and the shop would suffer, so one of them had to die. The fight began, and Touka, still injured, was quickly overpowered by Mado's quinque, which was so happened to be made by Ryouko's kagune, angering Touka even further. However at this point, Touka was all talk. She was on deaths door with several holes in her. When Mado began to deliver the final blow, the little Hinami that was sobbing the whole time finally acted out in pure rage. Hinami quickly slays Mado with impressive power, but refused to finish him off. The injured Touka brought herself up and finished off the investigator and Touka takes Hinami home, surprised that Hinami already had her kagune.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="kaneki-kidnapped">
- <div class="image" img="https://i.imgur.com/TTi7kFV.gif"></div>
- <h2 class="header">Ayato Works For the Enemy</h2>
- <div class="scroller">
- <p>
- Jason, who is looking for Rize and unaware of her death, comes to the 20th ward in an attempt to find her. They end up arriving at Anteiku, which they find that, apparently, Kaneki hosts Rize's organs. They smell this on him and decide to kidnap Kaneki. As usual, Touka moves to defend Kaneki from Jason, but an unexpected visitor appeared; Ayato. Her brother whom left her to reign freely over humans. He gets in her way and the two begin to fight. However, Ayato easily defeats Touka. Due to their blood relation, he decides to spare Touka, telling her to crawl along the ground like the worm she was. The group then leaves with Kaneki, leaving an unconcious bluette ghoul in the destroyed Anteiku.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="rescue">
- <div class="image" img="https://i.imgur.com/E32sMl2.gif"></div>
- <h2 class="header">Kirishima Bloodshed</h2>
- <div class="scroller">
- <p>
-The CCG (Coalition of Counter Ghouls. Or 'doves') have located Jason's whereabouts, and discover he is working for a ghoul organization that was known as "Aogiri". Aogiri is a group of powerful ghouls that lead an army with the intent on destroying human kind and make the world ghoul superior. The CCG move in with an army to assault the hidden base, and the members of Anteiku slip in through the chaos to try and find Kaneki. The group splits up, and while Touka searches, she ends up finding her brother once again, stopping her in her tracks. She attempts to disengage from him with no success, and the two battle it out. Once again, she was utterly defeated by her stronger brother, Ayato. This time, it looked like Ayato was moving for a killing blow.
- </p>
- </div>
- </div>
- </div> 
- 
- <div class="layerTwo" id="layer-three">
- <div class="tabs">
- <div class="tabsHeader">Tokyo Ghoul (S2)</div>
- <div class="tab" content="Kaneki Leaves" opens="kaneki-leaves"></div>
- <div class="tab" content="The Recovery" opens="the-recovery"></div>
- <div class="tab" content="Anteiku Reopens" opens="anteiku-reopens"></div>
- <div class="tab" content="Hinami Stays with Touka" opens="hinami-stays"></div>
- <div class="tab" content="However..." opens="however"></div>
- <div class="tab" content="Kaneki Returns" opens="kaneki-returns"></div>
- <div class="tab" content="Fit of Rage" opens="fit-of-rage"></div>
- <div class="tab" content="Regret" opens="regret"></div>
-<div class="tab" content="Time to Pack" opens="time-to-pack"></div>
-<div class="tab" content="Targeted" opens="targeted"></div>
-<div class="tab" content="The Move" opens="the-move"></div>
-<div class="tab" content="The Discovery" opens="the-discovery"></div>
-<div class="tab" content="The Fear of Losing" opens="fear-of-losing"></div>
-<div class="tab" content="Yoshimura Dies" opens="yoshimura-dies"></div>
-<div class="tab" content="Grieve" opens="grieve"></div>
-<div class="tab" content="Anteiku Burns" opens="anteiku-burns"></div>
-<div class="tab" content="Touka Kept Safe" opens="kept-safe"></div>
-<div class="tab" content="A New Beginning" opens="new-beginning"></div>
- </div>
- 
- <div class="inmenu-tab" id="kaneki-leaves">
- <div class="image" img="https://i.imgur.com/7tqUu2J.gif"></div>
- <h2 class="header">Kaneki Goes to Aogiri?!</h2>
- <div class="scroller">
- <p>
- Kaneki manages to break himself out of the hellish prison that Jason had put up for him, killing Jason in the process.  On his way out, he finds Touka beaten and worn by her brother and quickly intervenes to prevent her from being finished off.  She is taken to safety and proceeds to beat Ayato half to death, breaking exactly half of the bones in the male's body, silencing his screams with the phrase 'Does it hurt?  Though Touka went through more pain than this.'  Kaneki left Ayato alive due to him being the only family Touka had left.  Afterwards he told Touka that he will be not returning to Anteiku, apologized, and left a fumbling woman alone, the gal falling soon into depression once again, having lost yet another friend.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="the-recovery">
- <div class="image" img="https://i.imgur.com/wqmORwl.gif"></div>
- <h2 class="header">6 Months Later</h2>
- <div class="scroller">
- <p>
- Time passes and Touka focuses on school.  With no more violence coming around, she is able to fully focus on studying to get good grades.  She plans to head to Kami University, a very difficult college to get into, requiring very high grades across the board.  She does not falter and studies hard to meet this goal.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="anteiku-reopens">
- <div class="image" img="https://i.imgur.com/yRr1Mta.gif"></div>
- <h2 class="header">With Peace Upheld, Anteiku Reopens</h2>
- <div class="scroller">
- <p>
- Anteiku is able to reopen after a long time of peace.  The staff members gather and celebrate its reopening, glad that they're able to once again serve ghouls and humans alike within their little coffee shop of love.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="hinami-stays">
- <div class="image" img="https://i.imgur.com/D2LLghN.png"></div>
- <h2 class="header">With Nowhere to go, Hinami Lives with Touka</h2>
- <div class="scroller">
- <p>
- Due to hinami now being an orphan, she has nowhere to go.  Luckily, Touka let Hinami crash and live with her.  The two's bonds grew significantly during this time.  
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="however">
- <div class="image" img="https://i.imgur.com/WW9DuVL.gif"></div>
- <h2 class="header">A void in the Heart that can Never be Filled</h2>
- <div class="scroller">
- <p>
- Secretly, Touka misses Kaneki greatly.  It has been over 6 months, yet any mentions of him causes her to become sad.  What was he doing with Aogiri?  She briefly saw on the news that a ghoul named 'eyepatch' was battling against the doves directly, which concerned her.  She attempted to keep this out of her mind and was mostly successful.  Unless he was brought up again.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="kaneki-returns">
- <div class="image" img="https://i.imgur.com/B0CrZaq.gif"></div>
- <h2 class="header">He's Back?!</h2>
- <div class="scroller">
- <p>
- Kaneki returns to Anteiku while Touka was out studying with her friend, Yoriko.  Kaneki decides to talk to Yoshimura about something and slips out while Touka was gone.  Hinami learns of this and goes to the library to inform Touka.  Once Touka learned of this, she bolted from the library and left her friend behind, rushing down the streets in an attempt to catch the male attempting to weasle out of her grasp.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="fit-of-rage">
- <div class="image" img="https://i.imgur.com/EAYrvBq.gif"></div>
- <h2 class="header">'Trash Like You Should Never Come Back to Anteiku!'</h2>
- <div class="scroller">
- <p>
-Touka eventually catches up to Kaneki and attempts to learn why he went with Aogiri, the ghoul terrorist organization.  He told her that it was to keep her safe and out of harms way.  And well, since it's been 6 months without any violence, he was doing a good job.  However, this did not sit well with Touka.  She blurted out hateful words to him about being selfish and never putting his friends first, and that she hated him for it.  He then replied that as long as she was safe, then he was fine with that.  This tilted her over the edge, and she socked Kaneki right in the face and told him never to come back.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="regret">
- <div class="image" img="https://i.imgur.com/9iqUSbg.gif"></div>
- <h2 class="header">'I finally see him again, and what do I do?  Sock him in the face and call him names.'</h2>
- <div class="scroller">
- <p>
-After that event, regret began to set it.  She wanted Kaneki to come back, not stay away!  Why did she do that?  She called herself an idiot multiple times, the interaction still fresh on her mind.  She attempts to push those thoughts off and focus on her studying.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="time-to-pack">
- <div class="image" img="https://i.imgur.com/nCSxZuK.gif"></div>
- <h2 class="header">Her Apartment Gets </h2>
- <div class="scroller">
- <p>
- The building Touka was living at was being renovated, so she would have to crash at Yomo's place, her uncle.  Yoriko, her friend, tries to make Touka stay at her place instead, wanting her to live with her so they can be closer.  Yoriko always fed Touka meals she made because she enjoyed cooking, unaware that Touka was a ghoul.  Touka quickly declined, saying that it was alright and that they would continue to keep in touch.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="targeted">
- <div class="image" img="https://i.imgur.com/AeLKSH0.png"></div>
- <h2 class="header">Anteiku is Targeted by the CCG</h2>
- <div class="scroller">
- <p>
-Yoshimura has been known as 'The Owl', an extremely powerful ghoul that was responsible for many Dove deaths during operations.  His location has been hidden quite well, until now.  The doves suspected that he works at a coffee shop called Anteiku and they seek to investigate.  Yomo and Yoshimura talked this over and they quickly agreed to evacuate the young ones from the area, and Yoshimura called in assistance to help defend his home from the eventual CCG attack.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="the-move">
- <div class="image" img="https://i.imgur.com/28YqeqV.gif"></div>
- <h2 class="header">Touka and Hinami are Lead to Safety</h2>
- <div class="scroller">
- <p>
-Yoshimura and Yomo go ahead with the plan to get the two moved to Yomo's place.  Yoshimura waves them off, Touka unaware that Anteiku was being targeted and brought away from the fight.  Yoshimura did not want Touka and Hinami to be caught up in the consequences in his past.  And so they were taken to safety, away from the deathly grasp of the CCG.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="the-discovery">
- <div class="image" img="https://i.imgur.com/hc5AM0D.gif"></div>
- <h2 class="header">Anteiku is Under Attack?!</h2>
- <div class="scroller">
- <p>
-Touka learns of the attack on Anteiku through the news and Touka quickly departs in an attempt to help defend it, but she was stopped by Yomo.  He tells her that this was not her fight, it was Yoshimura's, as well as the rest of the staff, for they have done their fair share of sins in the past, and this is their redemption; to fight and die at Anteiku.  Touka did not accept this.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="fear-of-losing">
- <div class="image" img="https://i.imgur.com/eOfacGO.gif"></div>
- <h2 class="header">'All of my friends.. my home.. I'm going to lose it all again!'</h2>
- <div class="scroller">
- <p>
- With a burst of rage, she shoots passed Yomo and races down the street in a panic.  In fear of losing the people and home she had come to known and love, she hurridly made her way down the streets, attempting to get back to Anteiku and lend them her support, whatever it would take.
- </p>
- </div>
- </div> 
- <div class="inmenu-tab" id="yoshimura-dies">
- <div class="image" img="https://i.imgur.com/eP0txzg.png"></div>
- <h2 class="header">The CCG are successful in their Mission</h2>
- <div class="scroller">
- <p>
-The most powerful of the CCG burrow down on Anteiku to fight Yoshimura, and with a long fought battle on a rooftop.  With a final gasp of Yoshimura's child and his long-dead wife, falls over, now defeated.  Though Kaneki had returned to save the rest of the staff, he was unable to reach Yoshimura in time.
- </p>
- </div>
- </div> 
- <div class="inmenu-tab" id="grieve">
- <div class="image" img="https://i.imgur.com/sWNcOCi.gif"></div>
- <h2 class="header">"No.. Not again.."</h2>
- <div class="scroller">
- <p>
-Through the cheers of victory that rang through the ward, Touka learns of the death of her beloved father figure.  The woman falls into deep depression once again.  The man that had raised her since she was only five years old, now dead at the hands of the organization who also took her blood father, as well as her mother, away from her.
- </p>
- </div>
- </div> 
- <div class="inmenu-tab" id="anteiku-burns">
- <div class="image" img="https://i.imgur.com/Ur97EUk.gif"></div>
- <h2 class="header">The Suffering Continues</h2>
- <div class="scroller">
- <p>
-With the CCG having pulled away from Anteiku, Touka moves to retreat to it in solice.  The others that survive would be hiding there.. right?  She runs back onto the block, only to stare in absolute horror -- <b>Anteiku was burning. </b> Most likely set ablaze by the CCG before they left, Touka watched in horror as the memories of her loved ones shattered and burned away in the hateful flames.
- </p>
- </div>
- </div> 
- <div class="inmenu-tab" id="kept-safe">
- <div class="image" img="https://i.imgur.com/ASM3bcx.gif"></div>
- <h2 class="header">'Why.. Why are you stopping me?'</h2>
- <div class="scroller">
- <p>
- Touka finds Kaneki walking away from Anteiku with his friend in his arms.  He's.. dead?  She stared off as Kaneki began to walk out towards the CCG base that was temporarily set up to take care of their wounded, a helicopter flying over and spotting Kaneki, and the CCG knew he was the eyepatch.  Touka moved to go join Kaneki; she wanted to be there with him, to kill the CCG, and to avenge her father figure, Yoshimura.  She was stopped again by Yomo, and this time he did not budge, telling her to forget about him and focus on her future.  She was too young to die now; what about college?  Her future?  Touka broke out into tears, but Yomo remained firmed, keeping her from an early death.
- </p>
- </div>
- </div> 
- <div class="inmenu-tab" id="new-beginning">
- <div class="image" img="https://i.imgur.com/dLwiSS5.gif"></div>
- <h2 class="header">A Second Chance at Life</h2>
- <div class="scroller">
- <p>
-There are times where life seems not worth living.  But you have to remember that there are people who shed blood and tears for you, so that you could live on.  Even if those people are not around anymore, having moved on or died, you must remember to live on, for them.  Shoulder your grief and push forward into the future, one which your loved ones would have wanted you to do.  Don't let their sacrifices be in vein.  With this in mind, Touka did just that.  With the threat of the CCG no longer looming over her, and with the help of Yomo, Touka opens a brand new cafe of her own to carry on the legacy of Yoshimura.  With a smile and a brush of her hair, she flipped the sign from 'closed' to 'open', and she made her way inside of her cafe, the bell ringing as the door opened.  The cafe's name?  .. <b>:re </b>.
- </p>
- </div>
- </div> 
- </div>
- 
- <div class="layerTwo" id="layer-four">
-<div class="tabs">
- <div class="tabsHeader">Tokyo Ghoul:re</div>
- <div class="tab" content="Unexpected Reunion" opens="unexpected-reunion"></div>
- <div class="tab" content="Saving Shuu" opens="saving-shuu"></div>
- <div class="tab" content="The Fight to Save Hinami" opens="save-hinami"></div>
- <div class="tab" content="Leave it to Ken" opens="leave-to-ken"></div>
- <div class="tab" content="Hinami Secured" opens="hinami-secured"></div>
- <div class="tab" content="G.O.A.T." opens="goat"></div>
- <div class="tab" content="CCG Gets Aggressive" opens="ccg-aggressive"></div>
- <div class="tab" content="Secret Revealed" opens="secret-revealed"></div>
-<div class="tab" content="Are you... a Virgin?" opens="virgin"></div>
-<div class="tab" content="Attacked" opens="attacked"></div>
-<div class="tab" content="Love" opens="love"></div>
-<div class="tab" content="A Gift to Ken" opens="gift-to-ken"></div>
-<div class="tab" content="Pregnant" opens="pregnant"></div>
-<div class="tab" content="Confession" opens="confession"></div>
-<div class="tab" content="Marriage" opens="marriage"></div>
-<div class="tab" content="Defeated" opens="defeated"></div>
-<div class="tab" content="Dragon" opens="dragon"></div>
-<div class="tab" content="Blamed" opens="blamed"></div>
-<div class="tab" content="Ghouls and Humans" opens="ghouls-and-humans"></div>
-<div class="tab" content="The Search" opens="the-search"></div>
-<div class="tab" content="Found" opens="found2"></div>
-<div class="tab" content="Kaneki Recovers" opens="kaneki-recovers"></div>
-<div class="tab" content="To End the Bloodshed" opens="end-the-bloodshed"></div>
-<div class="tab" content="Dragon Defeated" opens="dragon-defeated"></div>
-<div class="tab" content="6 Years Later" opens="6-years"></div>
-<div class="tab" content="Ichika" opens="ichika"></div>
-<div class="tab" content="The End" opens="the-end"></div>
- </div>
- 
- <div class="inmenu-tab" id="unexpected-reunion">
- <div class="image" img="https://i.imgur.com/cjgHwJE.gif"></div>
- <h2 class="header">2 Years Later</h2>
- <div class="scroller">
- <p>
-  2 Years after the destruction of Anteiku, Touka sets up a new cafe shop called :re.  For these two years, life has been relatively peaceful.  Touka knew Kaneki wasn't dead, even when defeated at the hands of Arima, the CCG's strongest ghoul investigator, also known as 'The White Reaper'.  One day when working in :re, she comes across Kaneki once more, but this time as a different person altogether.  He was now known as Haise Sasaki.  With his memories completely erased, he has no memories of Anteiku or Touka, and she was aware of this.  It's been 2 years since she's last seen him, and she was forgotten.  She looks on at him, saddened by his fate.  However, it didn't matter.  It doesn't matter if he's changed appearance, it doesn't even matter if she's forgotten.  As long as he comes back home, then it's alright.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="saving-shuu">
- <div class="image" img="https://i.imgur.com/lA2jnGx.gif"></div>
- <h2 class="header">Once an Enemy, now a Friend</h2>
- <div class="scroller">
- <p>
- Touka was fairly inactive in the first part of events from :re, but she did act when she was needed, such as saving Shuu.  Once an enemy, now an ally, as he helped defend what they all loved due to their mutual relationship with Kaneki.  As Haise left Shuu for dead, Touka and the rest of the :re staff come to rescue him for that death.  They take him back to the cafe and nurse him back to health.  As far as the doves understood, Shuu was now dead.  At least for the moment.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="save-hinami">
- <div class="image" img="https://i.imgur.com/oK77Fuj.gif"></div>
- <h2 class="header">Hinami was Captured by the CCG</h2>
- <div class="scroller">
- <p>
- She didn't understand why, but Hinami has been working with Ayato this whole time.  She seemed to be working with Aogiri.  She didn't understand, but she knew that Hinami was in trouble.  Aogiri invade the prison in an attempt to free a very powerful ghoul that has been locked away, and the crew at :re move to slip in during the chaos and try to free her.  In the way of Hinami was Arima, the White Reaper.  A very powerful foe that was the her father's killer.  Yomo was especially pissed off at this, and charged out to fight him.  With the sudden support fromm Ayato, the three attack Arima together.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="leave-to-ken">
- <div class="image" img="https://i.imgur.com/jD5Wpid.gif"></div>
- <h2 class="header">Kaneki is Back to Normal?!  Touka goes to find Hinami</h2>
- <div class="scroller">
- <p>
- When things were looking bleak for the three against the powerful Arima, Kaneki steps in and prevents the finishing blow on Yomo.  Touka was surprised; he wasn't that Haise anymore, not only that, but he was much, much stronger.  Kaneki tells them to go get Hinami and get out of here.  Touka gave a smile and nodded, and she told Kaneki that she would see him soon, and then left.  These words stung Kaneki, hard.  Because he was fighting the White Reaper, the most powerful CCG member out there.  He planned on dying in this fight.  See him soon?  Did she even begin to understand those words?
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="hinami-secured">
- <div class="image" img="https://i.imgur.com/6OumflT.gif"></div>
- <h2 class="header">Touka was Glad to See her Old Friend Again</h2>
- <div class="scroller">
- <p>
- Touka, having caught up with Himani, grips up her cheeks and calls her a screw up while smiling, then pulled her into one of the greatest hugs she ever made.  She quickly takes Hinami back home so that they can regroup.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="goat">
- <div class="image" img="https://i.imgur.com/9x4sMaT.gif"></div>
- <h2 class="header">Attempting to Bring Ghouls and Doves Together</h2>
- <div class="scroller">
- <p>
-Kaneki believes that there is a future where ghouls and humans can live together in peace.  He made friends during his time as Haise, due to him being a Dove back then when his memories were erased.  He called upon them, as well as the remnants of Aogiri to talk about working together to take down the new leader of the CCG, who was being very aggressive with ghoul killing, and this was getting in Kaneki's way.  Almost everyone refused to be a part of Goat, and because of it, Kaneki did not have the forces he was seeking to claim.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="ccg-aggressive">
- <div class="image" img="https://i.imgur.com/T1AsekV.gif"></div>
- <h2 class="header">CCG Turns Up the Heat</h2>
- <div class="scroller">
- <p>
-The new leader of the CCG was a man named Furata.  He was a merciless leader that lead the CCG into territories that the CCG didn't know about before and slaughtered thousands of ghouls, innocent and not.  The news terrified Touka a bit; how did this man know so much about the hiding places of ghouls?  It didn't make sense.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="secret-revealed">
- <div class="image" img="https://i.imgur.com/bjZYhCK.gif"></div>
- <h2 class="header">'I killed your father'</h2>
- <div class="scroller">
- <p>
- One of the CCG people that did team up with Kaneki was known as Akira Mado.  A woman that had mourned Kureo's death at the hands of 'The Rabbit'.  Since they were allies now, she decided to release the tension.  She dragged Akira out of bed and informed her that she was the rabbit, and she was the one that killed her father.  Akira loathed Touka for this.  "That's one hell of a thing to drag a sick woman out of bed to say to." Touka informs her that she only did it because he was after Hinami, though the hatred for Touka was strong, seeing Hinami going up to Akira and telling her that she forgave her father for killing Hinami's parents.. it drove down the rage just a bit.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="virgin">
- <div class="image" img="https://i.imgur.com/GkXXaWc.gif"></div>
- <h2 class="header">'You know.. I could help you with that'</h2>
- <div class="scroller">
- <p>
- Back at :re, Kaneki and Touka enjoy the break they've been needing.  Turns out he killed Arima and became this mythical title all of the ghouls are calling him now: 'The One-Eyed King'.  Since he was finally back, she couldn't help but bring up a question that was bothering her.  "Are you.. a virgin?" It completely caught him off guard.  To which after he recovers, she tells him that she could help him with his virgin problem.  She explained to a dumbstruck Kaneki that she always noticed that during his visits while he was Haise that she caught his glances towards her.  And then informed him that she was surprised that he didn't see her.. taking glances back.  A seemingly romantic moment began to fill the area between the two.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="attacked">
- <div class="image" img="https://i.imgur.com/94xg7e7.gif"></div>
- <h2 class="header">'Die, You Thieving Tramp!'</h2>
- <div class="scroller">
- <p>
- A mysterious eyepatched woman comes into her cafe shop, who was seemingly one of Kaneki's teammates.  Shoving Kaneki to the side, she openly attacks Touka, setting fire to her coffee shop.  She attempts to hold back to the angry ghoul investigator, being told that she stole Kaneki from her?  What in the world was that supposed to mean?  Kaneki manages to thwart off Mutsuki and grabs Touka, taking her to safety.  Unfortunate that :re had to crash and burn.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="love">
- <div class="image" img="https://i.imgur.com/FAHczgq.gif"></div>
- <h2 class="header">Love Sparks in the Kirishima</h2>
- <div class="scroller">
- <p>
- Once out of the clutches of the CCG, the two are able to have a moment to themselves.  Touka, still bent on helping his virginity, begins to show affection for Kaneki, and eventually ends up stripping.  He follows, and the two enjoy themselves on the cold floor of an abandoned building in the middle of the night.  Virginity-begone.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="gift-to-ken">
- <div class="image" img="https://i.imgur.com/6z0xOof.gif"></div>
- <h2 class="header">'This is imporant to me, so I want you to have it.'</h2>
- <div class="scroller">
- <p>
-The day after, Touka's best friend, Yoriko, gets married to one of the friendly Doves that had joined Goat, and her and Kaneki attend the wedding at a distance.  The two stayed in silence for a while to take in the moment, and then Touka presents a ring that her father wore during his time married to her mother.  She gifted it to him, telling him that it was a precious item and she wanted him to have it.  He took it gladly, saying he will always remember her whenever he sees it.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="pregnant">
- <div class="image" img="https://i.imgur.com/PIKgiye.gif"></div>
- <h2 class="header">Eating Human Food to Nurse the Baby</h2>
- <div class="scroller">
- <p>
- It seemed Kaneki had a weak pullout game.  Or Touka loved the hot feeling of cum inside of her.  Either way, Touka now carried a half-human, half-ghoul baby inside of her.  It was known that a ghoul and a human cannot breed very well together, that the chance of the baby's survival is less than 10%.  On top of this, for the baby to get nurishment, she is forced to eat human food; the poison for ghouls.  Eating human food is disgusting and dangerous for a ghoul, but for the child, it was necessary.  With great hesitation, she builds up the courage to eat, putting her health at risk for her baby.
- </p>
- </div>
- </div> 
- <div class="inmenu-tab" id="confession">
- <div class="image" img="https://i.imgur.com/8ETSYrS.gif"></div>
- <h2 class="header">Touka Tells Kaneki She's Pregnant</h2>
- <div class="scroller">
- <p>
- Due to Nishiki spying on Touka as she ate, Kaneki soon learns that indeed Touka was pregnant.  He rushed to the place she was staying at and tried to subtly as how she was feeling, though he was being rather terrible at it, upsetting her.  It was after she calmed down that she informed him that she's pregnant.  The male stared, before letting her know that he was very happy to hear that, a reply which shocked Touka.  "R-really?" she spoke, causing him to nod, and she became happy with his approval.
- </p>
- </div>
- </div> 
- <div class="inmenu-tab" id="marriage">
- <div class="image" img="https://i.imgur.com/CZnPVTW.gif"></div>
- <h2 class="header">Tying the Knot</h2>
- <div class="scroller">
- <p>
- Despite Touka telling Kaneki that he didn't need to go this far for her, the two end up planning a wedding reception.  The two dressed up in the ghoulish fashion of a wedding.  Their friends and family come along to celebrate, drinking and dancing and hanging around a bonfire.  It was a lovely and magical moment for them both.
- </p>
- </div>
- </div> 
- <div class="inmenu-tab" id="defeated">
- <div class="image" img="https://i.imgur.com/mgeVzvG.gif"></div>
- <h2 class="header">Mutsuki Crashes the Wedding</h2>
- <div class="scroller">
- <p>
- It seemed that Mutsuki also had feelings for Kaneki, and moved with Kaneki-like clones to crash the party.  Kaneki was overwhelmed by the clones, and Touka was viciously beaten by Mutsuki.  As Kaneki laid down on the ground, near death, he watched on as Mutsuki impaled Touka to a wall with daggers, moving to kill the wretched bluette that took her Kaneki away from her.
- </p>
- </div>
- </div> 
- <div class="inmenu-tab" id="dragon">
- <div class="image" img="https://i.imgur.com/gpX9TB2.gif"></div>
- <h2 class="header">'Touka.. Touka.. Touka..!  TOUKA!!!'</h2>
- <div class="scroller">
- <p>
- With his pregnant wife seconds from death, Kaneki, in a desperate attempt to save Touka, fully loses control.  His rage shoots up into the sky as his kakuja manifests into that of a large centipede-like kakuja.  To everyone's surprise, this kakuja quickly spread all over the city of Tokyo, ripping through the ground, buildings, and attaching itself to the landscape.  The city's power is cut off, and thousands of human and ghoul lives are lost.  Kaneki is nowhere to be found, and the city-wide Kakuja becomes dormant.  This immense kakuja became known as 'The Dragon'.
- </p>
- </div>
- </div> 
- <div class="inmenu-tab" id="blamed">
- <div class="image" img="https://i.imgur.com/i6L36w0.gif"></div>
- <h2 class="header">'She's the one that caused all of this!'</h2>
- <div class="scroller">
- <p>
- Touka is blamed for the cause of The Dragon, and was mocked and belittled by one of the people she thought was a friend.  Yomo tells her not to listen, and she attemtps to shut out the cold words being driven into her ears.  It was only when that one of Kaneki's allies, Akira and Kotaro, come to speak with her, that she was able to get out of this trance.  The three begin to make a plan about bringing the CCG and ghouls together to take care of The Dragon.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="ghouls-and-humans">
- <div class="image" img="https://i.imgur.com/UL2FDU0.gif"></div>
- <h2 class="header">'Pride?  This is what I think about your stupid pride.'</h2>
- <div class="scroller">
- <p>
- The plan was simple, yet complicated.  The goal; convince the CCG to work along side the ghouls to kill The Dragon.  Akira, Kotaro, and Kaneki's friend, Hide, all come together and speak to the higher up of the CCG, bringing all of the ghouls allied with them.  This angered the CCG and they come with an army of ghoul investigators of their own, telling them that the very thought of working with ghouls angered them.  That the very notion would destroy their pride.  In a fit of anger, Touka grabs her mask and throws it into the air, shouting "Pride?  This is what I think about your stupid pride."  All of the ghouls follow suite, exposing themselves fully to the CCG.  They were committed now.  If the CCG still said no, they would all be hunted down, their identities now known.  It was to show the CCG how dedicated they really were to save Kaneki.  Eventually the CCG agreed, and officially, for the first time in history, ghouls and humans band together to deal with a bigger threat.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="the-search">
- <div class="image" img="https://i.imgur.com/ftkg1KW.gif"></div>
- <h2 class="header">How to Find Kaneki?</h2>
- <div class="scroller">
- <p>
- The CCG have come to understand that the Dragon was currently dormant, and if reawakened, it will cause mass destruction upon Tokyo for the next 200 years.  They have also discovered that the Dragon can be slain by removing the core; AKA Kaneki.  But to serach for a man in such a huge kakuja, it seemed impossible.  It was until Touka recalled that she gifted her father's ring to Kaneki, and came to the conclusion that he could be found by using metal detectors.  Shuu made a call to his father and had him buy a ton of metal detectors, and everyone would begin the search to find Kaneki.  As they searched, however, The Dragon's dormant would not remain for much longer..
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="found2">
- <div class="image" img="https://i.imgur.com/mLhqiiW.gif"></div>
- <h2 class="header">Touka's Detector Goes Off, and She Digs Frantically</h2>
- <div class="scroller">
- <p>
- The Dragon uses a strange self defense mechanism from everyone searching all over it.  It shot out large bio-monsters that, when slain, exploded and infected people.. turning them into ghouls?!  Touka hid well from them, continuing to search before finally finding her beloved.  She dug him out in a frantic frenzy, tears filling her eyes as she pulled him from the Dragon and brought him to the hospital.  He was in a coma, unable to wake up from it.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="kaneki-recovers">
- <div class="image" img="https://i.imgur.com/GqSzb3U.gif"></div>
- <h2 class="header">He's Alive!</h2>
- <div class="scroller">
- <p>
- Kaneki wakes from his coma while Touka was asleep.  She woke up at his movement, and her eyes would widen in shock.  Tears of relief is made from the bluette, and she gripped onto the male tightly, wheeping in joy for his recovery.  She and the others then inform Kaneki that the Dragon was still alive, due to it having another core.  They weren't sure who or how, but they needed to get to the top of the Dragon.  The plan was made, despite Touka's pleas.  Kaneki and Ayato would go underground to find a way up the Dragon. Touka wishes them luck, and they head out.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="end-the-bloodshed">
- <div class="image" img="https://i.imgur.com/02zDMs4.gif"></div>
- <h2 class="header">Kaneki vs Furata</h2>
- <div class="scroller">
- <p>
- To the Dragon the two go.  Ayato stays behind to deal with the mass of bio monsters that were attacking them, and Kaneki attempts to go to the top of the Dragon.  On the way up, he comes across Furata, who seemed to be behind this whole ordeal.  His plan?  To make Tokyo a purely ghoul society, and to do that, he would use the Dragon to infect humans and somehow turn them into ghouls.  Kaneki readies his kagune in the final fight.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="dragon-defeated">
- <div class="image" img="https://i.imgur.com/5GViJbx.png"></div>
- <h2 class="header">Rize Was the Other Core?!</h2>
- <div class="scroller">
- <p>
- With the mastery of his kakuja, Kaneki defeats and kills Furata in an epic, final battle.  With his victory, he climbed to the very top of the Dragon and found the other core; Rize?  But, she's been dead.. This didn't make sense.  Or, it wouldn't have, if Touka was there.  Kaneki understood, however, and said his goodbye to the unconcious Rize trapped in the pod, and slayed her.  With her death, the Dragon loses its power and withers away over the course of the next years.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="6-years">
- <div class="image" img="https://i.imgur.com/9f75IGZ.gif"></div>
- <h2 class="header">Peace restored.  This time?  For good.</h2>
- <div class="scroller">
- <p>
- An entire six years have passed since the battle over the Dragon.  Dying people were saved by the advanced technology over the years, people got together and married, and most importantly?  Ghouls and humans now lived in harmony.  The production of artificial flesh is produced to prevent the loss of human lives for the survival of ghouls, and the CCG disbanded, molding instead with the police force to uphold the law.  This was a future that Touka thought she would never see.  A life of hiding in the shadows and dying of old age in fear of being discovered was the life that was prepared for Touka.  However, all of this changed, thanks to one, single bookworm: <b>Ken Kaneki. </b>
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="ichika">
- <div class="image" img="https://i.imgur.com/j6WJRqb.gif"></div>
- <h2 class="header">Ichika Kaneki, the Natural One-eyed Ghoul</h2>
- <div class="scroller">
- <p>
- That 10% chance of the baby surviving pulled through, and Ichika Kaneki was born.  Now five years old, she lives with her mother, Touka, and her father, Kaneki, and gets plenty of visits from Yomo.  Ichika is raised with warm hearts, plenty of affection and love, and guarded by the most powerful ghoul of them all; Ken Kaneki.
- </p>
- </div>
- </div>
- <div class="inmenu-tab" id="the-end">
- <div class="image" img="https://i.imgur.com/tFw639p.gif"></div>
- <h2 class="header">'It's a beautiful day today.. Isn't it, Touka?'</h2>
- <div class="scroller">
- <p>
-With a second child on the way, the three move to walk along their land, looking up at the lovely sunny day.  The wind breezes through their clothes and hair, the fresh smell of grass filling their noses.  With a final, relaxed whisper from Kaneki, 'It's a beautiful day today, isn't it, Touka?' The story of Ken Kaneki and Touka Kirishima-- or in this case, Touka Kaneki-- lived happily ever after, bringing the once tragic story to a happy ending.
- </p>
- </div>
- </div>
- </div>
-   
-   <div class="layerTwo" id="layer-five">
- <div class="tabs">
- <div class="tabsHeader">RPC</div>
- <div class="tab" content="Where the canon ends" opens="canon-ends"></div>
- <div class="tab" content="Kiri Cafe" opens="kiri-cafe"></div>
- <div class="tab" content="A curious portal" opens="curious-portal"></div>
- <div class="tab" content="Fight and Fuck: Grand Colosseum" opens="fnf"></div>
- <div class="tab" content="Living in Remnant" opens="remnant"></div>
- <div class="tab" content="Kidnapped" opens="kidnapped"></div>
- <div class="tab" content="Cinder and Jason's Plan" opens="cinder-jason"></div>
- <div class="tab" content="Kaneki?!" opens="kanekirpc"></div>
- <div class="tab" content="Kakuja" opens="kakuja"></div>
- 
- </div>
-
- <div class="inmenu-tab" id="canon-ends">
- <div class="image" img="https://i.imgur.com/d1l9NlW.png"></div>
- <h2 class="header">Where the Story Ends and the Roleplay Begins!</h2>
- <div class="scroller">
- <p>
- The canon ends after Kaneki is freed from the Dragon and they end up getting together to create Ichika.  After the Dragon was destroyed and Ichika was conceieved, Kaneki and Touka went their separate ways, with Touka wishing to travel the world and get serious about her cafe business.  To her, :re was her passion, but it wasn't enough.  After repairing :re after the incident with Mutuski, she traveled across the world to start a business of her own.  She would call it, 'Kiri Cafe'.  
- </p>
- </div>
- </div>
-     <div class="inmenu-tab" id="kiri-cafe">
- <div class="image"></div>
- <h2 class="header">Starting her New Brand in the Americas</h2>
- <div class="scroller">
- <p>
- Kiri Cafe, or the Kirishima Cafe, is her new brand that she attempts to get across the world, starting with the United States of America.  After a long, hard-fought battle, she was able to successfully place her cafe in California, and within a few weeks of working there, her cafe was quickly branded as one of the best cafes of the state.  With her bit of magic made with helping there to get the popularity going, she departed, heading next to Iowa, and easily got herself going there, then once more down at Texas.  While still working to get her cafe to the other parts of America, she is content, for the time being, with what she had now.  (Image WIP)
- </p>
- </div>
- </div>
-     <div class="inmenu-tab" id="curious-portal">
- <div class="image"></div>
- <h2 class="header">A Portal Opens in the Business District</h2>
- <div class="scroller">
- <p>
- A portal manifests into the business district of Tokyo.  The police force investigated and attempted to close it, but for some reason, they could not pass through it.  Touka saw this portal after news broke out about it.  She moved to check it out for herself, and she ended up making her way directly through it, to this day she could not figure out how, but through the portal she goes, slipping into the unknown. (Image WIP)
- </p>
- </div>
- </div>
-     <div class="inmenu-tab" id="fnf">
- <div class="image"></div>
- <h2 class="header">The Realm of Infinite Battles</h2>
- <div class="scroller">
- <p>
- The portal lead to a different realm altogether, a place called Fight and Fuck: Grand Colosseum.  While the name was a little offputting, she grew curious and began to explore.  She soon understood that this was a realm of which multiple universes come together, linking to this area as a middle grounds kind of place.  The past, the present, the future-- Even the dead, can reunite here.  This place offered the ultimate cheat towards death: A respawn, bringing those defeated back to life altogether with their memories intact.  A perfect place to test ones limits and move to surpass them.  It was here that she met many people, both friendly and not. (Image WIP)
- </p>
- </div>
- </div>
-   <div class="inmenu-tab" id="remnant">
- <div class="image" img="https://i.imgur.com/o13IoLZ.png"></div>
- <h2 class="header">The Land of The RWBY Universe</h2>
- <div class="scroller">
- <p>
- The woman came to know someone, a certain bandit named Raven Branwen.  While she was extremely hard-headed at first, Touka decided to make her a passtime to try to open them up a bit.  Over the course of months, she was successful, and the two would begin dating.  Eventually the woman brought Touka to Remnant, a place filled with giant monsters known as 'grimm' that attack settlements when negative emotions arise.  She arrived at Raven's camp full of bandits, who seemed to immediately distrust her, but this is where she stayed for the next six months.  It was around this time that Touka had come to know about the other members of Raven's tribe, and grew to trust them, and them to her.
- </p>
- </div>
- </div>
-   <div class="inmenu-tab" id="kidnapped">
- <div class="image"></div>
- <h2 class="header">An AU Jason emerges from the Portal</h2>
- <div class="scroller">
- <p>
- Every once in a while she would return back to Tokyo to manage her cafe and keep bills paid.  Raven and Touka go out for a walk in the winter near a park where she lived.  Ther was no wind, and the snow was just perfect, coming straight down to create a soft, pillowy cold surface.  The two make it to the park and enjoy a nice time together, before finally deciding to head home, only to notice something: There was a fire, and it was coming from the direction of her house!  Raven flew on ahead to check it out, and saw that her house was indeed on fire.  The home she knew was set ablaze, and before she could do anything about it, Jason struck.  Attacking Touka and beating her unconcious, Jason fights Raven.  While Raven was fast, she could not seem to land a blow against the evasive Jason.  He sicks a new recruit onto her, a woman with a quinque that had the ability to warp time.  Whenever Raven attempts to run passed her and save Touka, she would be displaced by the illusion, and found herself back against the enemy.  It is when that Kaneki joined up with Raven, hearing about the news, and while the two did not like each other very much, they teamed up to kill the opponent.  They were eventually successful in killing her, and with the illusion dropped, they moved to secure Touka.
- </p>
- </div>
- </div>
-   <div class="inmenu-tab" id="cinder-jason">
- <div class="image"></div>
- <h2 class="header">RWBY x Tokyo Ghoul Bad Guy Teamup?!</h2>
- <div class="scroller">
- <p>
- The two find that Jason had established a new base in an abandoned construction site, and so the two retreated.  Kaneki, a higher up of the CCG, now come to form an army to invade and kill Jason, as they once did before.  After preparations were made, the two, along with the CCG, made their way to the construction site and was quick to invade it.  Kaneki stayed behind to help out with the battle and Raven ran on ahead, only to be stopped by a special guest, one bent on getting revenge: <b>Cinder. </b> The woman's arm has been regrown back to how it was before it was replaced by that grimm hand, and more importantly, one of her eyes had turned blood red.  Cinder, in able to get revenge, had used Jason to become a one-eyed ghoul.  The two battled, and through the use of her new quinque given by Touka, she used it to slay Cinder, having the weapon to counteract ghouls.  She moved on, leaving the corpse behind to finally find Touka.  She was being.. force fed by Jason.  Not just flesh though, ghoul flesh!  There were plenty of bodies around them, and Touka was beaten, bruised, cut up, and with a bit of vomit, and definitely a lot of blood over her.  In a rage, Raven fights Jason.  The battle was hard fought and long, but eventually Raven was successful.  With severe injuries, Raven frees Touka from the metal chair she was tied to, and the two would quickly retreat back to Remnant, where they stayed for a little longer.  Touka's home was rebuilt, and she would return home, glad to be back to how things used to be.  However, upon waiting for Raven, Touka found that she did not return.  No portals made, and she no longer appeared at the colosseum.  This baffled Touka, but ultimately pushed her into a rather deep depression.  Was she abandoned?  Not again.. (Image WIP)
- </p>
- </div>
- </div>
-     <div class="inmenu-tab" id="kanekirpc">
- <div class="image"></div>
- <h2 class="header">Kaneki Arrives at the Colosseum!</h2>
- <div class="scroller">
- <p>
- Time has passed since the event, and during this, she has not seen Kaneki at all.  It was one day that he appeared in the colosseum in his usual black flare.  Heh.  Dude always looks like an oreo, she swears.  But that was alright.  She missed him, truly, and began to tell him all about the colosseum.  Turns out, over the years, Kaneki has grown to love fighting, and discovering this place was a godsend.  The two began to catch up on what's been going on for the passed six years, only to be informed that he was around to help her with Jason.  To this, she was surprised, before giving a smile and thanking him, and the two would continue to bond in the colosseum.  (Image WIP)
- </p>
- </div>
- </div>
-     <div class="inmenu-tab" id="kakuja">
- <div class="image"></div>
- <h2 class="header">'I can see your father's Kakuja in yours'</h2>
- <div class="scroller">
- <p>
- Due to her consuming massive amounts of flesh from Jason, she found herself slowly forming a kakuja over time.  Whenever she got angry or extremely stressed, she would lose control, turning into a beetle-like Kakuja.  Though over time she was helped by Kaneki to help out in containing it, and if it broke out, he would quell it.  It wasn't until Mutsuki came back around and saught revenge against Touka for what happened at :re.  After pushing her to near death, she finally lost herself to her kakuja, but this time, her deceased father, Arata, came from the dead to briefly invade her distorted mind and showed her the way to manifest the kakuja.  When she regained consciousness, her kakuja was fully formed, coming to life with heightened strength and abilities, and she quickly dispatched Mutsuki and sent her packing.  A few days later, Kaneki and Touka come together to go back to Tokyo, hunting down the traitorous Mutsuki and found her, only to realize that she had manifested a Kakuja of her own.  Through effort and pain, the two slay Mutsuki, and with her death, and a final goodbye from Kaneki, they return home.
- </p>
- </div>
- </div>
+      <p><b>Kakuja: </b> A kakuja is a twisted manifestation that rarely occurs in ghouls who practice cannibalism (in
+        this case, Touka was force fed ghoul flesh as a method of torture). Cannibalism is typically unhealthy for a
+        ghoul due to it causing insanity. However, in rare cases, cannibalism can cause a special type of kagune to
+        manifest onto a ghoul, a very powerful and hard to use kagune called a 'kakuja'. A kakuja is a very powerful
+        kagune that greatly increases the abilities of its user. Mastery of a kakuja is extremely difficult, and often
+        leads to the users death (going insane and rampaging until someone kills them). But in this case, mastery of her
+        kakuja was able to be accomplished due to her long time friend, Kaneki, who also possesses one. Touka's kakuja
+        provides an exceptional amount of defense, as well as greatly increasing her strength, speed, regeneration
+        factors, and stamina. It can also give her the ability to use bioelectric fields much more potently, up to the
+        point where she straight up shoots lightning. Once per fight, activating her kakuja will restore up to a third
+        of her health. As a result, she uses her kakuja when she's about to lose. She delves more into melee in this
+        form, since it's much easier to do so, but ultimately keep her ranged attacks coming. Be careful when facing
+        Touka when she's using this; she's at her most powerful. </p>
+    </div>
+  </div>
 </div>
- 
- 
- 
- </div>
- 
- <!--
+
+<!--
  ================================
  ----- BREAK -----
  ================================
  -->
 
- <div class="submenu" id="submenu-contacts">
- <div class="tabs">
-  <div class="tab" opens="accelerator" content="Accelerator"></div>
- <div class="tab" opens="raven" content="Raven Branwen"></div>
- <div class="tab" opens="yang" content="Yang Xiao Long"></div>
- <div class="tab" opens="ichor" content="Ichor"></div>
- <div class="tab" opens="kratos" content="Kratos"></div>
- <div class="tab" opens="constanze" content="Constanze"></div>
- <div class="tab" opens="elizabeth" content="Elizabeth"></div>
- <div class="tab" opens="rize" content="Rize"></div>
- <div class="tab" opens="alita" content="Alita"></div>
- </div>
- <div class="arrow back-to-main">Back</div>
- 
-<div class="inmenu-tab" id="accelerator">
- <div class="image" img="https://i.imgur.com/lv4WkQD.gif"></div>
- <h2 class="header">The Accelerator</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Accelerator." title="" target="_blank">Accelerator</a>. She can't get a good pin down on this guy.  At times he seems like the best father figure, and others he is the most sadistic person she's ever met.  Because of this, Touka alternates between being nice to him and being an ass.  She wants to be nice, but it can be difficult due to his nature.  But clearly he trusts her, so she definitely feels she could trust him.  A complicated relationship, you could say.
- </div>
- </div>
- </div>
- </div>
- <div class="inmenu-tab" id="raven">
- <div class="image" img="https://i.imgur.com/eRQjQO9.jpg"></div>
- <h2 class="header">Bandit Leader</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Raven%20Branwen" title="" target="_blank">Raven Branwen</a>.  The second person she ever fell in love with.  Despite the way she treated others around her, she was very caring, and held dark secrets that only Touka knows about.  They lived together for a long time in Remnant, and one day she left, with no reason or even a goodbye.  To this day Touka still misses Raven, wondering what happened to her.
- </div>
- </div>
- <div class="inmenu-tab" id="yang">
- <div class="image" img="https://i.imgur.com/yxvSzIY.gif"></div>
- <h2 class="header">The Flaming Brawler</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Gilded+Fury" title="" target="_blank">Yang Xiao Long</a>.  A woman with a passion for fighting, but an even bigger passion for protecting her friends.  In a way, she kind of reminds Touka of herself.  She's just as affectionate as she is enthusiastic.  She can't help but wonder how Yang would fight when she was angry.  Again, reminds her of herself.
- </div>
- </div>
- <div class="inmenu-tab" id="ichor">
- <div class="image" img="https://i.imgur.com/WBGXEFl.gif"></div>
- <h2 class="header">Blood Master</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Miss%20Ichor" title="" target="_blank">Ichor</a>.  An absolute brat, and a master of blood bending, it seemed.  She's around more to piss off Touka than anything, making her kagune and kakuho randomly activate just to tease her.  When not being a complete bitch, she is quite lovable.
- </div>
- </div>
- <div class="inmenu-tab" id="kratos">
- <div class="image" img="https://i.imgur.com/5Q4Cbco.jpg"></div>
- <h2 class="header">The God of War</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Allfather%20Kratos" title="" target="_blank">Kratos</a>  Once known as the God of War, Kratos is a man with decades of experience under his belt, and plenty of weapons to come with it.  He has a son, who has grown up and moved on in the world.  He doesn't seem to have a goal in mind, but he does help Touka with weapon training, as she knows next to nothing with it.  He won't admit it, but he's also very kind and caring.  Just don't call him 'allfather' to his face.
- </div>
- </div>
- </div>
- <div class="inmenu-tab" id="constanze">
- <div class="image" img="https://i.imgur.com/yuM5XkF.gif"></div>
- <h2 class="header">Mechanic Master</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Constanze" title="" target="_blank">Constanze</a>.  She's not very affectionate and she doesn't seem to care much for social interactions, but that's alright.  Regardless of the rare moments they have together, she is happy to spend her time with Constanze.  Constanze is a caring individual, always using her knowledge of machinery to help others, and learn more about machines in the process.
- </div>
- </div>
- <div class="inmenu-tab" id="elizabeth">
- <div class="image" img="https://i.imgur.com/j2bKRTX.gif"></div>
- <h2 class="header">Lovable Bunble of Joy</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Elizabeth+Liones" title="" target="_blank">Elizabeth</a>.  A very seemingly shy individual who gets emotional at a moment's notice.  Her tendency to cry is quite high.. For the sake of her health, she needs to get a little bit of an iron will!  But until then, she's alright with how Elizbaeth is.  She is lovable, caring, and easy to tease.  Qualities Touka herself don't want to have changed anytime soon.  She's the closest Touka has seen to a genuine angel.  She's also got some nice tits-- But uh.  Don't tell her I said that.~
- </div>
- </div>
- <div class="inmenu-tab" id="rize">
- <div class="image" img="https://i.imgur.com/OBHof41.gif"></div>
- <h2 class="header">The Territorial Binge Eater</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Rize%20the%20Binge%20Eater" title="" target="_blank">Rize</a>.  A false damsel.  I've seen her drag many lives into the alley to be eaten and left to rot.  A binge eater, who eats for fun and leaves quite a massive mess.  Want my advice?  Stay far away from her.  She had a nasty habit of hunting customers at Anteiku and it was pretty annoying losing customers.  Ever try to have a conversation with her?  If you live to tell the tale, tell me how it goes.
- </div>
- </div>
- </div>
- </div>
- <div class="inmenu-tab" id="alita">
- <div class="image" img="https://i.imgur.com/bbRZCo9.gif"></div>
- <h2 class="header">The Cyborg from Space</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Battle+Angel" title="" target="_blank">Alita</a>.  A cyborg from another world, and an absolute cutie.  From what I've been told, she's been through a lot, and friends like me is something she desperately needs.  Well, you don't have to ask twice, she's worth being around.  Just don't call her an android.
- </div>
- </div>
- </div>
+<div class="submenu" id="submenu-story">
+  <div class="tabs">
+    <div class="tab" opens="layer-one" content="The Past" details="Touka's story before the main plot begins."></div>
+    <div class="tab" opens="layer-two" content="Tokyo Ghoul (S1)" details="The beginning of the main story."></div>
+    <div class="tab" opens="layer-three" content="Tokyo Ghoul (S2)" details="The middle of the story."></div>
+    <div class="tab" opens="layer-four" content="Tokyo Ghoul:re" details="The ending of Touka's story."></div>
+    <div class="tab" opens="layer-five" content="RPC" details="The story after the ending."></div>
+  </div>
+  <div class="arrow back-to-main">Back</div>
 
- 
- <div class="submenu" id="submenu-restaff">
- <div class="tabs">
- <div class="tab" opens="kasana" content="Kasana"></div>
- <div class="tab" opens="tear" content="Tear"></div>
- <div class="tab" opens="himeno" content="Hinemo"></div>
- <div class="tab" opens="hayase" content="Hayase"></div>
- </div>
- <div class="arrow back-to-main">Back</div>
- 
- 
- <div class="inmenu-tab" id="kasana">
- <div class="image" img="https://i.imgur.com/SRTJPP7.png"></div>
- <h2 class="header">Kasana Ichiro</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Kasana%20Ichiro" title="" target="_blank">Kasana</a>. She found this one-eyed ghoul strapped to a tree and left to die of starvation.  Thankfully Touka had rescued her, however unbeknowest to Kasane, she wasn't exactly human, and when a nice, tasty human came by, she learned the hard way of what she truly is.  Now, she serves as a waitress and as clean-up crew for :re.
- </div>
- </div>
- </div>
- </div>
- 
- 
- <div class="inmenu-tab" id="tear">
- <div class="image" img=""></div>
- <h2 class="header">Tear Grants</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Tear" title="" target="_blank">Tear</a>. She met this woman at the colosseum one day, apparently having lost their way.  She is a healer capable of ressurection and mending grevious wounds.  However, it seems she wishes to live that life behind-- well, mostly.  Wanting a different life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations we must take against those who want to ruin the peace between us all.
- </div>
- </div>
- </div>
- </div>
- 
- 
- <div class="inmenu-tab" id="himeno">
- <div class="image" img="https://i.imgur.com/eZKQ3La.png"></div>
- <h2 class="header">Stubborn :re Staff</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Himeno" title="" target="_blank">Himeno</a>.  A government agent, now turned into :re staff!  This woman has always known how to kill people, but throw her into a building full of hungry customers?  The girl's completely lost.  Good thing her -boss- is there to help her out.  One coffee stain at a time.
- </div>
- </div>
- </div>
- </div>
- 
- 
- <div class="inmenu-tab" id="hayase">
- <div class="image" img="https://i.imgur.com/eZKQ3La.png"></div>
- <h2 class="header">Looks can be Deceiving!</h2>
- <div class="scroller">
- <a target="_blank" href="https://roleplay.chat/profile.php?user=Hayase+Reizo" title="" target="_blank">Hayase</a>.  A surprisingly strong man considering his appearance.  For the brief time they battled, Hayase was shown to be fast, clever, and powerful.  Traits that will definitely get on Touka's good side.  He works at :re as a host.
- </div>
- </div>
- </div>
- </div>
- 
- <!--
+  <div class="layerTwo" id="layer-one">
+    <div class="tabs">
+      <div class="tabsHeader">The Past</div>
+      <div class="tab" content="As a kid" opens="as-a-kid"></div>
+      <div class="tab" content="Family" opens="family"></div>
+      <div class="tab" content="Birds" opens="birds"></div>
+      <div class="tab" content="Found" opens="found"></div>
+      <div class="tab" content="Yoshimura" opens="yoshimura"></div>
+      <div class="tab" content="Troublemakers" opens="troublemakers"></div>
+      <div class="tab" content="High School" opens="high-school"></div>
+      <div class="tab" content="Separation" opens="separation"></div>
+
+    </div>
+
+    <div class="inmenu-tab" id="as-a-kid">
+      <div class="image" img="https://i.imgur.com/P0GlfLK.jpg"></div>
+      <h2 class="header">Little Touka</h2>
+      <div class="scroller">
+        <p>
+          In the very beginning, Touka was as an innocent little ghoul squirt as they came. For the first five years of
+          her life, her story was filled with the love and care that a small child should always be given. She was very
+          happy, and a very nice child, even though she occasionally got jealous of her little brother, Ayato, when he
+          got attention.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="family">
+      <div class="image" img="https://i.imgur.com/A261uOE.jpg"></div>
+      <h2 class="header">The Kirishima Family</h2>
+      <div class="scroller">
+        <p>
+          Touka was in the loving care of her father, Arata Kirishima. The mother was hardly around, leaving most of the
+          care of the siblings in his hands. Her brother was Ayato Kirishima, also a kind child, though had very
+          different opinions about the various things around them. Arata held a terrible secret from his kids; a secret
+          they would not discover for a very, very long time. A secret that made him pay the price.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="birds">
+      <div class="image" img="https://i.imgur.com/ZOQnDho.png"></div>
+      <h2 class="header">Peck, peck!</h2>
+      <div class="scroller">
+        <p>
+          One day, the two siblings found an injured bird and moved to take care of it, nursing it back to health. One
+          day it lashed out on Touka when it began to lash out in a frenzy, shooting from the cage and pecking her right
+          above her eye, leaving a scar. It is the reason why she hides her other eye, is so people would not see the
+          old injury. To this day, Touka has an phobia for bird-like creatures.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="found">
+      <div class="image" img="https://i.imgur.com/nRpk5oE.png"></div>
+      <h2 class="header">Hunted, Chased, and Left for Dead</h2>
+      <div class="scroller">
+        <p>
+          In what seemed like a peaceful ghoul life, one day they found that their father had not returned, and the
+          locals had come to seek the children they somehow figured out were ghouls. The locals managed to harm Ayato,
+          but Touka, using her kagune early (and damaged it in the process), defended her little brother from their
+          onslaught and attempted captures. They were ran out of the place they once called home. With no signs of
+          Father, they continued to move, unaware of their destination.. or of how long they could keep it up.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="yoshimura">
+      <div class="image" img="https://i.imgur.com/B7w3Ixq.gif"></div>
+      <h2 class="header">Mysterious Old Man</h2>
+      <div class="scroller">
+        <p>
+          Yoshimura, an unknown old man, had found the Kirishima twins in a rough state. Merely only children, and
+          clinging to life however they could. Yoshimura took in the two children, giving them a home in a cafe that he
+          owned, called 'Anteiku'. It was there that the two ghouls would continue to live, and as they slowly grew up
+          in new territory, they began to turn cold to the world around them, as the world had taken their happiness
+          away despite Yoshimura's attempts to keep them docile and friendly folk.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="troublemakers">
+      <div class="image" img="https://i.imgur.com/Wn49b3R.png"></div>
+      <h2 class="header">The Infamous Kirishima Twins from the 20th Ward</h2>
+      <div class="scroller">
+        <p>
+          Despite Yoshimura's attempts to raise them to be loving people, Touka and Ayato had turned into ruthless
+          ghouls who consistently encroached in other ghoul's feeding grounds, causing them to become very hated by the
+          rest of the ward. They often got into fights with people over the smallest things, though Ayato was mostly the
+          cause of these actions, with Touka merely following them.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="high-school">
+      <div class="image" img="https://i.imgur.com/PAyr9PI.png"></div>
+      <h2 class="header">It's Time to Learn!</h2>
+      <div class="scroller">
+        <p>
+          As the two siblings developed, their caretaker, Yoshimura, was pushing them to become more active in the human
+          community. School was one such attempt, not only to mingle and understand humans better, but to also move up
+          on life and perhaps one day get a job and home of their own through education. Touka was hesitant on the
+          thought of school, even when Yoshimura offered to fully pay for her schooling. While Touka eventually caved in
+          and decided to go, Ayato did not budge at all on the subject, claiming he absolutely loathed humans for what
+          they did to Arata, his father.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="separation">
+      <div class="image" img="https://i.imgur.com/8pIJ98k.png"></div>
+      <h2 class="header">The Differences in the Twins Become Explosive</h2>
+      <div class="scroller">
+        <p>
+          After a long while of attending school, Touka comes to enjoy the presence of humans. She makes friends at the
+          school, especially with a specific young woman. Ayato sees the large change that the old man had pushed onto
+          his sister, and absolutely loathed in. In a fit of anger, he lashed out at his sister, stating he could not
+          believe she could become so cozy with the humans after what they have done to their family. Afterwards, he no
+          longer saw a reason to stay at Anteiku. He left, leaving his sister behind and heading to the 24th ward and
+          quickly became known as a problem there. Touka was left alone, and she fell into a deep depression for a very
+          long time.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="layerTwo" id="layer-two">
+    <div class="tabs">
+      <div class="tabsHeader">Tokyo Ghoul (S1)</div>
+      <div class="tab" content="Meeting Kaneki" opens="meeting"></div>
+      <div class="tab" content="Second Meeting" opens="second-meeting"></div>
+      <div class="tab" content="Saving Kaneki" opens="saving"></div>
+      <div class="tab" content="Hinami" opens="hinami"></div>
+      <div class="tab" content="Visiting Uta" opens="visiting-uta"></div>
+      <div class="tab" content="Growing Bond" opens="growing-bond"></div>
+      <div class="tab" content="Warning to Kaneki" opens="warning"></div>
+      <div class="tab" content="Touka vs. Shuu" opens="touka-shuu"></div>
+      <div class="tab" content="A Friend Dies" opens="friend-dies"></div>
+      <div class="tab" content="Vengeance" opens="vengeance"></div>
+      <div class="tab" content="Trapped" opens="trapped"></div>
+      <div class="tab" content="Kaneki Kidnapped" opens="kaneki-kidnapped"></div>
+      <div class="tab" content="The Rescue" opens="rescue"></div>
+    </div>
+
+    <div class="inmenu-tab" id="meeting">
+      <div class="image" img="https://i.imgur.com/sk4kwWW.gif"></div>
+      <h2 class="header">Touka Meets a Book Nerd and his Friend</h2>
+      <div class="scroller">
+        <p>
+          Lately, Touka found a young man that goes by Ken Kaneki. He's been visiting the cafe more often, and he was
+          starting to become a regular. He was quiet, and always had his nose in his book. He certainly wasn't a trouble
+          maker, a quality Touka was more than happy to see. One evening after work she came across Kaneki walking with
+          Rize, a ghoul that is known to be a binge eater; someone who eats humans indiscriminately. It was clear that
+          Kaneki was Rize's next meal. Touka gave a scowl and minded her own business, leaving Kaneki to his fate.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="second-meeting">
+      <div class="image" img="https://i.imgur.com/oAgkH1n.png"></div>
+      <h2 class="header">A one-eyed ghoul?</h2>
+      <div class="scroller">
+        <p>
+          With the mysterious death of Rize, Touka saw a commotion about fighting for the territory Rize once had. One
+          of them was a person known as Nishiki, a high school student who was very territorial. The other was Kaneki,
+          who was somehow still alive. Touka was able to defeat Nishiki with ease, due to her being much stronger than
+          him. He then ran away, leaving Kaneki to the victor. She soon discovered that he was not actually human, but
+          some kind of half human, half ghoul hybrid. Kaneki began to speak about being once human, and Touka
+          immediately began to berate him, calling him prey and trash, that he would not last long in this new cruel
+          world. She began to viciously attack Kaneki with fists and feet in anger when being called a monster, only to
+          be stopped by Yoshimura. He was taken in by the old man, much to Touka's open disappointment.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="saving">
+      <div class="image" img="https://i.imgur.com/9Uzkqb1.gif"></div>
+      <h2 class="header">Saving Kaneki From a Life-long Regret</h2>
+      <div class="scroller">
+        <p>
+          Yoshimura detects trouble brewing once again with Nishiki, and sends Touka to stop the fighting. She takes
+          off, eventually arriving at a very interesting scene; Nishiki was defeated by Kaneki. Despite being told to
+          eat human meat to stave off starvation, Kaneki refused and eventually gave into the hunger and he made for his
+          unconscious friend. At this point, Touka had made her way in and decided to do a solid for the man she didn't
+          like, and got in the way of his feast. Kaneki, now pissed off and filled with a raging hunger, goes for Touka.
+          Touka flourishes her kagune and easily defeats Kaneki. Kaneki wakes up later at the cafe she works at,
+          Anteiku. He was talked to again by Yoshimura and was fed while unconscious, and then offered shelter and
+          safety from other ghouls if he worked at Anteiku. Kaneki accepts and starts working there.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="hinami">
+      <div class="image" img="https://i.imgur.com/EdtdvjL.gif"></div>
+      <h2 class="header">Something happened to Ryouko and Hinami?</h2>
+      <div class="scroller">
+        <p>
+          The next day, Ryouko, and her daughter Himani, stop by because one of the strongest ghouls in the 20th ward,
+          known as Jason, stopped by Asaki's (Himani's father) work and demanded a new torturing tool for his sick
+          ideals. They came out of fear something might have happened to their beloved family member, and Touka was
+          quick to calm them down. Touka is friends with the Ryouko and is always looking out for her. The two women
+          move to talk to Yoshimura in private, leaving Kaneki and Touka to themselves for the time being. Touka could
+          not help but wonder what the issue was, but kept it to herself for the time being.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="visiting-uta">
+      <div class="image" img="https://i.imgur.com/P3rCYVD.gif"></div>
+      <h2 class="header">Touka Takes Kaneki to Get His Mask Made</h2>
+      <div class="scroller">
+        <p>
+          Due to the activities from Rize and Jason, ghoul hunters (or the 'Doves') have become more active in the 20th
+          ward. As a result, Yoshimura sends Touka to take Kaneki to get his mask made by a friend named Uta. When
+          fighting, a ghoul must keep themselves anonymous, for only a face is needed to hunt down a ghoul. The doves
+          could get an identity match on the ghoul and use it to find their name, and then where they live, what they
+          do, and so on. So when out in the field ready to hunt or kill, it was important to have a mask, and that is
+          the purpose of this visit. Touka minds herself as Kaneki and Uta talk about the mask, before eventually
+          bringing up Touka's good looks and wondered why Kaneki didn't have a big interest in her. He replied that he
+          did, but he 'was also scared of Touka'. Touka caught none of this conversation.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="growing-bond">
+      <div class="image" img="https://i.imgur.com/nIofIGb.gif"></div>
+      <h2 class="header">Kaneki's Care Towards Himani is Noted</h2>
+      <div class="scroller">
+        <p>
+          While initially she despised Kaneki for being a half-breed and the way she was talked to back in the alley on
+          their second meet, she slowly becomes more and more used to Kaneki's presence, even to the point where she was
+          surprised he was helping her learn words from complicated books. Hidden from sight, she was happy to hear that
+          Hinami was being taken care of quite well.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="warning">
+      <div class="image" img="https://i.imgur.com/iCU62aI.gif"></div>
+      <h2 class="header">An Unwanted Guest Appears</h2>
+      <div class="scroller">
+        <p>
+          Another day passes and a new character, known as Shuu, or the 'Gourmet' comes in to assess the situation at
+          Anteiku. He finds Kaneki and immediately becomes interested in him. Though he was not able to indulge long
+          with the half-breed. Touka was quick to shoo him away. She was aware that Shuu enjoyed snatching people and
+          then feeding them to ghouls in some kind of restaurant, and she immediately would have none of that. After
+          Shuu's departure, the woman informed Kaneki not to go near that man, as he was nothing but trouble. However,
+          with the lure of Shu being a bookworm, Kaneki ended up ignoring her warning.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="touka-shuu">
+      <div class="image" img="https://i.imgur.com/cIbGvyR.gif"></div>
+      <h2 class="header">Touka Battles Against Shuu</h2>
+      <div class="scroller">
+        <p>
+          Touka quickly learns of Shuu kidnapping Nishiki's girlfriend to lure Kaneki into a trap. The reason? Shuu
+          wanted to eat Kaneki, as he was a half-breed and they were so rare that they were unheard of, and apparently
+          quite tasty. Nishiki, still injured with his fight from Kaneki, regrettably teams up with Kaneki and they both
+          set off to rescue the damsel in distress. However, when the two went into the
+          church for the rescue, they were easily defeated by Shuu. It was then that Touka arrived with a sneak attack
+          on Shuu. He recovers, and the two would battle it out, with the bluette fighting to save her co-worker. After
+          a hard-fought battle, Touka came out on top, spitting on his corpse and telling him to eat his own flesh if he
+          wanted to live. </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="friend-dies">
+      <div class="image" img="https://i.imgur.com/dox8eHC.gif"></div>
+      <h2 class="header">The Hate for Doves Spikes Greatly</h2>
+      <div class="scroller">
+        <p>
+          The fight against Shuu took a massive toll on Touka's body, and she required a few days to rest, unable to
+          work. When she recovered, she found that the Anteiku staff have gathered in a meeting, and with confusion, she
+          pushed herself in to find out what was going on. She found out that Ryouko, as well as her husband, were both
+          slain by the Doves. Ryouko and her husband were peaceful ghouls, unable to hunt and kill humans, and got their
+          meals from Anteiku. Touka was angry; why take the lives of innocent people? Simply because they were ghouls,
+          that was the only reason they were slain. With thoughts of her friend dead, and the kid they left behind now
+          an orphan, the woman's heart fills with unbridled rage. Vengeance was on her mind. Yoshimura downtalks Touka,
+          telling her not to go out to get revenge, as doing so would bring more attention to the 20th ward. Touka
+          ignores this warning and runs straight out of Anteiku to get revenge.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="vengeance">
+      <div class="image" img="https://i.imgur.com/QeRZjjM.gif"></div>
+      <h2 class="header">The Fight Against Kureo Mado</h2>
+      <div class="scroller">
+        <p>
+          Touka finds a small mask that she used to use when she played with Ayato; a bunny mask. She dons it, as well
+          as a getup she threw together, then went out to fight the doves responsible for Ryouko's death. She managed to
+          kill one of them, but before she could kill the others, the one who struck down Ryouko appeared; Kureo Mado.
+          She attacked at him and Mado quickly figured out she was there to avenge Ryouko and began to belittle Touka,
+          insulting her to become more angry. Despite her efforts, she could barely even lay a hand on her opponent, and
+          with an easy strike to Touka, she was forced to flee, that one attack greatly injuring the woman. She went
+          back to Anteiku and the staff there scolded her, telling her she would receive no help from her injuries. She
+          gave a grunt and attended to attempt first aid on herself with no success. Kaneki attempts to help, but drives
+          him away. He assured Touka to be careful because if she were to die, he would be sad. This greatly confused
+          her, catching her off guard. The words sank into her head as she fumbled with the bandages in the first aid
+          kit. The fight against Mado officially gave her the nickname, 'The Rabbit'. A name which all ghoul
+          investigators come to know.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="trapped">
+      <div class="image" img="https://i.imgur.com/pxPjRaK.gif"></div>
+      <h2 class="header">Touka Attempts to Lure Mado into a Trap, but it's Turned</h2>
+      <div class="scroller">
+        <p>
+          Touka, still recovering from her injury, was attempting to set up a trap for Mado to avenge Ryouko. She set up
+          false information to a location to lure him in, but Mado was one step ahead, taking Ryouko's remains and
+          stashing them into said location ahead of time. The scent of her mother lures Himani and she rushes off in
+          excitement, causing Touka to panic and attempt to stop her with no success. Upon arriving, Mado was quick to
+          ambush Touka and Hinami. Since Touka was unable to bide time to grab her mask and outfit, she was fully
+          exposed to the ghoul investigator. This officially became a kill-or-be-killed scenario, for if they escaped,
+          they would simply track her to Anteiku, and the shop would suffer, so one of them had to die. The fight began,
+          and Touka, still injured, was quickly overpowered by Mado's quinque, which was so happened to be made by
+          Ryouko's kagune, angering Touka even further. However at this point, Touka was all talk. She was on deaths
+          door with several holes in her. When Mado began to deliver the final blow, the little Hinami that was sobbing
+          the whole time finally acted out in pure rage. Hinami quickly slays Mado with impressive power, but refused to
+          finish him off. The injured Touka brought herself up and finished off the investigator and Touka takes Hinami
+          home, surprised that Hinami already had her kagune.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="kaneki-kidnapped">
+      <div class="image" img="https://i.imgur.com/TTi7kFV.gif"></div>
+      <h2 class="header">Ayato Works For the Enemy</h2>
+      <div class="scroller">
+        <p>
+          Jason, who is looking for Rize and unaware of her death, comes to the 20th ward in an attempt to find her.
+          They end up arriving at Anteiku, which they find that, apparently, Kaneki hosts Rize's organs. They smell this
+          on him and decide to kidnap Kaneki. As usual, Touka moves to defend Kaneki from Jason, but an unexpected
+          visitor appeared; Ayato. Her brother whom left her to reign freely over humans. He gets in her way and the two
+          begin to fight. However, Ayato easily defeats Touka. Due to their blood relation, he decides to spare Touka,
+          telling her to crawl along the ground like the worm she was. The group then leaves with Kaneki, leaving an
+          unconcious bluette ghoul in the destroyed Anteiku.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="rescue">
+      <div class="image" img="https://i.imgur.com/E32sMl2.gif"></div>
+      <h2 class="header">Kirishima Bloodshed</h2>
+      <div class="scroller">
+        <p>
+          The CCG (Coalition of Counter Ghouls. Or 'doves') have located Jason's whereabouts, and discover he is working
+          for a ghoul organization that was known as "Aogiri". Aogiri is a group of powerful ghouls that lead an army
+          with the intent on destroying human kind and make the world ghoul superior. The CCG move in with an army to
+          assault the hidden base, and the members of Anteiku slip in through the chaos to try and find Kaneki. The
+          group splits up, and while Touka searches, she ends up finding her brother once again, stopping her in her
+          tracks. She attempts to disengage from him with no success, and the two battle it out. Once again, she was
+          utterly defeated by her stronger brother, Ayato. This time, it looked like Ayato was moving for a killing
+          blow.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="layerTwo" id="layer-three">
+    <div class="tabs">
+      <div class="tabsHeader">Tokyo Ghoul (S2)</div>
+      <div class="tab" content="Kaneki Leaves" opens="kaneki-leaves"></div>
+      <div class="tab" content="The Recovery" opens="the-recovery"></div>
+      <div class="tab" content="Anteiku Reopens" opens="anteiku-reopens"></div>
+      <div class="tab" content="Hinami Stays with Touka" opens="hinami-stays"></div>
+      <div class="tab" content="However..." opens="however"></div>
+      <div class="tab" content="Kaneki Returns" opens="kaneki-returns"></div>
+      <div class="tab" content="Fit of Rage" opens="fit-of-rage"></div>
+      <div class="tab" content="Regret" opens="regret"></div>
+      <div class="tab" content="Time to Pack" opens="time-to-pack"></div>
+      <div class="tab" content="Targeted" opens="targeted"></div>
+      <div class="tab" content="The Move" opens="the-move"></div>
+      <div class="tab" content="The Discovery" opens="the-discovery"></div>
+      <div class="tab" content="The Fear of Losing" opens="fear-of-losing"></div>
+      <div class="tab" content="Yoshimura Dies" opens="yoshimura-dies"></div>
+      <div class="tab" content="Grieve" opens="grieve"></div>
+      <div class="tab" content="Anteiku Burns" opens="anteiku-burns"></div>
+      <div class="tab" content="Touka Kept Safe" opens="kept-safe"></div>
+      <div class="tab" content="A New Beginning" opens="new-beginning"></div>
+    </div>
+
+    <div class="inmenu-tab" id="kaneki-leaves">
+      <div class="image" img="https://i.imgur.com/7tqUu2J.gif"></div>
+      <h2 class="header">Kaneki Goes to Aogiri?!</h2>
+      <div class="scroller">
+        <p>
+          Kaneki manages to break himself out of the hellish prison that Jason had put up for him, killing Jason in the
+          process. On his way out, he finds Touka beaten and worn by her brother and quickly intervenes to prevent her
+          from being finished off. She is taken to safety and proceeds to beat Ayato half to death, breaking exactly
+          half of the bones in the male's body, silencing his screams with the phrase 'Does it hurt? Though Touka went
+          through more pain than this.' Kaneki left Ayato alive due to him being the only family Touka had left.
+          Afterwards he told Touka that he will be not returning to Anteiku, apologized, and left a fumbling woman
+          alone, the gal falling soon into depression once again, having lost yet another friend.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="the-recovery">
+      <div class="image" img="https://i.imgur.com/wqmORwl.gif"></div>
+      <h2 class="header">6 Months Later</h2>
+      <div class="scroller">
+        <p>
+          Time passes and Touka focuses on school. With no more violence coming around, she is able to fully focus on
+          studying to get good grades. She plans to head to Kami University, a very difficult college to get into,
+          requiring very high grades across the board. She does not falter and studies hard to meet this goal.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="anteiku-reopens">
+      <div class="image" img="https://i.imgur.com/yRr1Mta.gif"></div>
+      <h2 class="header">With Peace Upheld, Anteiku Reopens</h2>
+      <div class="scroller">
+        <p>
+          Anteiku is able to reopen after a long time of peace. The staff members gather and celebrate its reopening,
+          glad that they're able to once again serve ghouls and humans alike within their little coffee shop of love.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="hinami-stays">
+      <div class="image" img="https://i.imgur.com/D2LLghN.png"></div>
+      <h2 class="header">With Nowhere to go, Hinami Lives with Touka</h2>
+      <div class="scroller">
+        <p>
+          Due to hinami now being an orphan, she has nowhere to go. Luckily, Touka let Hinami crash and live with her.
+          The two's bonds grew significantly during this time.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="however">
+      <div class="image" img="https://i.imgur.com/WW9DuVL.gif"></div>
+      <h2 class="header">A void in the Heart that can Never be Filled</h2>
+      <div class="scroller">
+        <p>
+          Secretly, Touka misses Kaneki greatly. It has been over 6 months, yet any mentions of him causes her to become
+          sad. What was he doing with Aogiri? She briefly saw on the news that a ghoul named 'eyepatch' was battling
+          against the doves directly, which concerned her. She attempted to keep this out of her mind and was mostly
+          successful. Unless he was brought up again.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="kaneki-returns">
+      <div class="image" img="https://i.imgur.com/B0CrZaq.gif"></div>
+      <h2 class="header">He's Back?!</h2>
+      <div class="scroller">
+        <p>
+          Kaneki returns to Anteiku while Touka was out studying with her friend, Yoriko. Kaneki decides to talk to
+          Yoshimura about something and slips out while Touka was gone. Hinami learns of this and goes to the library to
+          inform Touka. Once Touka learned of this, she bolted from the library and left her friend behind, rushing down
+          the streets in an attempt to catch the male attempting to weasle out of her grasp.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="fit-of-rage">
+      <div class="image" img="https://i.imgur.com/EAYrvBq.gif"></div>
+      <h2 class="header">'Trash Like You Should Never Come Back to Anteiku!'</h2>
+      <div class="scroller">
+        <p>
+          Touka eventually catches up to Kaneki and attempts to learn why he went with Aogiri, the ghoul terrorist
+          organization. He told her that it was to keep her safe and out of harms way. And well, since it's been 6
+          months without any violence, he was doing a good job. However, this did not sit well with Touka. She blurted
+          out hateful words to him about being selfish and never putting his friends first, and that she hated him for
+          it. He then replied that as long as she was safe, then he was fine with that. This tilted her over the edge,
+          and she socked Kaneki right in the face and told him never to come back.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="regret">
+      <div class="image" img="https://i.imgur.com/9iqUSbg.gif"></div>
+      <h2 class="header">'I finally see him again, and what do I do? Sock him in the face and call him names.'</h2>
+      <div class="scroller">
+        <p>
+          After that event, regret began to set it. She wanted Kaneki to come back, not stay away! Why did she do that?
+          She called herself an idiot multiple times, the interaction still fresh on her mind. She attempts to push
+          those thoughts off and focus on her studying.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="time-to-pack">
+      <div class="image" img="https://i.imgur.com/nCSxZuK.gif"></div>
+      <h2 class="header">Her Apartment Gets </h2>
+      <div class="scroller">
+        <p>
+          The building Touka was living at was being renovated, so she would have to crash at Yomo's place, her uncle.
+          Yoriko, her friend, tries to make Touka stay at her place instead, wanting her to live with her so they can be
+          closer. Yoriko always fed Touka meals she made because she enjoyed cooking, unaware that Touka was a ghoul.
+          Touka quickly declined, saying that it was alright and that they would continue to keep in touch.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="targeted">
+      <div class="image" img="https://i.imgur.com/AeLKSH0.png"></div>
+      <h2 class="header">Anteiku is Targeted by the CCG</h2>
+      <div class="scroller">
+        <p>
+          Yoshimura has been known as 'The Owl', an extremely powerful ghoul that was responsible for many Dove deaths
+          during operations. His location has been hidden quite well, until now. The doves suspected that he works at a
+          coffee shop called Anteiku and they seek to investigate. Yomo and Yoshimura talked this over and they quickly
+          agreed to evacuate the young ones from the area, and Yoshimura called in assistance to help defend his home
+          from the eventual CCG attack.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="the-move">
+      <div class="image" img="https://i.imgur.com/28YqeqV.gif"></div>
+      <h2 class="header">Touka and Hinami are Lead to Safety</h2>
+      <div class="scroller">
+        <p>
+          Yoshimura and Yomo go ahead with the plan to get the two moved to Yomo's place. Yoshimura waves them off,
+          Touka unaware that Anteiku was being targeted and brought away from the fight. Yoshimura did not want Touka
+          and Hinami to be caught up in the consequences in his past. And so they were taken to safety, away from the
+          deathly grasp of the CCG.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="the-discovery">
+      <div class="image" img="https://i.imgur.com/hc5AM0D.gif"></div>
+      <h2 class="header">Anteiku is Under Attack?!</h2>
+      <div class="scroller">
+        <p>
+          Touka learns of the attack on Anteiku through the news and Touka quickly departs in an attempt to help defend
+          it, but she was stopped by Yomo. He tells her that this was not her fight, it was Yoshimura's, as well as the
+          rest of the staff, for they have done their fair share of sins in the past, and this is their redemption; to
+          fight and die at Anteiku. Touka did not accept this.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="fear-of-losing">
+      <div class="image" img="https://i.imgur.com/eOfacGO.gif"></div>
+      <h2 class="header">'All of my friends.. my home.. I'm going to lose it all again!'</h2>
+      <div class="scroller">
+        <p>
+          With a burst of rage, she shoots passed Yomo and races down the street in a panic. In fear of losing the
+          people and home she had come to known and love, she hurridly made her way down the streets, attempting to get
+          back to Anteiku and lend them her support, whatever it would take.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="yoshimura-dies">
+      <div class="image" img="https://i.imgur.com/eP0txzg.png"></div>
+      <h2 class="header">The CCG are successful in their Mission</h2>
+      <div class="scroller">
+        <p>
+          The most powerful of the CCG burrow down on Anteiku to fight Yoshimura, and with a long fought battle on a
+          rooftop. With a final gasp of Yoshimura's child and his long-dead wife, falls over, now defeated. Though
+          Kaneki had returned to save the rest of the staff, he was unable to reach Yoshimura in time.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="grieve">
+      <div class="image" img="https://i.imgur.com/sWNcOCi.gif"></div>
+      <h2 class="header">"No.. Not again.."</h2>
+      <div class="scroller">
+        <p>
+          Through the cheers of victory that rang through the ward, Touka learns of the death of her beloved father
+          figure. The woman falls into deep depression once again. The man that had raised her since she was only five
+          years old, now dead at the hands of the organization who also took her blood father, as well as her mother,
+          away from her.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="anteiku-burns">
+      <div class="image" img="https://i.imgur.com/Ur97EUk.gif"></div>
+      <h2 class="header">The Suffering Continues</h2>
+      <div class="scroller">
+        <p>
+          With the CCG having pulled away from Anteiku, Touka moves to retreat to it in solice. The others that survive
+          would be hiding there.. right? She runs back onto the block, only to stare in absolute horror -- <b>Anteiku
+            was burning. </b> Most likely set ablaze by the CCG before they left, Touka watched in horror as the
+          memories of her loved ones shattered and burned away in the hateful flames.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="kept-safe">
+      <div class="image" img="https://i.imgur.com/ASM3bcx.gif"></div>
+      <h2 class="header">'Why.. Why are you stopping me?'</h2>
+      <div class="scroller">
+        <p>
+          Touka finds Kaneki walking away from Anteiku with his friend in his arms. He's.. dead? She stared off as
+          Kaneki began to walk out towards the CCG base that was temporarily set up to take care of their wounded, a
+          helicopter flying over and spotting Kaneki, and the CCG knew he was the eyepatch. Touka moved to go join
+          Kaneki; she wanted to be there with him, to kill the CCG, and to avenge her father figure, Yoshimura. She was
+          stopped again by Yomo, and this time he did not budge, telling her to forget about him and focus on her
+          future. She was too young to die now; what about college? Her future? Touka broke out into tears, but Yomo
+          remained firmed, keeping her from an early death.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="new-beginning">
+      <div class="image" img="https://i.imgur.com/dLwiSS5.gif"></div>
+      <h2 class="header">A Second Chance at Life</h2>
+      <div class="scroller">
+        <p>
+          There are times where life seems not worth living. But you have to remember that there are people who shed
+          blood and tears for you, so that you could live on. Even if those people are not around anymore, having moved
+          on or died, you must remember to live on, for them. Shoulder your grief and push forward into the future, one
+          which your loved ones would have wanted you to do. Don't let their sacrifices be in vein. With this in mind,
+          Touka did just that. With the threat of the CCG no longer looming over her, and with the help of Yomo, Touka
+          opens a brand new cafe of her own to carry on the legacy of Yoshimura. With a smile and a brush of her hair,
+          she flipped the sign from 'closed' to 'open', and she made her way inside of her cafe, the bell ringing as the
+          door opened. The cafe's name? .. <b>:re </b>.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="layerTwo" id="layer-four">
+    <div class="tabs">
+      <div class="tabsHeader">Tokyo Ghoul:re</div>
+      <div class="tab" content="Unexpected Reunion" opens="unexpected-reunion"></div>
+      <div class="tab" content="Saving Shuu" opens="saving-shuu"></div>
+      <div class="tab" content="The Fight to Save Hinami" opens="save-hinami"></div>
+      <div class="tab" content="Leave it to Ken" opens="leave-to-ken"></div>
+      <div class="tab" content="Hinami Secured" opens="hinami-secured"></div>
+      <div class="tab" content="G.O.A.T." opens="goat"></div>
+      <div class="tab" content="CCG Gets Aggressive" opens="ccg-aggressive"></div>
+      <div class="tab" content="Secret Revealed" opens="secret-revealed"></div>
+      <div class="tab" content="Are you... a Virgin?" opens="virgin"></div>
+      <div class="tab" content="Attacked" opens="attacked"></div>
+      <div class="tab" content="Love" opens="love"></div>
+      <div class="tab" content="A Gift to Ken" opens="gift-to-ken"></div>
+      <div class="tab" content="Pregnant" opens="pregnant"></div>
+      <div class="tab" content="Confession" opens="confession"></div>
+      <div class="tab" content="Marriage" opens="marriage"></div>
+      <div class="tab" content="Defeated" opens="defeated"></div>
+      <div class="tab" content="Dragon" opens="dragon"></div>
+      <div class="tab" content="Blamed" opens="blamed"></div>
+      <div class="tab" content="Ghouls and Humans" opens="ghouls-and-humans"></div>
+      <div class="tab" content="The Search" opens="the-search"></div>
+      <div class="tab" content="Found" opens="found2"></div>
+      <div class="tab" content="Kaneki Recovers" opens="kaneki-recovers"></div>
+      <div class="tab" content="To End the Bloodshed" opens="end-the-bloodshed"></div>
+      <div class="tab" content="Dragon Defeated" opens="dragon-defeated"></div>
+      <div class="tab" content="6 Years Later" opens="6-years"></div>
+      <div class="tab" content="Ichika" opens="ichika"></div>
+      <div class="tab" content="The End" opens="the-end"></div>
+    </div>
+
+    <div class="inmenu-tab" id="unexpected-reunion">
+      <div class="image" img="https://i.imgur.com/cjgHwJE.gif"></div>
+      <h2 class="header">2 Years Later</h2>
+      <div class="scroller">
+        <p>
+          2 Years after the destruction of Anteiku, Touka sets up a new cafe shop called :re. For these two years, life
+          has been relatively peaceful. Touka knew Kaneki wasn't dead, even when defeated at the hands of Arima, the
+          CCG's strongest ghoul investigator, also known as 'The White Reaper'. One day when working in :re, she comes
+          across Kaneki once more, but this time as a different person altogether. He was now known as Haise Sasaki.
+          With his memories completely erased, he has no memories of Anteiku or Touka, and she was aware of this. It's
+          been 2 years since she's last seen him, and she was forgotten. She looks on at him, saddened by his fate.
+          However, it didn't matter. It doesn't matter if he's changed appearance, it doesn't even matter if she's
+          forgotten. As long as he comes back home, then it's alright.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="saving-shuu">
+      <div class="image" img="https://i.imgur.com/lA2jnGx.gif"></div>
+      <h2 class="header">Once an Enemy, now a Friend</h2>
+      <div class="scroller">
+        <p>
+          Touka was fairly inactive in the first part of events from :re, but she did act when she was needed, such as
+          saving Shuu. Once an enemy, now an ally, as he helped defend what they all loved due to their mutual
+          relationship with Kaneki. As Haise left Shuu for dead, Touka and the rest of the :re staff come to rescue him
+          for that death. They take him back to the cafe and nurse him back to health. As far as the doves understood,
+          Shuu was now dead. At least for the moment.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="save-hinami">
+      <div class="image" img="https://i.imgur.com/oK77Fuj.gif"></div>
+      <h2 class="header">Hinami was Captured by the CCG</h2>
+      <div class="scroller">
+        <p>
+          She didn't understand why, but Hinami has been working with Ayato this whole time. She seemed to be working
+          with Aogiri. She didn't understand, but she knew that Hinami was in trouble. Aogiri invade the prison in an
+          attempt to free a very powerful ghoul that has been locked away, and the crew at :re move to slip in during
+          the chaos and try to free her. In the way of Hinami was Arima, the White Reaper. A very powerful foe that was
+          the her father's killer. Yomo was especially pissed off at this, and charged out to fight him. With the sudden
+          support fromm Ayato, the three attack Arima together.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="leave-to-ken">
+      <div class="image" img="https://i.imgur.com/jD5Wpid.gif"></div>
+      <h2 class="header">Kaneki is Back to Normal?! Touka goes to find Hinami</h2>
+      <div class="scroller">
+        <p>
+          When things were looking bleak for the three against the powerful Arima, Kaneki steps in and prevents the
+          finishing blow on Yomo. Touka was surprised; he wasn't that Haise anymore, not only that, but he was much,
+          much stronger. Kaneki tells them to go get Hinami and get out of here. Touka gave a smile and nodded, and she
+          told Kaneki that she would see him soon, and then left. These words stung Kaneki, hard. Because he was
+          fighting the White Reaper, the most powerful CCG member out there. He planned on dying in this fight. See him
+          soon? Did she even begin to understand those words?
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="hinami-secured">
+      <div class="image" img="https://i.imgur.com/6OumflT.gif"></div>
+      <h2 class="header">Touka was Glad to See her Old Friend Again</h2>
+      <div class="scroller">
+        <p>
+          Touka, having caught up with Himani, grips up her cheeks and calls her a screw up while smiling, then pulled
+          her into one of the greatest hugs she ever made. She quickly takes Hinami back home so that they can regroup.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="goat">
+      <div class="image" img="https://i.imgur.com/9x4sMaT.gif"></div>
+      <h2 class="header">Attempting to Bring Ghouls and Doves Together</h2>
+      <div class="scroller">
+        <p>
+          Kaneki believes that there is a future where ghouls and humans can live together in peace. He made friends
+          during his time as Haise, due to him being a Dove back then when his memories were erased. He called upon
+          them, as well as the remnants of Aogiri to talk about working together to take down the new leader of the CCG,
+          who was being very aggressive with ghoul killing, and this was getting in Kaneki's way. Almost everyone
+          refused to be a part of Goat, and because of it, Kaneki did not have the forces he was seeking to claim.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="ccg-aggressive">
+      <div class="image" img="https://i.imgur.com/T1AsekV.gif"></div>
+      <h2 class="header">CCG Turns Up the Heat</h2>
+      <div class="scroller">
+        <p>
+          The new leader of the CCG was a man named Furata. He was a merciless leader that lead the CCG into territories
+          that the CCG didn't know about before and slaughtered thousands of ghouls, innocent and not. The news
+          terrified Touka a bit; how did this man know so much about the hiding places of ghouls? It didn't make sense.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="secret-revealed">
+      <div class="image" img="https://i.imgur.com/bjZYhCK.gif"></div>
+      <h2 class="header">'I killed your father'</h2>
+      <div class="scroller">
+        <p>
+          One of the CCG people that did team up with Kaneki was known as Akira Mado. A woman that had mourned Kureo's
+          death at the hands of 'The Rabbit'. Since they were allies now, she decided to release the tension. She
+          dragged Akira out of bed and informed her that she was the rabbit, and she was the one that killed her father.
+          Akira loathed Touka for this. "That's one hell of a thing to drag a sick woman out of bed to say to." Touka
+          informs her that she only did it because he was after Hinami, though the hatred for Touka was strong, seeing
+          Hinami going up to Akira and telling her that she forgave her father for killing Hinami's parents.. it drove
+          down the rage just a bit.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="virgin">
+      <div class="image" img="https://i.imgur.com/GkXXaWc.gif"></div>
+      <h2 class="header">'You know.. I could help you with that'</h2>
+      <div class="scroller">
+        <p>
+          Back at :re, Kaneki and Touka enjoy the break they've been needing. Turns out he killed Arima and became this
+          mythical title all of the ghouls are calling him now: 'The One-Eyed King'. Since he was finally back, she
+          couldn't help but bring up a question that was bothering her. "Are you.. a virgin?" It completely caught him
+          off guard. To which after he recovers, she tells him that she could help him with his virgin problem. She
+          explained to a dumbstruck Kaneki that she always noticed that during his visits while he was Haise that she
+          caught his glances towards her. And then informed him that she was surprised that he didn't see her.. taking
+          glances back. A seemingly romantic moment began to fill the area between the two.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="attacked">
+      <div class="image" img="https://i.imgur.com/94xg7e7.gif"></div>
+      <h2 class="header">'Die, You Thieving Tramp!'</h2>
+      <div class="scroller">
+        <p>
+          A mysterious eyepatched woman comes into her cafe shop, who was seemingly one of Kaneki's teammates. Shoving
+          Kaneki to the side, she openly attacks Touka, setting fire to her coffee shop. She attempts to hold back to
+          the angry ghoul investigator, being told that she stole Kaneki from her? What in the world was that supposed
+          to mean? Kaneki manages to thwart off Mutsuki and grabs Touka, taking her to safety. Unfortunate that :re had
+          to crash and burn.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="love">
+      <div class="image" img="https://i.imgur.com/FAHczgq.gif"></div>
+      <h2 class="header">Love Sparks in the Kirishima</h2>
+      <div class="scroller">
+        <p>
+          Once out of the clutches of the CCG, the two are able to have a moment to themselves. Touka, still bent on
+          helping his virginity, begins to show affection for Kaneki, and eventually ends up stripping. He follows, and
+          the two enjoy themselves on the cold floor of an abandoned building in the middle of the night.
+          Virginity-begone.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="gift-to-ken">
+      <div class="image" img="https://i.imgur.com/6z0xOof.gif"></div>
+      <h2 class="header">'This is imporant to me, so I want you to have it.'</h2>
+      <div class="scroller">
+        <p>
+          The day after, Touka's best friend, Yoriko, gets married to one of the friendly Doves that had joined Goat,
+          and her and Kaneki attend the wedding at a distance. The two stayed in silence for a while to take in the
+          moment, and then Touka presents a ring that her father wore during his time married to her mother. She gifted
+          it to him, telling him that it was a precious item and she wanted him to have it. He took it gladly, saying he
+          will always remember her whenever he sees it.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="pregnant">
+      <div class="image" img="https://i.imgur.com/PIKgiye.gif"></div>
+      <h2 class="header">Eating Human Food to Nurse the Baby</h2>
+      <div class="scroller">
+        <p>
+          It seemed Kaneki had a weak pullout game. Or Touka loved the hot feeling of cum inside of her. Either way,
+          Touka now carried a half-human, half-ghoul baby inside of her. It was known that a ghoul and a human cannot
+          breed very well together, that the chance of the baby's survival is less than 10%. On top of this, for the
+          baby to get nurishment, she is forced to eat human food; the poison for ghouls. Eating human food is
+          disgusting and dangerous for a ghoul, but for the child, it was necessary. With great hesitation, she builds
+          up the courage to eat, putting her health at risk for her baby.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="confession">
+      <div class="image" img="https://i.imgur.com/8ETSYrS.gif"></div>
+      <h2 class="header">Touka Tells Kaneki She's Pregnant</h2>
+      <div class="scroller">
+        <p>
+          Due to Nishiki spying on Touka as she ate, Kaneki soon learns that indeed Touka was pregnant. He rushed to the
+          place she was staying at and tried to subtly as how she was feeling, though he was being rather terrible at
+          it, upsetting her. It was after she calmed down that she informed him that she's pregnant. The male stared,
+          before letting her know that he was very happy to hear that, a reply which shocked Touka. "R-really?" she
+          spoke, causing him to nod, and she became happy with his approval.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="marriage">
+      <div class="image" img="https://i.imgur.com/CZnPVTW.gif"></div>
+      <h2 class="header">Tying the Knot</h2>
+      <div class="scroller">
+        <p>
+          Despite Touka telling Kaneki that he didn't need to go this far for her, the two end up planning a wedding
+          reception. The two dressed up in the ghoulish fashion of a wedding. Their friends and family come along to
+          celebrate, drinking and dancing and hanging around a bonfire. It was a lovely and magical moment for them
+          both.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="defeated">
+      <div class="image" img="https://i.imgur.com/mgeVzvG.gif"></div>
+      <h2 class="header">Mutsuki Crashes the Wedding</h2>
+      <div class="scroller">
+        <p>
+          It seemed that Mutsuki also had feelings for Kaneki, and moved with Kaneki-like clones to crash the party.
+          Kaneki was overwhelmed by the clones, and Touka was viciously beaten by Mutsuki. As Kaneki laid down on the
+          ground, near death, he watched on as Mutsuki impaled Touka to a wall with daggers, moving to kill the wretched
+          bluette that took her Kaneki away from her.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="dragon">
+      <div class="image" img="https://i.imgur.com/gpX9TB2.gif"></div>
+      <h2 class="header">'Touka.. Touka.. Touka..! TOUKA!!!'</h2>
+      <div class="scroller">
+        <p>
+          With his pregnant wife seconds from death, Kaneki, in a desperate attempt to save Touka, fully loses control.
+          His rage shoots up into the sky as his kakuja manifests into that of a large centipede-like kakuja. To
+          everyone's surprise, this kakuja quickly spread all over the city of Tokyo, ripping through the ground,
+          buildings, and attaching itself to the landscape. The city's power is cut off, and thousands of human and
+          ghoul lives are lost. Kaneki is nowhere to be found, and the city-wide Kakuja becomes dormant. This immense
+          kakuja became known as 'The Dragon'.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="blamed">
+      <div class="image" img="https://i.imgur.com/i6L36w0.gif"></div>
+      <h2 class="header">'She's the one that caused all of this!'</h2>
+      <div class="scroller">
+        <p>
+          Touka is blamed for the cause of The Dragon, and was mocked and belittled by one of the people she thought was
+          a friend. Yomo tells her not to listen, and she attemtps to shut out the cold words being driven into her
+          ears. It was only when that one of Kaneki's allies, Akira and Kotaro, come to speak with her, that she was
+          able to get out of this trance. The three begin to make a plan about bringing the CCG and ghouls together to
+          take care of The Dragon.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="ghouls-and-humans">
+      <div class="image" img="https://i.imgur.com/UL2FDU0.gif"></div>
+      <h2 class="header">'Pride? This is what I think about your stupid pride.'</h2>
+      <div class="scroller">
+        <p>
+          The plan was simple, yet complicated. The goal; convince the CCG to work along side the ghouls to kill The
+          Dragon. Akira, Kotaro, and Kaneki's friend, Hide, all come together and speak to the higher up of the CCG,
+          bringing all of the ghouls allied with them. This angered the CCG and they come with an army of ghoul
+          investigators of their own, telling them that the very thought of working with ghouls angered them. That the
+          very notion would destroy their pride. In a fit of anger, Touka grabs her mask and throws it into the air,
+          shouting "Pride? This is what I think about your stupid pride." All of the ghouls follow suite, exposing
+          themselves fully to the CCG. They were committed now. If the CCG still said no, they would all be hunted down,
+          their identities now known. It was to show the CCG how dedicated they really were to save Kaneki. Eventually
+          the CCG agreed, and officially, for the first time in history, ghouls and humans band together to deal with a
+          bigger threat.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="the-search">
+      <div class="image" img="https://i.imgur.com/ftkg1KW.gif"></div>
+      <h2 class="header">How to Find Kaneki?</h2>
+      <div class="scroller">
+        <p>
+          The CCG have come to understand that the Dragon was currently dormant, and if reawakened, it will cause mass
+          destruction upon Tokyo for the next 200 years. They have also discovered that the Dragon can be slain by
+          removing the core; AKA Kaneki. But to serach for a man in such a huge kakuja, it seemed impossible. It was
+          until Touka recalled that she gifted her father's ring to Kaneki, and came to the conclusion that he could be
+          found by using metal detectors. Shuu made a call to his father and had him buy a ton of metal detectors, and
+          everyone would begin the search to find Kaneki. As they searched, however, The Dragon's dormant would not
+          remain for much longer..
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="found2">
+      <div class="image" img="https://i.imgur.com/mLhqiiW.gif"></div>
+      <h2 class="header">Touka's Detector Goes Off, and She Digs Frantically</h2>
+      <div class="scroller">
+        <p>
+          The Dragon uses a strange self defense mechanism from everyone searching all over it. It shot out large
+          bio-monsters that, when slain, exploded and infected people.. turning them into ghouls?! Touka hid well from
+          them, continuing to search before finally finding her beloved. She dug him out in a frantic frenzy, tears
+          filling her eyes as she pulled him from the Dragon and brought him to the hospital. He was in a coma, unable
+          to wake up from it.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="kaneki-recovers">
+      <div class="image" img="https://i.imgur.com/GqSzb3U.gif"></div>
+      <h2 class="header">He's Alive!</h2>
+      <div class="scroller">
+        <p>
+          Kaneki wakes from his coma while Touka was asleep. She woke up at his movement, and her eyes would widen in
+          shock. Tears of relief is made from the bluette, and she gripped onto the male tightly, wheeping in joy for
+          his recovery. She and the others then inform Kaneki that the Dragon was still alive, due to it having another
+          core. They weren't sure who or how, but they needed to get to the top of the Dragon. The plan was made,
+          despite Touka's pleas. Kaneki and Ayato would go underground to find a way up the Dragon. Touka wishes them
+          luck, and they head out.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="end-the-bloodshed">
+      <div class="image" img="https://i.imgur.com/02zDMs4.gif"></div>
+      <h2 class="header">Kaneki vs Furata</h2>
+      <div class="scroller">
+        <p>
+          To the Dragon the two go. Ayato stays behind to deal with the mass of bio monsters that were attacking them,
+          and Kaneki attempts to go to the top of the Dragon. On the way up, he comes across Furata, who seemed to be
+          behind this whole ordeal. His plan? To make Tokyo a purely ghoul society, and to do that, he would use the
+          Dragon to infect humans and somehow turn them into ghouls. Kaneki readies his kagune in the final fight.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="dragon-defeated">
+      <div class="image" img="https://i.imgur.com/5GViJbx.png"></div>
+      <h2 class="header">Rize Was the Other Core?!</h2>
+      <div class="scroller">
+        <p>
+          With the mastery of his kakuja, Kaneki defeats and kills Furata in an epic, final battle. With his victory, he
+          climbed to the very top of the Dragon and found the other core; Rize? But, she's been dead.. This didn't make
+          sense. Or, it wouldn't have, if Touka was there. Kaneki understood, however, and said his goodbye to the
+          unconcious Rize trapped in the pod, and slayed her. With her death, the Dragon loses its power and withers
+          away over the course of the next years.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="6-years">
+      <div class="image" img="https://i.imgur.com/9f75IGZ.gif"></div>
+      <h2 class="header">Peace restored. This time? For good.</h2>
+      <div class="scroller">
+        <p>
+          An entire six years have passed since the battle over the Dragon. Dying people were saved by the advanced
+          technology over the years, people got together and married, and most importantly? Ghouls and humans now lived
+          in harmony. The production of artificial flesh is produced to prevent the loss of human lives for the survival
+          of ghouls, and the CCG disbanded, molding instead with the police force to uphold the law. This was a future
+          that Touka thought she would never see. A life of hiding in the shadows and dying of old age in fear of being
+          discovered was the life that was prepared for Touka. However, all of this changed, thanks to one, single
+          bookworm: <b>Ken Kaneki. </b>
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="ichika">
+      <div class="image" img="https://i.imgur.com/j6WJRqb.gif"></div>
+      <h2 class="header">Ichika Kaneki, the Natural One-eyed Ghoul</h2>
+      <div class="scroller">
+        <p>
+          That 10% chance of the baby surviving pulled through, and Ichika Kaneki was born. Now five years old, she
+          lives with her mother, Touka, and her father, Kaneki, and gets plenty of visits from Yomo. Ichika is raised
+          with warm hearts, plenty of affection and love, and guarded by the most powerful ghoul of them all; Ken
+          Kaneki.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="the-end">
+      <div class="image" img="https://i.imgur.com/tFw639p.gif"></div>
+      <h2 class="header">'It's a beautiful day today.. Isn't it, Touka?'</h2>
+      <div class="scroller">
+        <p>
+          With a second child on the way, the three move to walk along their land, looking up at the lovely sunny day.
+          The wind breezes through their clothes and hair, the fresh smell of grass filling their noses. With a final,
+          relaxed whisper from Kaneki, 'It's a beautiful day today, isn't it, Touka?' The story of Ken Kaneki and Touka
+          Kirishima-- or in this case, Touka Kaneki-- lived happily ever after, bringing the once tragic story to a
+          happy ending.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="layerTwo" id="layer-five">
+    <div class="tabs">
+      <div class="tabsHeader">RPC</div>
+      <div class="tab" content="Where the canon ends" opens="canon-ends"></div>
+      <div class="tab" content="Kiri Cafe" opens="kiri-cafe"></div>
+      <div class="tab" content="A curious portal" opens="curious-portal"></div>
+      <div class="tab" content="Fight and Fuck: Grand Colosseum" opens="fnf"></div>
+      <div class="tab" content="Living in Remnant" opens="remnant"></div>
+      <div class="tab" content="Kidnapped" opens="kidnapped"></div>
+      <div class="tab" content="Cinder and Jason's Plan" opens="cinder-jason"></div>
+      <div class="tab" content="Kaneki?!" opens="kanekirpc"></div>
+      <div class="tab" content="Kakuja" opens="kakuja"></div>
+
+    </div>
+
+    <div class="inmenu-tab" id="canon-ends">
+      <div class="image" img="https://i.imgur.com/d1l9NlW.png"></div>
+      <h2 class="header">Where the Story Ends and the Roleplay Begins!</h2>
+      <div class="scroller">
+        <p>
+          The canon ends after Kaneki is freed from the Dragon and they end up getting together to create Ichika. After
+          the Dragon was destroyed and Ichika was conceieved, Kaneki and Touka went their separate ways, with Touka
+          wishing to travel the world and get serious about her cafe business. To her, :re was her passion, but it
+          wasn't enough. After repairing :re after the incident with Mutuski, she traveled across the world to start a
+          business of her own. She would call it, 'Kiri Cafe'.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="kiri-cafe">
+      <div class="image"></div>
+      <h2 class="header">Starting her New Brand in the Americas</h2>
+      <div class="scroller">
+        <p>
+          Kiri Cafe, or the Kirishima Cafe, is her new brand that she attempts to get across the world, starting with
+          the United States of America. After a long, hard-fought battle, she was able to successfully place her cafe in
+          California, and within a few weeks of working there, her cafe was quickly branded as one of the best cafes of
+          the state. With her bit of magic made with helping there to get the popularity going, she departed, heading
+          next to Iowa, and easily got herself going there, then once more down at Texas. While still working to get her
+          cafe to the other parts of America, she is content, for the time being, with what she had now. (Image WIP)
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="curious-portal">
+      <div class="image"></div>
+      <h2 class="header">A Portal Opens in the Business District</h2>
+      <div class="scroller">
+        <p>
+          A portal manifests into the business district of Tokyo. The police force investigated and attempted to close
+          it, but for some reason, they could not pass through it. Touka saw this portal after news broke out about it.
+          She moved to check it out for herself, and she ended up making her way directly through it, to this day she
+          could not figure out how, but through the portal she goes, slipping into the unknown. (Image WIP)
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="fnf">
+      <div class="image"></div>
+      <h2 class="header">The Realm of Infinite Battles</h2>
+      <div class="scroller">
+        <p>
+          The portal lead to a different realm altogether, a place called Fight and Fuck: Grand Colosseum. While the
+          name was a little offputting, she grew curious and began to explore. She soon understood that this was a realm
+          of which multiple universes come together, linking to this area as a middle grounds kind of place. The past,
+          the present, the future-- Even the dead, can reunite here. This place offered the ultimate cheat towards
+          death: A respawn, bringing those defeated back to life altogether with their memories intact. A perfect place
+          to test ones limits and move to surpass them. It was here that she met many people, both friendly and not.
+          (Image WIP)
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="remnant">
+      <div class="image" img="https://i.imgur.com/o13IoLZ.png"></div>
+      <h2 class="header">The Land of The RWBY Universe</h2>
+      <div class="scroller">
+        <p>
+          The woman came to know someone, a certain bandit named Raven Branwen. While she was extremely hard-headed at
+          first, Touka decided to make her a passtime to try to open them up a bit. Over the course of months, she was
+          successful, and the two would begin dating. Eventually the woman brought Touka to Remnant, a place filled with
+          giant monsters known as 'grimm' that attack settlements when negative emotions arise. She arrived at Raven's
+          camp full of bandits, who seemed to immediately distrust her, but this is where she stayed for the next six
+          months. It was around this time that Touka had come to know about the other members of Raven's tribe, and grew
+          to trust them, and them to her.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="kidnapped">
+      <div class="image"></div>
+      <h2 class="header">An AU Jason emerges from the Portal</h2>
+      <div class="scroller">
+        <p>
+          Every once in a while she would return back to Tokyo to manage her cafe and keep bills paid. Raven and Touka
+          go out for a walk in the winter near a park where she lived. Ther was no wind, and the snow was just perfect,
+          coming straight down to create a soft, pillowy cold surface. The two make it to the park and enjoy a nice time
+          together, before finally deciding to head home, only to notice something: There was a fire, and it was coming
+          from the direction of her house! Raven flew on ahead to check it out, and saw that her house was indeed on
+          fire. The home she knew was set ablaze, and before she could do anything about it, Jason struck. Attacking
+          Touka and beating her unconcious, Jason fights Raven. While Raven was fast, she could not seem to land a blow
+          against the evasive Jason. He sicks a new recruit onto her, a woman with a quinque that had the ability to
+          warp time. Whenever Raven attempts to run passed her and save Touka, she would be displaced by the illusion,
+          and found herself back against the enemy. It is when that Kaneki joined up with Raven, hearing about the news,
+          and while the two did not like each other very much, they teamed up to kill the opponent. They were eventually
+          successful in killing her, and with the illusion dropped, they moved to secure Touka.
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="cinder-jason">
+      <div class="image"></div>
+      <h2 class="header">RWBY x Tokyo Ghoul Bad Guy Teamup?!</h2>
+      <div class="scroller">
+        <p>
+          The two find that Jason had established a new base in an abandoned construction site, and so the two
+          retreated. Kaneki, a higher up of the CCG, now come to form an army to invade and kill Jason, as they once did
+          before. After preparations were made, the two, along with the CCG, made their way to the construction site and
+          was quick to invade it. Kaneki stayed behind to help out with the battle and Raven ran on ahead, only to be
+          stopped by a special guest, one bent on getting revenge: <b>Cinder. </b> The woman's arm has been regrown back
+          to how it was before it was replaced by that grimm hand, and more importantly, one of her eyes had turned
+          blood red. Cinder, in able to get revenge, had used Jason to become a one-eyed ghoul. The two battled, and
+          through the use of her new quinque given by Touka, she used it to slay Cinder, having the weapon to counteract
+          ghouls. She moved on, leaving the corpse behind to finally find Touka. She was being.. force fed by Jason. Not
+          just flesh though, ghoul flesh! There were plenty of bodies around them, and Touka was beaten, bruised, cut
+          up, and with a bit of vomit, and definitely a lot of blood over her. In a rage, Raven fights Jason. The battle
+          was hard fought and long, but eventually Raven was successful. With severe injuries, Raven frees Touka from
+          the metal chair she was tied to, and the two would quickly retreat back to Remnant, where they stayed for a
+          little longer. Touka's home was rebuilt, and she would return home, glad to be back to how things used to be.
+          However, upon waiting for Raven, Touka found that she did not return. No portals made, and she no longer
+          appeared at the colosseum. This baffled Touka, but ultimately pushed her into a rather deep depression. Was
+          she abandoned? Not again.. (Image WIP)
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="kanekirpc">
+      <div class="image"></div>
+      <h2 class="header">Kaneki Arrives at the Colosseum!</h2>
+      <div class="scroller">
+        <p>
+          Time has passed since the event, and during this, she has not seen Kaneki at all. It was one day that he
+          appeared in the colosseum in his usual black flare. Heh. Dude always looks like an oreo, she swears. But that
+          was alright. She missed him, truly, and began to tell him all about the colosseum. Turns out, over the years,
+          Kaneki has grown to love fighting, and discovering this place was a godsend. The two began to catch up on
+          what's been going on for the passed six years, only to be informed that he was around to help her with Jason.
+          To this, she was surprised, before giving a smile and thanking him, and the two would continue to bond in the
+          colosseum. (Image WIP)
+        </p>
+      </div>
+    </div>
+    <div class="inmenu-tab" id="kakuja">
+      <div class="image"></div>
+      <h2 class="header">'I can see your father's Kakuja in yours'</h2>
+      <div class="scroller">
+        <p>
+          Due to her consuming massive amounts of flesh from Jason, she found herself slowly forming a kakuja over time.
+          Whenever she got angry or extremely stressed, she would lose control, turning into a beetle-like Kakuja.
+          Though over time she was helped by Kaneki to help out in containing it, and if it broke out, he would quell
+          it. It wasn't until Mutsuki came back around and saught revenge against Touka for what happened at :re. After
+          pushing her to near death, she finally lost herself to her kakuja, but this time, her deceased father, Arata,
+          came from the dead to briefly invade her distorted mind and showed her the way to manifest the kakuja. When
+          she regained consciousness, her kakuja was fully formed, coming to life with heightened strength and
+          abilities, and she quickly dispatched Mutsuki and sent her packing. A few days later, Kaneki and Touka come
+          together to go back to Tokyo, hunting down the traitorous Mutsuki and found her, only to realize that she had
+          manifested a Kakuja of her own. Through effort and pain, the two slay Mutsuki, and with her death, and a final
+          goodbye from Kaneki, they return home.
+        </p>
+      </div>
+    </div>
+  </div>
+
+
+
+</div>
+
+<!--
+ ================================
+ ----- BREAK -----
+ ================================
+ -->
+
+<div class="submenu" id="submenu-contacts">
+  <div class="tabs">
+    <div class="tab" opens="accelerator" content="Accelerator"></div>
+    <div class="tab" opens="raven" content="Raven Branwen"></div>
+    <div class="tab" opens="yang" content="Yang Xiao Long"></div>
+    <div class="tab" opens="ichor" content="Ichor"></div>
+    <div class="tab" opens="kratos" content="Kratos"></div>
+    <div class="tab" opens="constanze" content="Constanze"></div>
+    <div class="tab" opens="elizabeth" content="Elizabeth"></div>
+    <div class="tab" opens="rize" content="Rize"></div>
+    <div class="tab" opens="alita" content="Alita"></div>
+  </div>
+  <div class="arrow back-to-main">Back</div>
+
+  <div class="inmenu-tab" id="accelerator">
+    <div class="image" img="https://i.imgur.com/lv4WkQD.gif"></div>
+    <h2 class="header">The Accelerator</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Accelerator." title=""
+        target="_blank">Accelerator</a>. She can't get a good pin down on this guy. At times he seems like the best
+      father figure, and others he is the most sadistic person she's ever met. Because of this, Touka alternates between
+      being nice to him and being an ass. She wants to be nice, but it can be difficult due to his nature. But clearly
+      he trusts her, so she definitely feels she could trust him. A complicated relationship, you could say.
+    </div>
+  </div>
+
+  <div class="inmenu-tab" id="raven">
+    <div class="image" img="https://i.imgur.com/eRQjQO9.jpg"></div>
+    <h2 class="header">Bandit Leader</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Raven%20Branwen" title="" target="_blank">Raven
+        Branwen</a>. The second person she ever fell in love with. Despite the way she treated others around her, she
+      was
+      very caring, and held dark secrets that only Touka knows about. They lived together for a long time in Remnant,
+      and
+      one day she left, with no reason or even a goodbye. To this day Touka still misses Raven, wondering what happened
+      to
+      her.
+    </div>
+  </div>
+  <div class="inmenu-tab" id="yang">
+    <div class="image" img="https://i.imgur.com/yxvSzIY.gif"></div>
+    <h2 class="header">The Flaming Brawler</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Gilded+Fury" title="" target="_blank">Yang Xiao
+        Long</a>. A woman with a passion for fighting, but an even bigger passion for protecting her friends. In a way,
+      she kind of reminds Touka of herself. She's just as affectionate as she is enthusiastic. She can't help but wonder
+      how Yang would fight when she was angry. Again, reminds her of herself.
+    </div>
+  </div>
+  <div class="inmenu-tab" id="ichor">
+    <div class="image" img="https://i.imgur.com/WBGXEFl.gif"></div>
+    <h2 class="header">Blood Master</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Miss%20Ichor" title="" target="_blank">Ichor</a>.
+      An
+      absolute brat, and a master of blood bending, it seemed. She's around more to piss off Touka than anything, making
+      her kagune and kakuho randomly activate just to tease her. When not being a complete bitch, she is quite lovable.
+    </div>
+  </div>
+  <div class="inmenu-tab" id="kratos">
+    <div class="image" img="https://i.imgur.com/5Q4Cbco.jpg"></div>
+    <h2 class="header">The God of War</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Allfather%20Kratos" title=""
+        target="_blank">Kratos</a> Once known as the God of War, Kratos is a man with decades of experience under his
+      belt, and plenty of weapons to come with it. He has a son, who has grown up and moved on in the world. He doesn't
+      seem to have a goal in mind, but he does help Touka with weapon training, as she knows next to nothing with it. He
+      won't admit it, but he's also very kind and caring. Just don't call him 'allfather' to his face.
+    </div>
+  </div>
+  <div class="inmenu-tab" id="constanze">
+    <div class="image" img="https://i.imgur.com/yuM5XkF.gif"></div>
+    <h2 class="header">Mechanic Master</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Constanze" title="" target="_blank">Constanze</a>.
+      She's not very affectionate and she doesn't seem to care much for social interactions, but that's alright.
+      Regardless of the rare moments they have together, she is happy to spend her time with Constanze. Constanze is a
+      caring individual, always using her knowledge of machinery to help others, and learn more about machines in the
+      process.
+    </div>
+  </div>
+  <div class="inmenu-tab" id="elizabeth">
+    <div class="image" img="https://i.imgur.com/j2bKRTX.gif"></div>
+    <h2 class="header">Lovable Bunble of Joy</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Elizabeth+Liones" title=""
+        target="_blank">Elizabeth</a>. A very seemingly shy individual who gets emotional at a moment's notice. Her
+      tendency to cry is quite high.. For the sake of her health, she needs to get a little bit of an iron will! But
+      until
+      then, she's alright with how Elizbaeth is. She is lovable, caring, and easy to tease. Qualities Touka herself
+      don't
+      want to have changed anytime soon. She's the closest Touka has seen to a genuine angel. She's also got some nice
+      tits-- But uh. Don't tell her I said that.~
+    </div>
+  </div>
+  <div class="inmenu-tab" id="rize">
+    <div class="image" img="https://i.imgur.com/OBHof41.gif"></div>
+    <h2 class="header">The Territorial Binge Eater</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Rize%20the%20Binge%20Eater" title=""
+        target="_blank">Rize</a>. A false damsel. I've seen her drag many lives into the alley to be eaten and left to
+      rot. A binge eater, who eats for fun and leaves quite a massive mess. Want my advice? Stay far away from her. She
+      had a nasty habit of hunting customers at Anteiku and it was pretty annoying losing customers. Ever try to have a
+      conversation with her? If you live to tell the tale, tell me how it goes.
+    </div>
+  </div>
+  <div class="inmenu-tab" id="alita">
+    <div class="image" img="https://i.imgur.com/bbRZCo9.gif"></div>
+    <h2 class="header">The Cyborg from Space</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Battle+Angel" title="" target="_blank">Alita</a>.
+      A
+      cyborg from another world, and an absolute cutie. From what I've been told, she's been through a lot, and friends
+      like me is something she desperately needs. Well, you don't have to ask twice, she's worth being around. Just
+      don't
+      call her an android.
+    </div>
+  </div>
+</div>
+
+
+<div class="submenu" id="submenu-restaff">
+  <div class="tabs">
+    <div class="tab" opens="kasana" content="Kasana"></div>
+    <div class="tab" opens="tear" content="Tear"></div>
+    <div class="tab" opens="himeno" content="Hinemo"></div>
+    <div class="tab" opens="hayase" content="Hayase"></div>
+  </div>
+  <div class="arrow back-to-main">Back</div>
+
+
+  <div class="inmenu-tab" id="kasana">
+    <div class="image" img="https://i.imgur.com/SRTJPP7.png"></div>
+    <h2 class="header">Kasana Ichiro</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Kasana%20Ichiro" title=""
+        target="_blank">Kasana</a>. She found this one-eyed ghoul strapped to a tree and left to die of starvation.
+      Thankfully Touka had rescued her, however unbeknowest to Kasane, she wasn't exactly human, and when a nice, tasty
+      human came by, she learned the hard way of what she truly is. Now, she serves as a waitress and as clean-up crew
+      for :re.
+    </div>
+  </div>
+
+
+  <div class="inmenu-tab" id="tear">
+    <div class="image" img=""></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Tear" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+
+  <div class="inmenu-tab" id="himeno">
+    <div class="image" img="https://i.imgur.com/eZKQ3La.png"></div>
+    <h2 class="header">Stubborn :re Staff</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Himeno" title="" target="_blank">Himeno</a>. A
+      government agent, now turned into :re staff! This woman has always known how to kill people, but throw her into a
+      building full of hungry customers? The girl's completely lost. Good thing her -boss- is there to help her out. One
+      coffee stain at a time.
+    </div>
+  </div>
+
+
+  <div class="inmenu-tab" id="hayase">
+    <div class="image" img="https://i.imgur.com/eZKQ3La.png"></div>
+    <h2 class="header">Looks can be Deceiving!</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Hayase+Reizo" title="" target="_blank">Hayase</a>.
+      A
+      surprisingly strong man considering his appearance. For the brief time they battled, Hayase was shown to be fast,
+      clever, and powerful. Traits that will definitely get on Touka's good side. He works at :re as a host.
+    </div>
+  </div>
+</div>
+
+<!--
  ========================
  ----- SUBMENUS END -----
  ========================
@@ -1127,23 +1628,23 @@ With a second child on the way, the three move to walk along their land, looking
 
 
 
- <!-- audio controls and cues, don't touch -->
- </div>
- </div>
- </div>
- <div id="audioControls">
- <div class="mute"></div>
- <div class="unmute"></div>
- <input type="range" id="volume" min="0" max="100" value="5">
- </div>
+<!-- audio controls and cues, don't touch -->
+</div>
+</div>
+</div>
+<div id="audioControls">
+  <div class="mute"></div>
+  <div class="unmute"></div>
+  <input type="range" id="volume" min="0" max="100" value="5">
+</div>
 
- <audio src="https://dl.dropbox.com/s/71rjd686ih33s9v/Touka-hover.mp3" class="hidden" id="hover-cue"></audio>
- <audio src="https://dl.dropbox.com/s/fo1yc1lx5wa7g49/Touka-select.mp3" class="hidden" id="select-cue"></audio>
- <audio loop src="https://dl.dropbox.com/s/3uv32wse8uyjcmf/Touka-mainmenu.mp3" class="hidden" id="main-menu"></audio>
- <audio loop src="https://dl.dropbox.com/s/c1nl047pas206yc/Touka-submenu.mp3" class="hidden" id="submenu"></audio>
+<audio src="https://dl.dropbox.com/s/71rjd686ih33s9v/Touka-hover.mp3" class="hidden" id="hover-cue"></audio>
+<audio src="https://dl.dropbox.com/s/fo1yc1lx5wa7g49/Touka-select.mp3" class="hidden" id="select-cue"></audio>
+<audio loop src="https://dl.dropbox.com/s/3uv32wse8uyjcmf/Touka-mainmenu.mp3" class="hidden" id="main-menu"></audio>
+<audio loop src="https://dl.dropbox.com/s/c1nl047pas206yc/Touka-submenu.mp3" class="hidden" id="submenu"></audio>
 
- <!-- scripts | please do not touch -->
+<!-- scripts | please do not touch -->
 <script src="https://themonstrousdev.github.io/scripts/libs/jquery.min.js"></script>
 <script src="https://themonstrousdev.github.io/profiles/Addons/king-commission.js"></script>
- <!-- insert code from setting up step 2 in STEP 2 - USING YOUR CODE -->
+<!-- insert code from setting up step 2 in STEP 2 - USING YOUR CODE -->
 <script src="https://zanrolia.github.io/Touka/script.js"></script>
