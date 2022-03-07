@@ -1087,7 +1087,7 @@ With a second child on the way, the three move to walk along their land, looking
  
  
  <div class="inmenu-tab" id="tear">
- <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+ <div class="image" img=""></div>
  <h2 class="header">Tear Grants</h2>
  <div class="scroller">
  <a target="_blank" href="https://roleplay.chat/profile.php?user=Tear" title="" target="_blank">Tear</a>. She met this woman at the colosseum one day, apparently having lost their way.  She is a healer capable of ressurection and mending grevious wounds.  However, it seems she wishes to live that life behind-- well, mostly.  Wanting a different life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations we must take against those who want to ruin the peace between us all.
