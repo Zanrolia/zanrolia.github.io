@@ -1641,7 +1641,7 @@
   <div class="arrow back-to-main">Back</div>
   
   <div class="inmenu-tab" id="inuyasha">
-    <div class="image" img="https://i.imgur.com/Zp19Hbw.gif"></div>
+    <div class="image" img="https://i.imgur.com/beWCNSp.gif"></div>
     <h2 class="header">Half-Demon, Half-Human</h2>
     <div class="scroller">
       <a target="_blank" href="https://roleplay.chat/profile.php?user=Inuyasha" title=""
@@ -1650,7 +1650,7 @@
   </div>
   
   <div class="inmenu-tab" id="trish">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <div class="image" img="https://i.imgur.com/AqGNtsI.gif"></div>
     <h2 class="header">Demon Hunter</h2>
     <div class="scroller">
       <a target="_blank" href="https://roleplay.chat/profile.php?user=Trish" title="" target="_blank">Trish</a>. A demon hunter who slays for money.  Need a demon slain?  It's gonna cost ya.
@@ -1661,157 +1661,91 @@
     <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
     <h2 class="header">Demon Maidservant</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Hildegarde" title="" target="_blank">Hilda</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Hildegarde" title="" target="_blank">Hilda</a>. A demon maidservant that is ruled by the great demon known as Beelzebub.  She is a caretaker for his son, nicknamed Baby Beel, and is also a frontline soldier that keeps those under his rule in line, and often comes into the human world for assignments.
     </div>
   </div>
   
   <div class="inmenu-tab" id="ada">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <div class="image" img="https://i.imgur.com/sHPkN5G.gif"></div>
     <h2 class="header">Tear Grants</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Ada+Wong" title="" target="_blank">Tear</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Ada+Wong" title="" target="_blank">Ada Wong</a>. A spy that works for umbrella corporation, focused on retrieving information, or performing assassinations.  You don't want to be put on this woman's hit list.
     </div>
   </div>
   
   <div class="inmenu-tab" id="zinnia">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
-    <h2 class="header">Tear Grants</h2>
+    <div class="image" img="https://i.imgur.com/scMvCnv.jpg"></div>
+    <h2 class="header">The Lorekeeper</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Zinnia+ORAS" title="" target="_blank">Tear</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Zinnia+ORAS" title="" target="_blank">Zinnia</a>. She is a dragon pokemon trainer from a line of people who had the task of bringing back Rayquaza should the world be in peril.  She is excited for the battle and is always seeking dragon pokemon.
     </div>
   </div>
   
   <div class="inmenu-tab" id="connor">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
-    <h2 class="header">Tear Grants</h2>
+    <div class="image" img="https://i.imgur.com/3jpJGBG.gif"></div>
+    <h2 class="header">Assassin of the Revolutionary War</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Connor+Kenway" title="" target="_blank">Tear</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Connor+Kenway" title="" target="_blank">Connor Kenway</a>. A peaceful villager turned assassin after the death of his mother.  While he may rely a lot on brute strength, he is very good at it, and it makes him quite a unique assassin.
     </div>
   </div>
   
   <div class="inmenu-tab" id="liadrin">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
-    <h2 class="header">Tear Grants</h2>
+    <div class="image" img="https://i.imgur.com/MaFfCYu.gif"></div>
+    <h2 class="header">Blood Knight Matriarch</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Lady+Liadrin" title="" target="_blank">Tear</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Lady+Liadrin" title="" target="_blank">Liadrin</a>. A loyal blood elf that serves under their leader, Lor'themar.  She has lead many charges against the enemies of the world, and is a very powerful light magic user.
     </div>
   </div>
   
   <div class="inmenu-tab" id="tylee">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
-    <h2 class="header">Tear Grants</h2>
+    <div class="image" img="https://i.imgur.com/EJJRP83.gif"></div>
+    <h2 class="header">The Acrobatic Soldier</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Ty+Lee" title="" target="_blank">Tear</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Ty+Lee" title="" target="_blank">Ty Lee</a>. A very acrobatic fighter that once worked at a circus.  She helped fight with the fire nation for world domination, mostly by pressure.  But now she works for world peace.
     </div>
   </div>
   
   <div class="inmenu-tab" id="zone">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
-    <h2 class="header">Tear Grants</h2>
+    <div class="image" img="https://i.imgur.com/cB4xqQs.gif"></div>
+    <h2 class="header">The Hentai Queen</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Zone+Tan" title="" target="_blank">Tear</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Zone+Tan" title="" target="_blank">Zone Tan</a>. Hello, my little Zonelings.~  The purple gal known for making all kinds of ways to make you fap.
     </div>
   </div>
   
   <div class="inmenu-tab" id="tidus">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
-    <h2 class="header">Tear Grants</h2>
+    <div class="image" img="https://i.imgur.com/RWhj6oQ.gif"></div>
+    <h2 class="header">Blitzball Star!</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Tidus" title="" target="_blank">Tear</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Tidus" title="" target="_blank">Tidus</a>. Once a blitzball player, now his skills have shifted to the side of battle.  With his sword, Brotherhood, and his wits, he travels onward in search of glory.
     </div>
   </div>
   
   <div class="inmenu-tab" id="piper">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
-    <h2 class="header">Tear Grants</h2>
+    <div class="image" img="https://i.imgur.com/Z0MxH6I.png"></div>
+    <h2 class="header">Reporter in a Wasteland</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Piper+Wright" title="" target="_blank">Tear</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Piper+Wright" title="" target="_blank">Piper</a>. A courageous news reporter that tries to make her living by finding stories.  But that's not the only reason she goes into danger; she does it to help those in need, to make the world a better place.
     </div>
   </div>
   
   <div class="inmenu-tab" id="rem">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
-    <h2 class="header">Tear Grants</h2>
+    <div class="image" img="https://i.imgur.com/Chjd3vw.gif"></div>
+    <h2 class="header">Demon Maid</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Rem+Rem" title="" target="_blank">Tear</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Rem+Rem" title="" target="_blank">Rem</a>. A demon who is loyal to a man named Lord Roswaal.  She serves as his clean up, goes to the store for him, and performs various assassinations.  She is cute in appearance, especially when her sister, Ram, is nearby.  But do not let that fool you.  She is a real DEMON when angered.
     </div>
   </div>
   
   <div class="inmenu-tab" id="gokublack">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
-    <h2 class="header">Tear Grants</h2>
+    <div class="image" img="https://i.imgur.com/tzoHM1O.gif"></div>
+    <h2 class="header">World Destroyer</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Tear" title="" target="_blank">Tear</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Goku+Black" title="" target="_blank">Goku Black</a>. A heartless monster who seeks to kill all of the human race to make the future a better place.  He sees his actions as completely justified, seeing the rest of the world as 'evil'.
     </div>
   </div>
   
-  <div class="inmenu-tab" id="tear">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
-    <h2 class="header">Tear Grants</h2>
-    <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Tear" title="" target="_blank">Tear</a>. She met
-      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
-      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
-      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-      we
-      must take against those who want to ruin the peace between us all.
-    </div>
-  </div>
+
 <!--
  ========================
  ----- SUBMENUS END -----
