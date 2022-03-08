@@ -1754,7 +1754,7 @@
   </div>
   
   <div class="inmenu-tab" id="lulu">
-    <div class="image" img="https://i.imgur.com/5JcircF.gif"></div>
+    <div class="image" img="https://i.imgur.com/Cg2dOVi.gif"></div>
     <h2 class="header">Black Mage</h2>
     <div class="scroller">
       <a target="_blank" href="https://roleplay.chat/profile.php?user=Black+Mage+Lulu" title="" target="_blank">Lulu</a>.  A powerful sorceress capable of conjuring powerful black magic to slay her foes.  She's a bit of a hotty, and almost everyone would agree.
