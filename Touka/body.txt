@@ -1746,10 +1746,10 @@
   </div>
   
   <div class="inmenu-tab" id="friede">
-    <div class="image" img="https://i.imgur.com/tzoHM1O.gif"></div>
+    <div class="image" img="https://i.imgur.com/5JcircF.gif"></div>
     <h2 class="header">Guardian of the Painting</h2>
     <div class="scroller">
-      <a target="_blank" href="https://roleplay.chat/profile.php?user=Goku+Black" title="" target="_blank">Goku Black</a>. A heartless monster who seeks to kill all of the human race to make the future a better place.  He sees his actions as completely justified, seeing the rest of the world as 'evil'.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Friede" title="" target="_blank">Sister Friede</a>. The guardian of a painting, trying hard to keep the flames from reaching the world, in order to protect it.
     </div>
   </div>
   
