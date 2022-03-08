@@ -1658,7 +1658,7 @@
   </div>
   
   <div class="inmenu-tab" id="hildegarde">
-    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <div class="image" img="https://i.imgur.com/7z6lyAy.gif"></div>
     <h2 class="header">Demon Maidservant</h2>
     <div class="scroller">
       <a target="_blank" href="https://roleplay.chat/profile.php?user=Hildegarde" title="" target="_blank">Hilda</a>. A demon maidservant that is ruled by the great demon known as Beelzebub.  She is a caretaker for his son, nicknamed Baby Beel, and is also a frontline soldier that keeps those under his rule in line, and often comes into the human world for assignments.
@@ -1667,14 +1667,14 @@
   
   <div class="inmenu-tab" id="ada">
     <div class="image" img="https://i.imgur.com/sHPkN5G.gif"></div>
-    <h2 class="header">Tear Grants</h2>
+    <h2 class="header">Umbrella Assassin</h2>
     <div class="scroller">
       <a target="_blank" href="https://roleplay.chat/profile.php?user=Ada+Wong" title="" target="_blank">Ada Wong</a>. A spy that works for umbrella corporation, focused on retrieving information, or performing assassinations.  You don't want to be put on this woman's hit list.
     </div>
   </div>
   
   <div class="inmenu-tab" id="zinnia">
-    <div class="image" img="https://i.imgur.com/scMvCnv.jpg"></div>
+    <div class="image" img="https://i.imgur.com/SKyth0q.gif"></div>
     <h2 class="header">The Lorekeeper</h2>
     <div class="scroller">
       <a target="_blank" href="https://roleplay.chat/profile.php?user=Zinnia+ORAS" title="" target="_blank">Zinnia</a>. She is a dragon pokemon trainer from a line of people who had the task of bringing back Rayquaza should the world be in peril.  She is excited for the battle and is always seeking dragon pokemon.
@@ -1740,6 +1740,14 @@
   <div class="inmenu-tab" id="gokublack">
     <div class="image" img="https://i.imgur.com/tzoHM1O.gif"></div>
     <h2 class="header">World Destroyer</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Goku+Black" title="" target="_blank">Goku Black</a>. A heartless monster who seeks to kill all of the human race to make the future a better place.  He sees his actions as completely justified, seeing the rest of the world as 'evil'.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="friede">
+    <div class="image" img="https://i.imgur.com/tzoHM1O.gif"></div>
+    <h2 class="header">Guardian of the Painting</h2>
     <div class="scroller">
       <a target="_blank" href="https://roleplay.chat/profile.php?user=Goku+Black" title="" target="_blank">Goku Black</a>. A heartless monster who seeks to kill all of the human race to make the future a better place.  He sees his actions as completely justified, seeing the rest of the world as 'evil'.
     </div>
