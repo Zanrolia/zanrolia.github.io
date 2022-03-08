@@ -1619,6 +1619,199 @@
   </div>
 </div>
 
+
+<div class="submenu" id="submenu-alts">
+  <div class="tabs">
+    <div class="tab" opens="inuyasha" content="Inuyasha"></div>
+    <div class="tab" opens="trish" content="Trish"></div>
+    <div class="tab" opens="gokublack" content="Goku Black"></div>
+    <div class="tab" opens="hildegarde" content="Hildegarde"></div>
+    <div class="tab" opens="ada" content="Ada Wong"></div>
+    <div class="tab" opens="zinnia" content="Zinnia"></div>
+    <div class="tab" opens="connor" content="Connor Kenway"></div>
+    <div class="tab" opens="liadrin" content="Lady Liadrin"></div>
+    <div class="tab" opens="lulu" content="Lulu"></div>
+    <div class="tab" opens="zone" content="Zone Tan"></div>
+    <div class="tab" opens="tylee" content="Ty Lee"></div>
+    <div class="tab" opens="tidus" content="Tidus"></div>
+    <div class="tab" opens="piper" content="Piper Wright"></div>
+    <div class="tab" opens="friede" content="Sister Friede"></div>
+    <div class="tab" opens="rem" content="Rem"></div>
+  </div>
+  <div class="arrow back-to-main">Back</div>
+  
+  <div class="inmenu-tab" id="inuyasha">
+    <div class="image" img="https://i.imgur.com/WPfvoEu.gif"></div>
+    <h2 class="header">Half-Demon, Half-Human</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Inuyasha" title=""
+        target="_blank">Inuyasha</a>. A half demon man inhheriting his father's will through his sword.  He slaughters demons who dare get in his way to what he really wants.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="trish">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Demon Hunter</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Trish" title="" target="_blank">Trish</a>. A demon hunter who slays for money.  Need a demon slain?  It's gonna cost ya.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="hildegarde">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Demon Maidservant</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Hildegarde" title="" target="_blank">Hilda</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="ada">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Ada+Wong" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="zinnia">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Zinnia+ORAS" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="connor">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Connor+Kenway" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="liadrin">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Lady+Liadrin" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="tylee">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Ty+Lee" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="zone">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Zone+Tan" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="tidus">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Tidus" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="piper">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Piper+Wright" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="rem">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Rem+Rem" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="tear">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Tear" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
+  
+  <div class="inmenu-tab" id="tear">
+    <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
+    <h2 class="header">Tear Grants</h2>
+    <div class="scroller">
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Tear" title="" target="_blank">Tear</a>. She met
+      this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection and
+      mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a different
+      life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
+      we
+      must take against those who want to ruin the peace between us all.
+    </div>
+  </div>
 <!--
  ========================
  ----- SUBMENUS END -----
