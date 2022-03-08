@@ -1641,7 +1641,7 @@
   <div class="arrow back-to-main">Back</div>
   
   <div class="inmenu-tab" id="inuyasha">
-    <div class="image" img="https://i.imgur.com/WPfvoEu.gif"></div>
+    <div class="image" img="https://i.imgur.com/Zp19Hbw.gif"></div>
     <h2 class="header">Half-Demon, Half-Human</h2>
     <div class="scroller">
       <a target="_blank" href="https://roleplay.chat/profile.php?user=Inuyasha" title=""
@@ -1787,7 +1787,7 @@
     </div>
   </div>
   
-  <div class="inmenu-tab" id="tear">
+  <div class="inmenu-tab" id="gokublack">
     <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
     <h2 class="header">Tear Grants</h2>
     <div class="scroller">
