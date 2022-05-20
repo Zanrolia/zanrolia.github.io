@@ -164,10 +164,10 @@
     </div>
   </div>
   <div class="inmenu-tab" id="mate">
-    <div class="image" img="https://i.imgur.com/JGGThkb.gif"></div>
-    <h2 class="header">Single</h2>
+    <div class="image" img="https://i.imgur.com/X1v6wJr.gif"></div>
+    <h2 class="header">A curious Soul</h2>
     <div class="scroller">
-      <a target="_blank" href="--" title="" target="_blank">Sometimes</a> things just don't work out.
+      <a target="_blank" href="https://roleplay.chat/profile.php?user=Sui+Feng" title="" target="_blank">Sui Feng</a>.  A lady with a sad history.. but has a promising future.  She's a soul reaper and trained under one of the best soul reapers ever.  Don't mess with this kitten.
     </div>
   </div>
   <div class="inmenu-tab" id="personality">
