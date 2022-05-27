@@ -1993,6 +1993,10 @@
       <div class="tab music-player" music="music-four" content="Remembering"></div>
       <div class="tab music-player" music="music-five" content="Katharsis"></div>
       <div class="tab music-player" music="music-six" content="Won't Forget You"></div>
+      <div class="tab music-player" music="music-seven" content="Asphyxia"></div>
+      <div class="tab music-player" music="music-eight" content="On My Own"></div>
+      <div class="tab music-player" music="music-nine" content="Colour My World"></div>
+      <div class="tab music-player" music="music-ten" content="Wanderers"></div>
     </div>
     <div class="arrow back-to-main">Back</div>
   </div>
@@ -2014,6 +2018,10 @@
   <audio loop src="https://od.lk/d/NjdfNzk0NTEzMV8/Tokyo%20Ghoulre%20OST%20-%20Remembering%20%28We%20Meet%20Again%20Full%20Theme%29.mp3" class="hidden main-menu" id="music-four"><audio>
   <audio loop src="https://od.lk/d/NjdfNzIzMTg5Nl8/Tokyo%20Ghoulre%20Season%202%20Opening%20FullTK%20from%20Ling%20Tosite%20Sigure%20-%20katharsis.mp3" class="hidden main-menu" id="music-five"><audio>
   <audio loop src="https://od.lk/d/NjdfMzAzNjU3NDlf/Tokyo%20Ghoul_re%20OST%20-%20Won%E2%80%99t%20Forget%20You%20%28Feat.%20SaKy%29%20W_%20lyrics.mp3" class="hidden main-menu" id="music-six"><audio>
+  <audio loop src="https://od.lk/d/NjdfMzAzNjkwNThf/Asphyxia%20%28Japanese%2C%20English%2C%20Romaji%20lyrics%29%20-%20Tokyo%20Ghoul%20OP3%20by%20C%C3%B6%20shu%20Nie.mp3" class="hidden main-menu" id="music-seven"><audio>
+  <audio loop src="https://od.lk/d/NjdfMzAzNjkwNTlf/Tokyo%20Ghoul%20-%20On%20my%20Own%20%5B%20Lyrics%20-%20%E6%9D%B1%E4%BA%AC%E5%96%B0%E7%A8%AE%20-%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%82%B0%E3%83%BC%E3%83%AB-%5D.mp3" class="hidden main-menu" id="music-eight"><audio>
+  <audio loop src="https://od.lk/d/NjdfMzAzNjkwNjBf/Tokyo%20Ghoul%20-%20%27Colour%20My%20World%27%20with%20Lyrics.mp3" class="hidden main-menu" id="music-nine"><audio>
+  <audio loop src="https://od.lk/d/NjdfMzAzNjkwNjFf/Tokyo%20Ghoul%20-%20%27Wanderers%27%20with%20Lyrics.mp3" class="hidden main-menu" id="music-ten"><audio>
 
       <!-- scripts | please do not touch -->
       <script src="https://themonstrousdev.github.io/scripts/libs/jquery.min.js"></script>
