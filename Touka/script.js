@@ -4,6 +4,7 @@ let video = document.getElementById('cinematic'),
     select = document.getElementById('select-cue'),
     mainMenu = document.getElementById('main-menu'),
     submenu = document.getElementById('submenu'),
+    music = $('audio.main-menu'),
     vol = $('#volume').val() / 100,
     volSave;
 
@@ -22,19 +23,28 @@ $('<style>', {
 
 
 // SET ALL VOLUME 0 BEING MUTE AND 1 BEING LOUDEST
-video.volume = 0.5;
+video.volume = 0.1;
 hover.volume = 0.8;
 select.volume = 0.6;
-mainMenu.volume = 0;
 submenu.volume = 0;
+
+music.each(ndx => {
+  let muse = music[ndx];
+  muse.volume = 0;
+})
 
 // VOLUME CONTROLS
 $(document).on('input change', '#volume', updateVol);
 
 $('#audioControls .mute').click(() =>{
-  mainMenu.volume = 0;
+
+  music.each(ndx => {
+    let muse = music[ndx];
+    muse.volume = 0;
+    muse.currentTime = 0;
+  })
+  console.log(submenu);
   submenu.volume = 0;
-  mainMenu.currentTime = 0;
   submenu.currentTime = 0;
 
   volSave = vol;
@@ -46,9 +56,13 @@ $('#audioControls .mute').click(() =>{
 });
 
 $('#audioControls .unmute').click(() =>{
-  mainMenu.volume = volSave;
+
+  music.each(ndx => {
+    let muse = music[ndx];
+    muse.volume = volSave;
+    muse.currentTime = 0;
+  })
   submenu.volume = volSave;
-  mainMenu.currentTime = 0;
   submenu.currentTime = 0;
 
   vol = volSave;
@@ -59,23 +73,26 @@ $('#audioControls .unmute').click(() =>{
   $('#audioControls .mute').show();
 });
 
-function fadeMusic(fadeOut, fadeIn) {
-  let fadeMain = fadeOut == '#main-menu';
+function fadeMusic(fadeOut, fadeIn, noMusic = false) {
+  let fadeMain = fadeOut == 'audio.main-menu.current';
   $(fadeOut).animate({volume: 0}, 1500);
   $(fadeIn).animate({volume: vol}, 1500);
-
-  if(fadeMain) {
-    console.log('playing submenu music');
-    submenu.play();
-  } else {
-    console.log('playing main menu music');
-    mainMenu.play();
+  let main = $('audio.main-menu.current')[0];
+  
+  if(!noMusic) {
+    if(fadeMain) {
+      console.log('playing submenu music');
+      submenu.play();
+    } else {
+      console.log('playing main menu music');
+      main.play();
+    }
   }
 
   setTimeout(() => {
     if(fadeMain) {
-      mainMenu.currentTime = 0;
-      mainMenu.pause();
+      main.currentTime = 0;
+      main.pause();
     } else {
       submenu.currentTime = 0;
       submenu.pause();
@@ -86,7 +103,10 @@ function fadeMusic(fadeOut, fadeIn) {
 function updateVol() {
   let curVolume = $('#volume').val();
 
-  mainMenu.volume = curVolume / 100;
+  music.each(ndx => {
+    let muse = music[ndx];
+    muse.volume = curVolume / 100;
+  })
   submenu.volume = curVolume / 100;
   vol = curVolume / 100;
 
@@ -135,8 +155,8 @@ function loadDone(target) {
       $('#main-profile').show();
       $('#audioControls').fadeIn(500);
       
-      mainMenu.play();
-      $('#main-menu').animate({volume: vol}, 1500);
+      $('audio.main-menu.current')[0].play();
+      $('audio.main-menu.current')[0].animate({volume: vol}, 1500);
 
       tabHeight('main-profile');
     }, 1000);
@@ -248,6 +268,20 @@ $('.arrow').click(function(){
 // find the first selected tab and open it
 $('#main-profile .tab.selected').click();
 
+// CHOOSE MUSIC
+$('.music-player').click(function() {
+  let $player = $(this),
+      selected = $player.attr('music');
+
+  $('audio.main-menu.current')[0].pause();
+  $('audio.main-menu.current').removeClass('current');
+  $('audio#' + selected).addClass('current');
+  setTimeout(() => {
+    $('audio.main-menu.current')[0].currentTime = 0;
+    $('audio.main-menu.current')[0].play();
+  }, 200);
+})
+
 // CLICK TAB FUNCTION
 $('.tab').click(function() {
   let $tab = $(this),
@@ -256,7 +290,14 @@ $('.tab').click(function() {
       $openElem = $(`#${openName}`),
       height = $target.children('.header').outerHeight(),
       openSubmenu = $('.submenu.open').length > 0 && $openElem,
-      secondLayer = $tab.parents('.layerTwo.open').length > 0  && $openElem;
+      secondLayer = $tab.parents('.layerTwo.open').length > 0  && $openElem,
+      stopMusic = $tab.is('[stop-music]');
+
+      console.log($tab);
+
+  if(stopMusic) {
+    $('audio.main-menu.current')[0].pause();
+  }
 
   $('.submenu').removeAttr('style');
 
@@ -277,7 +318,9 @@ $('.tab').click(function() {
     }
 
     if($openElem.hasClass('submenu')) {
-      fadeMusic('#main-menu', '#submenu');
+      console.log('stop music');
+      console.log(stopMusic);
+      fadeMusic('audio.main-menu.current', '#submenu', stopMusic);
     }
 
     if($openElem.hasClass('layerTwo')) {
@@ -311,7 +354,7 @@ $('.back-to-main').click(function(){
   $('.layerTwo.open, .inmenu-tab.open').removeClass('open');
   $('.tab.selected').removeClass('selected');
   $('.submenu').fadeOut(500);
-  fadeMusic('#submenu', '#main-menu');
+  fadeMusic('#submenu', 'audio.main-menu.current');
   setTimeout(() => {
     $('.submenu.open').removeClass('open');
     $('.submenu').removeAttr('style');
