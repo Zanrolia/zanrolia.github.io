@@ -130,12 +130,6 @@
     <div class="tab" opens="gender" content="Gender"></div>
     <div class="tab" opens="sexual-orientation" content="Sexual Orientation"></div>
     <div class="tab" opens="combat" content="Combat Capabilities"></div>
-    <div class="submenu" id="submenu-music">
-    <div class="tabs">
-      <div class="tab music-player" music="music-one" content="Default Main Music"></div>
-      <div class="tab music-player" music="music-two" content="Sample Music"></div>
-    </div>
-    <div class="arrow back-to-main">Back</div>
   </div>
 
   </div>
@@ -1782,6 +1776,12 @@
 
 <!-- audio controls and cues, don't touch -->
 </div>
+<div class="submenu" id="submenu-music">
+    <div class="tabs">
+      <div class="tab music-player" music="music-one" content="Default Main Music"></div>
+      <div class="tab music-player" music="music-two" content="Sample Music"></div>
+    </div>
+    <div class="arrow back-to-main">Back</div>
 </div>
 </div>
 <div id="audioControls">
