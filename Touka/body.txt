@@ -53,6 +53,7 @@
     </div>
     <div class="tab" opens="menu-template" content="OOC" details="Stuff you should know about the writer."></div>
   </div>
+  <div class="tab" opens="submenu-music" content="Music Player" stop-music details="Choose menu music here"></div>
   <a class="arrow" href="http://roleplay.chat/profile.php?user=Kingdom+Corp" target="_blank" rel="noopener noreferrer">©
     Kingdom Corp</a>
 
@@ -129,6 +130,14 @@
     <div class="tab" opens="gender" content="Gender"></div>
     <div class="tab" opens="sexual-orientation" content="Sexual Orientation"></div>
     <div class="tab" opens="combat" content="Combat Capabilities"></div>
+    <div class="submenu" id="submenu-music">
+    <div class="tabs">
+      <div class="tab music-player" music="music-one" content="Default Main Music"></div>
+      <div class="tab music-player" music="music-two" content="Sample Music"></div>
+    </div>
+    <div class="arrow back-to-main">Back</div>
+  </div>
+
   </div>
   <div class="arrow back-to-main">Back</div>
 
@@ -1785,6 +1794,8 @@
 <audio src="https://dl.dropbox.com/s/fo1yc1lx5wa7g49/Touka-select.mp3" class="hidden" id="select-cue"></audio>
 <audio loop src="https://dl.dropbox.com/s/3uv32wse8uyjcmf/Touka-mainmenu.mp3" class="hidden main-menu current" id="music-one"></audio>
 <audio loop src="https://dl.dropbox.com/s/c1nl047pas206yc/Touka-submenu.mp3" class="hidden" id="submenu"></audio>
+
+<audio loop src="audioLinkHereEndingWith.mp3" class="hidden main-menu" id="music-two"><audio>
 
 <!-- scripts | please do not touch -->
 <script src="https://themonstrousdev.github.io/scripts/libs/jquery.min.js"></script>
