@@ -1990,7 +1990,11 @@
   <div class="submenu" id="submenu-music">
     <div class="tabs">
       <div class="tab music-player" music="music-one" content="Default Main Music"></div>
-      <div class="tab music-player" music="music-two" content="Sample Music"></div>
+      <div class="tab music-player" music="music-two" content="Unravel"></div>
+      <div class="tab music-player" music="music-three" content="Glassy Skies"></div>
+      <div class="tab music-player" music="music-four" content="Remembering"></div>
+      <div class="tab music-player" music="music-five" content="Katharsis"></div>
+      <div class="tab music-player" music="music-six" content="Won't Forget You"></div>
     </div>
     <div class="arrow back-to-main">Back</div>
   </div>
@@ -2007,7 +2011,11 @@
     class="hidden main-menu current" id="music-one"></audio>
   <audio loop src="https://dl.dropbox.com/s/c1nl047pas206yc/Touka-submenu.mp3" class="hidden" id="submenu"></audio>
 
-  <audio loop src="audioLinkHereEndingWith.mp3" class="hidden main-menu" id="music-two"><audio>
+  <audio loop src="https://od.lk/d/NjdfNzEwMjg1NV8/Tokyo%20Ghoul%20OPOpening%20FullUnravel%20-%20TK.mp3" class="hidden main-menu" id="music-two"><audio>
+  <audio loop src="https://od.lk/d/NjdfMzAzNjU3NjNf/Tokyo%20Ghoul%20-%20Glassy%20Sky%20%5B%E6%9D%B1%E4%BA%AC%E5%96%B0%E7%A8%AE%20-%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%82%B0%E3%83%BC%E3%83%AB-%5D.mp3" class="hidden main-menu" id="music-three"><audio>
+  <audio loop src="https://od.lk/d/NjdfNzk0NTEzMV8/Tokyo%20Ghoulre%20OST%20-%20Remembering%20%28We%20Meet%20Again%20Full%20Theme%29.mp3" class="hidden main-menu" id="music-four"><audio>
+  <audio loop src="https://od.lk/d/NjdfNzIzMTg5Nl8/Tokyo%20Ghoulre%20Season%202%20Opening%20FullTK%20from%20Ling%20Tosite%20Sigure%20-%20katharsis.mp3" class="hidden main-menu" id="music-five"><audio>
+  <audio loop src="https://od.lk/d/NjdfMzAzNjU3NDlf/Tokyo%20Ghoul_re%20OST%20-%20Won%E2%80%99t%20Forget%20You%20%28Feat.%20SaKy%29%20W_%20lyrics.mp3" class="hidden main-menu" id="music-six"><audio>
 
       <!-- scripts | please do not touch -->
       <script src="https://themonstrousdev.github.io/scripts/libs/jquery.min.js"></script>
