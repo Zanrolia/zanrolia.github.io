@@ -1792,7 +1792,7 @@
 
 <audio src="https://dl.dropbox.com/s/71rjd686ih33s9v/Touka-hover.mp3" class="hidden" id="hover-cue"></audio>
 <audio src="https://dl.dropbox.com/s/fo1yc1lx5wa7g49/Touka-select.mp3" class="hidden" id="select-cue"></audio>
-<audio loop src="https://dl.dropbox.com/s/3uv32wse8uyjcmf/Touka-mainmenu.mp3" class="hidden main-menu current" id="music-one"></audio>
+<audio loop src="https://od.lk/d/NjdfMzAzNjU0NzFf/Tokyo%20Ghoul%20OST%201%20-%20Track%2007%20-%20Alone.mp3" class="hidden main-menu current" id="music-one"></audio>
 <audio loop src="https://dl.dropbox.com/s/c1nl047pas206yc/Touka-submenu.mp3" class="hidden" id="submenu"></audio>
 
 <audio loop src="audioLinkHereEndingWith.mp3" class="hidden main-menu" id="music-two"><audio>
