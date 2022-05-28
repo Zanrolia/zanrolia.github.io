@@ -26,11 +26,11 @@ $('<style>', {
 video.volume = 0.1;
 hover.volume = 0.8;
 select.volume = 0.6;
-submenu.volume = 0;
+submenu.volume = 0.3;
 
 music.each(ndx => {
   let muse = music[ndx];
-  muse.volume = 0;
+  muse.volume = 0.3;
 })
 
 // VOLUME CONTROLS
