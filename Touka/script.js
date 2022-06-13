@@ -12,6 +12,7 @@ let loadedVideo = false,
     cinemaDone = false,
     videoDone = false,
     profileOpen = false;
+    isDefaultMusic = true;
 
 
 
@@ -26,11 +27,11 @@ $('<style>', {
 video.volume = 0.1;
 hover.volume = 0.8;
 select.volume = 0.6;
-submenu.volume = 0.3;
+submenu.volume = 0;
 
 music.each(ndx => {
   let muse = music[ndx];
-  muse.volume = 0.3;
+  muse.volume = 0;
 })
 
 // VOLUME CONTROLS
@@ -75,29 +76,31 @@ $('#audioControls .unmute').click(() =>{
 
 function fadeMusic(fadeOut, fadeIn, noMusic = false) {
   let fadeMain = fadeOut == 'audio.main-menu.current';
-  $(fadeOut).animate({volume: 0}, 1500);
-  $(fadeIn).animate({volume: vol}, 1500);
-  let main = $('audio.main-menu.current')[0];
+  if(isDefaultMusic) {
+    $(fadeOut).animate({volume: 0}, 1500);
+    $(fadeIn).animate({volume: vol}, 1500);
+    let main = $('audio.main-menu.current')[0];
+    
+    if(!noMusic) {
+      if(fadeMain) {
+        console.log('playing submenu music');
+        submenu.play();
+      } else {
+        console.log('playing main menu music');
+        main.play();
+      }
+    }
   
-  if(!noMusic) {
-    if(fadeMain) {
-      console.log('playing submenu music');
-      submenu.play();
-    } else {
-      console.log('playing main menu music');
-      main.play();
-    }
+    setTimeout(() => {
+      if(fadeMain) {
+        main.currentTime = 0;
+        main.pause();
+      } else {
+        submenu.currentTime = 0;
+        submenu.pause();
+      }
+    }, 1500);
   }
-
-  setTimeout(() => {
-    if(fadeMain) {
-      main.currentTime = 0;
-      main.pause();
-    } else {
-      submenu.currentTime = 0;
-      submenu.pause();
-    }
-  }, 1500);
 }
 
 function updateVol() {
@@ -272,6 +275,8 @@ $('#main-profile .tab.selected').click();
 $('.music-player').click(function() {
   let $player = $(this),
       selected = $player.attr('music');
+  
+  isDefaultMusic = selected == 'music-one';
 
   $('audio.main-menu.current')[0].pause();
   $('audio.main-menu.current').removeClass('current');
