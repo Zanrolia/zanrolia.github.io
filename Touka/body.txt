@@ -15,7 +15,7 @@
 
   <div id="cinema">
     <video id="cinematic"
-      src="https://www.dropbox.com/s/u80snrxr1dc645q/Watch%20Tokyo%20Ghoul%20Season%203%20Episode%2013%20Sub%20%26%20Dub%20_%20Anime%20Uncut%20_%20Funimation%20-%20Google%20Chrome%202021-04-09%2011-15-29.mp4?dl=0"></video>
+      src="https://www.dropbox.com/s/u80snrxr1dc645q/Watch%20Tokyo%20Ghoul%20Season%203%20Episode%2013%20Sub%20%26%20Dub%20_%20Anime%20Uncut%20_%20Funimation%20-%20Google%20Chrome%202021-04-09%2011-15-29.mp4"></video>
     <div id="skip-video">Skip Cinematic</div>
   </div>
 
