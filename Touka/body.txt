@@ -15,7 +15,7 @@
 
   <div id="cinema">
     <video id="cinematic"
-      src="https://cdn.discordapp.com/attachments/895484899421736990/914851575825055754/Ken___Watch_on_Funimation_-_Google_Chrome_2021-11-29_03-05-50.mp4"></video>
+      src="https://www.dropbox.com/s/u80snrxr1dc645q/Watch%20Tokyo%20Ghoul%20Season%203%20Episode%2013%20Sub%20%26%20Dub%20_%20Anime%20Uncut%20_%20Funimation%20-%20Google%20Chrome%202021-04-09%2011-15-29.mp4?dl=0"></video>
     <div id="skip-video">Skip Cinematic</div>
   </div>
 
