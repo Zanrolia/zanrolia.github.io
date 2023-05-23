@@ -172,10 +172,10 @@
       </div>
     </div>
     <div class="inmenu-tab" id="mate">
-      <div class="image" img="https://i.imgur.com/i6L36w0.gif"></div>
-      <h2 class="header">Single</h2>
+      <div class="image" img="https://i.imgur.com/nXsh79k.gif"></div>
+      <h2 class="header">The Cold Stinger</h2>
       <div class="scroller">
-        <a target="_blank" href="--" title="" target="_blank">In times like this</a>.. Strength is needed more than ever.  Don't let the flaws of life get you down, there is always a rainbow at the end of the storm.
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Sui+Feng" title="" target="_blank">Sui Feng</a>, a soul reaper that is cold as ice and stings like a real bee!  Don't mess with this lovely lady.
        
       </div>
     </div>
