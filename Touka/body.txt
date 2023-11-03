@@ -69,8 +69,8 @@
           <li>Have your volume up to at least 30% when browsing the profile</li>
           <li>Use your mouse to navigate from tab to tab</li>
           <li>Adjust the volume of the background music by hovering over the mute button on the lower left side of the
-            screen</li>
-          <li>There are MASSIVE spoilers about the Tokyo Ghoul series in this profile. Tread carefully if you haven't
+            screen.  The profile may start with no music at all.  Simply adjusting the volume at the bottom left will fix this.</li>
+          <li>There are MASSIVE spoilers about the Tokyo Ghoul series in the Story section of this profile. Tread carefully if you haven't
             seen
             it and would like to!</li>
           <li>The music may turn off if you switch between tabs too fast. If that happens, return to this menu and it'll
@@ -99,7 +99,7 @@
         it, I know. But it's how I see it. I'm up for chatting with random people most of the time (unless I got a find
         rp
         up, then I am looking for rp) and just like everyone else on this site, I game! Feel free to let me know if you
-        have any desires to game. Don't forget the golden rule, everyone. Be nice.~
+        have any desires to game. Don't forget the golden rule, everyone. Be nice.~  (If you play Akira Mado I will love you forever.)
       </div>
     </div>
     <!--
@@ -1722,7 +1722,7 @@
   <div class="submenu" id="submenu-restaff">
     <div class="tabs">
       <div class="tab" opens="kasana" content="Kasana"></div>
-      <div class="tab" opens="tear" content="Tear"></div>
+      <div class="tab" opens="sapphire" content="Sapphire"></div>
       <div class="tab" opens="himeno" content="Hinemo"></div>
       <div class="tab" opens="hayase" content="Hayase"></div>
     </div>
@@ -1743,18 +1743,11 @@
     </div>
 
 
-    <div class="inmenu-tab" id="tear">
-      <div class="image" img="https://i.imgur.com/TTMzE1V.gif"></div>
-      <h2 class="header">Tear Grants</h2>
+    <div class="inmenu-tab" id="sapphire">
+      <div class="image" img="https://i.imgur.com/uP7F8Tk.png"></div>
+      <h2 class="header">Sapphire Rose</h2>
       <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Tear" title="" target="_blank">Tear</a>. She met
-        this woman at the colosseum one day, apparently having lost their way. She is a healer capable of ressurection
-        and
-        mending grevious wounds. However, it seems she wishes to live that life behind-- well, mostly. Wanting a
-        different
-        life for herself, she is now a waitress at our beloved :re, and also serves as support on any hostile operations
-        we
-        must take against those who want to ruin the peace between us all.
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Sapphire+Rose" title="" target="_blank">Sapphire</a>. The sister of Ruby Rose.  This huntress-in-training is seeking a comfortable life in Tokyo.  With coffee in hand and wielding a smile instead of a blade, she works at :re as a waitress to bring happiness to those at the cafe, seeking a life filled not with hostile grimm, but with friendly ghouls and humans alike.
       </div>
     </div>
 
@@ -1795,14 +1788,12 @@
       <div class="tab" opens="hildegarde" content="Hildegarde"></div>
       <div class="tab" opens="ada" content="Ada Wong"></div>
       <div class="tab" opens="zinnia" content="Zinnia"></div>
-      <div class="tab" opens="connor" content="Connor Kenway"></div>
       <div class="tab" opens="liadrin" content="Lady Liadrin"></div>
       <div class="tab" opens="lulu" content="Lulu"></div>
       <div class="tab" opens="zone" content="Zone Tan"></div>
       <div class="tab" opens="tylee" content="Ty Lee"></div>
       <div class="tab" opens="tidus" content="Tidus"></div>
       <div class="tab" opens="piper" content="Piper Wright"></div>
-      <div class="tab" opens="friede" content="Sister Friede"></div>
       <div class="tab" opens="rem" content="Rem"></div>
     </div>
     <div class="arrow back-to-main">Back</div>
@@ -1861,17 +1852,6 @@
         She is a dragon pokemon trainer from a line of people who had the task of bringing back Rayquaza should the
         world
         be in peril. She is excited for the battle and is always seeking dragon pokemon.
-      </div>
-    </div>
-
-    <div class="inmenu-tab" id="connor">
-      <div class="image" img="https://i.imgur.com/3jpJGBG.gif"></div>
-      <h2 class="header">Assassin of the Revolutionary War</h2>
-      <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Connor+Kenway" title="" target="_blank">Connor
-          Kenway</a>. A peaceful villager turned assassin after the death of his mother. While he may rely a lot on
-        brute
-        strength, he is very good at it, and it makes him quite a unique assassin.
       </div>
     </div>
 
@@ -1947,16 +1927,6 @@
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Goku+Black" title="" target="_blank">Goku
           Black</a>. A heartless monster who seeks to kill all of the human race to make the future a better place. He
         sees his actions as completely justified, seeing the rest of the world as 'evil'.
-      </div>
-    </div>
-
-    <div class="inmenu-tab" id="friede">
-      <div class="image" img="https://i.imgur.com/5JcircF.gif"></div>
-      <h2 class="header">Guardian of the Painting</h2>
-      <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Friede" title="" target="_blank">Sister
-          Friede</a>. The guardian of a painting, trying hard to keep the flames from reaching the world, in order to
-        protect it.
       </div>
     </div>
 
