@@ -1744,8 +1744,14 @@
       <div class="tab" opens="hayasaka" content="Ai Hayasaka"></div>
       <div class="tab" opens="ariane" content="Ariane Maple"></div>
       <div class="tab" opens="cdukai" content="Dukai (Clone)"></div>
-      <div class="tab" opens="ariane" content="Ariane Maple"></div>
-      <div class="tab" opens="ariane" content="Ariane Maple"></div>
+      <div class="tab" opens="cuff" content="Cuff"></div>
+      <div class="tab" opens="fiona" content="Fiona Frost"></div>
+      <div class="tab" opens="leni" content="Zero"></div>
+      <div class="tab" opens="kanesenna" content="Kan-E-Senna"></div>
+      <div class="tab" opens="shizuka" content="Shizuka Mikazuki"></div>
+      <div class="tab" opens="Yurin" content="Yurin"></div>
+      <div class="tab" opens="merlin" content="Merlin (SDS)"></div>
+      <div class="tab" opens="ichigo" content="Ichigo (DitF)"></div>
     </div>
     <div class="arrow back-to-main">Back</div>
 
@@ -1928,21 +1934,75 @@
       </div>
     </div>
 
-<div class="inmenu-tab" id="ariane">
-      <div class="image" img="https://i.imgur.com/gEmIZkn.gif"></div>
-      <h2 class="header">The Elven Swordswoman</h2>
+<div class="inmenu-tab" id="elma">
+      <div class="image" img="https://i.imgur.com/9zzRvxR.gif"></div>
+      <h2 class="header">The Water Dragon</h2>
       <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Ariane%20Glenys%20Maple" title=""
-          target="_blank">Ariane Glenys Maple</a>. A hero of the elves.  A swordswoman capable of wielding fire magic.  She cares for the elves, even those who aren't dark elves like her, and punishes the humans that try to mess with them.
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Elma%20the%20Dragon" title=""
+          target="_blank">Elma</a>.  A member of the Harmony Clan that protects humans and other races from the Chaos Clan who seeks to destroy them all.  She is a dragon capable of amazing feats when it comes to fighting and should be met with caution, as all dragons should be.
       </div>
     </div>
 
-<div class="inmenu-tab" id="ariane">
-      <div class="image" img="https://i.imgur.com/gEmIZkn.gif"></div>
-      <h2 class="header">The Elven Swordswoman</h2>
+<div class="inmenu-tab" id="fiona">
+      <div class="image" img="https://i.imgur.com/xVEPnAt.jpg"></div>
+      <h2 class="header">Master Assassin</h2>
       <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Ariane%20Glenys%20Maple" title=""
-          target="_blank">Ariane Glenys Maple</a>. A hero of the elves.  A swordswoman capable of wielding fire magic.  She cares for the elves, even those who aren't dark elves like her, and punishes the humans that try to mess with them.
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Fiona%20Frost" title=""
+          target="_blank">Fiona Frost</a>.  A top tier assassin that is skilled in disguise, manipulation, and killing.  She works to create peace between the nation and kill targets who threaten that peace.  Need an assassin?  Look no further.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="leni">
+      <div class="image" img="https://i.imgur.com/lty01fW.png"></div>
+      <h2 class="header">Hacker Mercenary</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Leni+Vogel" title=""
+          target="_blank">Leni Vogel</a>, known as 'Zero' is a professional german hacker from the Black Ops series.  If you have an electronic, consider it hacked when you see this mercenary around.  She'll take down your enemies from afar with her Icepick.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="kanesenna">
+      <div class="image" img="https://i.imgur.com/APPwYjO.jpg"></div>
+      <h2 class="header">New Gridania Leader</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Kan+E+Senna" title=""
+          target="_blank">Kan-E-Senna</a>.  A member of Eorzea and the leader of New Gridania.  She leads her troops into victory with her speeches and impressive magical display.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="shizuka">
+      <div class="image" img="https://i.imgur.com/Qfa6Mmz.gif"></div>
+      <h2 class="header">Zombie Survivor</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Shizuka+Mikazuki" title=""
+          target="_blank">Shizuka Mikazuki</a>.  A survivor of the zombie apocolypse!  She takes great care to make sure she avoids the fate of billions of others around the planet.  She calculates everything to the maximum extent, and will take every step with confidence and caution.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="yurin">
+      <div class="image" img="https://i.imgur.com/8JGeiq2.gif"></div>
+      <h2 class="header">Filler Character #5004</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Yurin" title=""
+          target="_blank">Yurin</a>.  A one-trick pony that has expert skills at dishing out tags that do various effects, such as controlling people.  While she's trying to learn how to manipulate ki, she's on the slow side.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="merlin">
+      <div class="image" img="https://i.imgur.com/r88dqJf.gif"></div>
+      <h2 class="header">3,000 year old Sorceress</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Lady+Merlin" title=""
+          target="_blank">Merlin</a>.  An overpowered sorceress that has frozen the own time around her body, rendering her immortal by her own standards.  This 'witch' spends her days trying to find new types of magics and discover anything she can magical about the world.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="ichigo">
+      <div class="image" img="https://i.imgur.com/0jEMD1D.gif"></div>
+      <h2 class="header">The Perfect Pistil</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Ichigo" title=""
+          target="_blank">Ichigo</a>.  A bluette that was born and raised in a facility to specfically fight Klaxx.  Originally disegnated as '015', this 'parasite' human now roams the earth a free woman, discovering the wonders of life she was locked away from.
       </div>
     </div>
 
