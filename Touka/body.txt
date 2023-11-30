@@ -1749,7 +1749,7 @@
       <div class="tab" opens="leni" content="Zero"></div>
       <div class="tab" opens="kanesenna" content="Kan-E-Senna"></div>
       <div class="tab" opens="shizuka" content="Shizuka Mikazuki"></div>
-      <div class="tab" opens="Yurin" content="Yurin"></div>
+      <div class="tab" opens="yurin" content="Yurin"></div>
       <div class="tab" opens="merlin" content="Merlin (SDS)"></div>
       <div class="tab" opens="ichigo" content="Ichigo (DitF)"></div>
     </div>
@@ -1998,7 +1998,7 @@
     </div>
 
 <div class="inmenu-tab" id="ichigo">
-      <div class="image" img="https://i.imgur.com/0jEMD1D.gif"></div>
+      <div class="image" img="https://i.imgur.com/md4iikl.gif"></div>
       <h2 class="header">The Perfect Pistil</h2>
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Ichigo" title=""
