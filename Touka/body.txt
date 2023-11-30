@@ -1587,12 +1587,8 @@
     <div class="tabs">
       <div class="tab" opens="accelerator" content="Accelerator"></div>
       <div class="tab" opens="raven" content="Raven Branwen"></div>
-      <div class="tab" opens="yang" content="Yang Xiao Long"></div>
-      <div class="tab" opens="ichor" content="Ichor"></div>
       <div class="tab" opens="kratos" content="Kratos"></div>
-      <div class="tab" opens="constanze" content="Constanze"></div>
       <div class="tab" opens="elizabeth" content="Elizabeth"></div>
-      <div class="tab" opens="rize" content="Rize"></div>
       <div class="tab" opens="alita" content="Alita"></div>
     </div>
     <div class="arrow back-to-main">Back</div>
@@ -1625,31 +1621,6 @@
         her.
       </div>
     </div>
-    <div class="inmenu-tab" id="yang">
-      <div class="image" img="https://i.imgur.com/yxvSzIY.gif"></div>
-      <h2 class="header">The Flaming Brawler</h2>
-      <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Gilded+Fury" title="" target="_blank">Yang Xiao
-          Long</a>. A woman with a passion for fighting, but an even bigger passion for protecting her friends. In a
-        way,
-        she kind of reminds Touka of herself. She's just as affectionate as she is enthusiastic. She can't help but
-        wonder
-        how Yang would fight when she was angry. Again, reminds her of herself.
-      </div>
-    </div>
-    <div class="inmenu-tab" id="ichor">
-      <div class="image" img="https://i.imgur.com/WBGXEFl.gif"></div>
-      <h2 class="header">Blood Master</h2>
-      <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Miss%20Ichor" title=""
-          target="_blank">Ichor</a>.
-        An
-        absolute brat, and a master of blood bending, it seemed. She's around more to piss off Touka than anything,
-        making
-        her kagune and kakuho randomly activate just to tease her. When not being a complete bitch, she is quite
-        lovable.
-      </div>
-    </div>
     <div class="inmenu-tab" id="kratos">
       <div class="image" img="https://i.imgur.com/5Q4Cbco.jpg"></div>
       <h2 class="header">The God of War</h2>
@@ -1661,18 +1632,6 @@
         seem to have a goal in mind, but he does help Touka with weapon training, as she knows next to nothing with it.
         He
         won't admit it, but he's also very kind and caring. Just don't call him 'allfather' to his face.
-      </div>
-    </div>
-    <div class="inmenu-tab" id="constanze">
-      <div class="image" img="https://i.imgur.com/yuM5XkF.gif"></div>
-      <h2 class="header">Mechanic Master</h2>
-      <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Constanze" title=""
-          target="_blank">Constanze</a>.
-        She's not very affectionate and she doesn't seem to care much for social interactions, but that's alright.
-        Regardless of the rare moments they have together, she is happy to spend her time with Constanze. Constanze is a
-        caring individual, always using her knowledge of machinery to help others, and learn more about machines in the
-        process.
       </div>
     </div>
     <div class="inmenu-tab" id="elizabeth">
@@ -1687,19 +1646,6 @@
         don't
         want to have changed anytime soon. She's the closest Touka has seen to a genuine angel. She's also got some nice
         tits-- But uh. Don't tell her I said that.~
-      </div>
-    </div>
-    <div class="inmenu-tab" id="rize">
-      <div class="image" img="https://i.imgur.com/OBHof41.gif"></div>
-      <h2 class="header">The Territorial Binge Eater</h2>
-      <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Rize%20the%20Binge%20Eater" title=""
-          target="_blank">Rize</a>. A false damsel. I've seen her drag many lives into the alley to be eaten and left to
-        rot. A binge eater, who eats for fun and leaves quite a massive mess. Want my advice? Stay far away from her.
-        She
-        had a nasty habit of hunting customers at Anteiku and it was pretty annoying losing customers. Ever try to have
-        a
-        conversation with her? If you live to tell the tale, tell me how it goes.
       </div>
     </div>
     <div class="inmenu-tab" id="alita">
@@ -1795,6 +1741,11 @@
       <div class="tab" opens="tidus" content="Tidus"></div>
       <div class="tab" opens="piper" content="Piper Wright"></div>
       <div class="tab" opens="rem" content="Rem"></div>
+      <div class="tab" opens="hayasaka" content="Ai Hayasaka"></div>
+      <div class="tab" opens="ariane" content="Ariane Maple"></div>
+      <div class="tab" opens="cdukai" content="Dukai (Clone)"></div>
+      <div class="tab" opens="ariane" content="Ariane Maple"></div>
+      <div class="tab" opens="ariane" content="Ariane Maple"></div>
     </div>
     <div class="arrow back-to-main">Back</div>
 
@@ -1941,6 +1892,59 @@
       </div>
     </div>
 
+<div class="inmenu-tab" id="hayasaka">
+      <div class="image" img="https://i.imgur.com/xCro5dH.gif"></div>
+      <h2 class="header">The Assistant</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Ai+Hayasaka" title=""
+          target="_blank">Ai Hayasaka</a>. The assistant to Kaguya Shinomiya.  An adult able to meet the ridiculous demands of her employer's daughter at any whim.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="ariane">
+      <div class="image" img="https://i.imgur.com/gEmIZkn.gif"></div>
+      <h2 class="header">The Elven Swordswoman</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Ariane%20Glenys%20Maple" title=""
+          target="_blank">Ariane Glenys Maple</a>. A hero of the elves.  A swordswoman capable of wielding fire magic.  She cares for the elves, even those who aren't dark elves like her, and punishes the humans that try to mess with them.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="cdukai">
+      <div class="image" img="https://i.imgur.com/588D1Vx.png"></div>
+      <h2 class="header">Godly Saiyan</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Clone%20Dukai" title=""
+          target="_blank">Clone Dukai</a>. A Saiyan brought from another timeline from Whis to train the original Dukai from this time.  She is commonly known as 'Clone Dukai' for this reason.  Regardless, she is a powerful saiyan with godly might, able to take on any opponent with eagerness.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="cuff">
+      <div class="image" img="https://i.imgur.com/HmTz9up.png"></div>
+      <h2 class="header">The Fire Witch</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Cuff" title=""
+          target="_blank">Cuff</a>. A strong witch that's a child at heart.  The moment she earned friends, she had an insane desire to protect them.  That's all she wants to do in her life; love her friends and kill the enemies that threaten them.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="ariane">
+      <div class="image" img="https://i.imgur.com/gEmIZkn.gif"></div>
+      <h2 class="header">The Elven Swordswoman</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Ariane%20Glenys%20Maple" title=""
+          target="_blank">Ariane Glenys Maple</a>. A hero of the elves.  A swordswoman capable of wielding fire magic.  She cares for the elves, even those who aren't dark elves like her, and punishes the humans that try to mess with them.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="ariane">
+      <div class="image" img="https://i.imgur.com/gEmIZkn.gif"></div>
+      <h2 class="header">The Elven Swordswoman</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Ariane%20Glenys%20Maple" title=""
+          target="_blank">Ariane Glenys Maple</a>. A hero of the elves.  A swordswoman capable of wielding fire magic.  She cares for the elves, even those who aren't dark elves like her, and punishes the humans that try to mess with them.
+      </div>
+    </div>
 
     <!--
  ========================
