@@ -2064,7 +2064,7 @@
     </div>
 
 <div class="inmenu-tab" id="lina">
-      <div class="image" img="https://i.imgur.com/KqLScXx.gif"></div>
+      <div class="image" img="https://i.imgur.com/HwuMU2E.gif"></div>
       <h2 class="header">Dark Sorceress</h2>
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Lina+Inverse" title=""
