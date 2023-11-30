@@ -1752,6 +1752,10 @@
       <div class="tab" opens="yurin" content="Yurin"></div>
       <div class="tab" opens="merlin" content="Merlin (SDS)"></div>
       <div class="tab" opens="ichigo" content="Ichigo (DitF)"></div>
+      <div class="tab" opens="kaine" content="Kaine"></div>
+      <div class="tab" opens="kodama" content="Kodama Melone"></div>
+      <div class="tab" opens="tapion" content="Tapion"></div>
+
     </div>
     <div class="arrow back-to-main">Back</div>
 
@@ -2003,6 +2007,33 @@
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Ichigo" title=""
           target="_blank">Ichigo</a>.  A bluette that was born and raised in a facility to specfically fight Klaxx.  Originally disegnated as '015', this 'parasite' human now roams the earth a free woman, discovering the wonders of life she was locked away from.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="kaine">
+      <div class="image" img="https://i.imgur.com/gDbzuf8.jpg"></div>
+      <h2 class="header">Suck it, Asshole!</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Kaine+R" title=""
+          target="_blank">Kaine</a>.  A foul mouthed lady with an impressive fighting style to back up her fiery attitude.  She has little patience for people who want to waste her time, so be prepared if you approach her.. You might get stabbed by her 'sword'.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="kodama">
+      <div class="image" img="https://i.imgur.com/JbJTs7r.jpg"></div>
+      <h2 class="header">Cocky SDF Member</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Kodama+Melone" title=""
+          target="_blank">Kodama</a>.  A mouthy lady that will easily boss you around and pretend to be your friend.  Not only that, she's part of the police force that helps kill monsters to keep the place safe.  If you're looking for a dommy mommy to tug you around and use you as a cocksleeve, look no further.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="tapion">
+      <div class="image" img="https://i.imgur.com/q33OXdb.jpg"></div>
+      <h2 class="header">The Hero</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Tapion" title=""
+          target="_blank">Tapion</a>. A hero of his people, having sealed a monster away into himself.  Now that the beast is free, Tapion wanders a free man, 
       </div>
     </div>
 
