@@ -1755,6 +1755,13 @@
       <div class="tab" opens="kaine" content="Kaine"></div>
       <div class="tab" opens="kodama" content="Kodama Melone"></div>
       <div class="tab" opens="tapion" content="Tapion"></div>
+      <div class="tab" opens="elma" content="Elma"></div>
+      <div class="tab" opens="meryl" content="Meryl Stryfe"></div>
+      <div class="tab" opens="hea" content="High Elf Archer"></div>
+      <div class="tab" opens="lina" content="Lina Inverse"></div>
+
+
+
 
     </div>
     <div class="arrow back-to-main">Back</div>
@@ -2033,10 +2040,37 @@
       <h2 class="header">The Hero</h2>
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Tapion" title=""
-          target="_blank">Tapion</a>. A hero of his people, having sealed a monster away into himself.  Now that the beast is free, Tapion wanders a free man, 
+          target="_blank">Tapion</a>. A hero of his people, having sealed a monster away into himself.  Now that the beast is free, Tapion wanders a free man, grieving with the fact that his homeland was destroyed by the monster.
       </div>
     </div>
 
+
+<div class="inmenu-tab" id="meryl">
+      <div class="image" img="https://i.imgur.com/0jEMD1D.gif"></div>
+      <h2 class="header">Insurance Lady</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Meryl+Stryfe" title=""
+          target="_blank">Meryl</a>. She makes sure that everyone has insurance when something goes wrong!  Good for the people, and the company she works for, eh?
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="hea">
+      <div class="image" img="https://i.imgur.com/KqLScXx.gif"></div>
+      <h2 class="header">Elf Marksman</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=High+Elf+Archer" title=""
+          target="_blank">High Elf Archer</a>. Mostly referred to as 'elf', she doesn't have a name!  As do the rest of the cast from Goblin Slayer.  This elf is old, and a master marksman with a bow.  She is the perfect teammate to take to a mission for scouting or sniping purposes.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="lina">
+      <div class="image" img="https://i.imgur.com/KqLScXx.gif"></div>
+      <h2 class="header">Dark Sorceress</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Lina+Inverse" title=""
+          target="_blank">Lina Inverse</a>. The most beautiful, talented, and powerful sorceress you will ever see!  This beauty's all in for the money!  Bandits, pirates.. you name it!  If it's not tied down by a law, you can bet your ass it's going to be claimed by this greedy sorceress!
+      </div>
+    </div>
     <!--
  ========================
  ----- SUBMENUS END -----
