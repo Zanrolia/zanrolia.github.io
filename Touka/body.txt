@@ -1591,6 +1591,7 @@
       <div class="tab" opens="elizabeth" content="Elizabeth"></div>
       <div class="tab" opens="alita" content="Alita"></div>
       <div class="tab" opens="fang" content="Fang"></div>
+
     </div>
     <div class="arrow back-to-main">Back</div>
 
