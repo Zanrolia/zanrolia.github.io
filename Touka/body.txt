@@ -1590,8 +1590,6 @@
       <div class="tab" opens="kratos" content="Kratos"></div>
       <div class="tab" opens="elizabeth" content="Elizabeth"></div>
       <div class="tab" opens="alita" content="Alita"></div>
-      <div class="tab" opens="fang" content="Fang"></div>
-
     </div>
     <div class="arrow back-to-main">Back</div>
 
@@ -1662,15 +1660,6 @@
         like me is something she desperately needs. Well, you don't have to ask twice, she's worth being around. Just
         don't
         call her an android.
-      </div>
-    </div>
-
-<div class="inmenu-tab" id="fang">
-      <div class="image" img="https://i.imgur.com/ZJBHTbZ.gif"></div>
-      <h2 class="header">Android Swordsman</h2>
-      <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Project+Fang" title=""
-          target="_blank">Fang</a>. An android that tries to keep the peace.  She is skilled in a katana and with the confidence to back it up, it will make anyone think twice before attempting to harm her.
       </div>
     </div>
   </div>
@@ -2082,7 +2071,6 @@
           target="_blank">Lina Inverse</a>. The most beautiful, talented, and powerful sorceress you will ever see!  This beauty's all in for the money!  Bandits, pirates.. you name it!  If it's not tied down by a law, you can bet your ass it's going to be claimed by this greedy sorceress!
       </div>
     </div>
-
     <!--
  ========================
  ----- SUBMENUS END -----
