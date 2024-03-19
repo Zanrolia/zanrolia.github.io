@@ -12,7 +12,8 @@ let loadedVideo = false,
     cinemaDone = false,
     videoDone = false,
     profileOpen = false;
-    isDefaultMusic = true;
+    isDefaultMusic = true,
+    loadingRecurrance = 0;
 
 
 
@@ -132,13 +133,33 @@ function updateVol() {
 
 // INTRO ANIMATIONS 
 function loadingVideo() {
+  // SET INTERVAL TO CHECK IF VIDEO IS LOADED
+  // CHECKS EVERY 3 SECONDS
+  $('#loading-video .text span').html("[ LOADING VIDEO ]").addClass('show animate')
   let load = setInterval(() => {
+    console.log(loadingRecurrance);
     if(video.readyState === 4) {
-      $('#loading-video .text span').addClass('show animate')
+      $('#loading-video .text span').html("[ PRESS ANY KEY TO CONTINUE ]")
       loadedVideo = true;
       clearInterval(load);
+    } else {
+      loadingRecurrance++;
+
+      // IF VIDEO TAKES TOO LONG TO LOAD, JUST FADE IT IN
+      if(loadingRecurrance > 5) {
+        clearInterval(load);
+        loadedVideo = true;
+        $('#loading-video .text span').html("[ VIDEO FAILED TO LOAD... OPENING MENU... ]")
+        setTimeout(() => {
+          $('#loading-video .text').fadeOut(200);
+          setTimeout(() => {
+            $('#loading-video').fadeOut(2000);
+          }, 200);
+          fadeCinema();
+        }, 3000);
+      }
     }
-  }, 200);
+  }, 3000);
 }
 
 function loadDone(target) {
