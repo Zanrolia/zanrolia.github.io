@@ -15,7 +15,7 @@
 
   <div id="cinema">
     <video id="cinematic"
-      src="https://cdn.discordapp.com/attachments/875843314702774333/1219396175095005284/Replay_2024-03-18_16-22-09.mp4?ex=660b262f&is=65f8b12f&hm=20a36674f9b75c919528cbe75b7be52a1e87a93ee420231e973ff42c841b69d1&"></video>
+      src="https://i.imgur.com/ojoWfBZ.mp4"></video>
     <div id="skip-video">Skip Cinematic</div>
   </div>
 
