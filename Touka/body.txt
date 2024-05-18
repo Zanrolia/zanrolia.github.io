@@ -172,7 +172,7 @@
       </div>
     </div>
     <div class="inmenu-tab" id="mate">
-      < <div class="image" img="https://i.imgur.com/z8Rzllh.gif"></div>
+       <div class="image" img="https://i.imgur.com/z8Rzllh.gif"></div>
       <h2 class="header">The Sour Demon</h2>
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Malina" title="" target="_blank">Malina</a>.. A demon from the underworld.  She's supposed to be the grouchy demon or something like that.. But she's not so grumpy when she's around her favorite ghoul.
