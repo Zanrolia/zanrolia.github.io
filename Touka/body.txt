@@ -175,7 +175,7 @@
       < <div class="image" img="https://i.imgur.com/i6L36w0.gif"></div>
       <h2 class="header">Single</h2>
       <div class="scroller">
-        <a target="_blank" href="--" title="" target="_blank">In times like this</a>.. Strength is needed more than ever.  Don't let the flaws of life get you down, there is always a rainbow at the end of the storm.
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Malina" title="" target="_blank">Malina</a>.. A demon from the underworld.  SHe's supposed to be the grouchy demon or something like that.. But she's not so grumpy when she's around her favorite ghoul.
        
       </div>
     </div>
