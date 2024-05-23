@@ -1770,6 +1770,10 @@
       <div class="tab" opens="meryl" content="Meryl Stryfe"></div>
       <div class="tab" opens="hea" content="High Elf Archer"></div>
       <div class="tab" opens="lina" content="Lina Inverse"></div>
+      <div class="tab" opens="maria" content="Maria the Witch"></div>
+      <div class="tab" opens="tuka" content="Tuka Luna Marceau"></div>
+
+
 
 
 
@@ -2080,6 +2084,24 @@
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Lina+Inverse" title=""
           target="_blank">Lina Inverse</a>. The most beautiful, talented, and powerful sorceress you will ever see!  This beauty's all in for the money!  Bandits, pirates.. you name it!  If it's not tied down by a law, you can bet your ass it's going to be claimed by this greedy sorceress!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="maria">
+      <div class="image" img="https://i.imgur.com/SI8JaO7.gif"></div>
+      <h2 class="header">The Virgin Witch</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Maria+the+Witch" title=""
+          target="_blank">Maria the Virgin Witch</a>. A french wits that hates conflict and seeks to stop it and pursue peace.  Don't you dare start fighting in front of her or you'll regret it!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="tuka">
+      <div class="image" img="https://i.imgur.com/AZ4Aiis.gif"></div>
+      <h2 class="header">The Shy Archer</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Tuka+Luna+Marceau" title=""
+          target="_blank">Tuka Luna Marceau</a>. A shy elf that once lived in the forest of a fantasy world.  Though she has found herself in the modern world and is enjoying it quite a lot.
       </div>
     </div>
 
