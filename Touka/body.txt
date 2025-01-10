@@ -1772,6 +1772,12 @@
       <div class="tab" opens="lina" content="Lina Inverse"></div>
       <div class="tab" opens="maria" content="Maria the Witch"></div>
       <div class="tab" opens="tuka" content="Tuka Luna Marceau"></div>
+      <div class="tab" opens="friede" content="Tuka Luna Marceau"></div>
+      <div class="tab" opens="ainz" content="Tuka Luna Marceau"></div>
+      <div class="tab" opens="a18" content="Tuka Luna Marceau"></div>
+      <div class="tab" opens="holo" content="Tuka Luna Marceau"></div>
+      <div class="tab" opens="alma" content="Tuka Luna Marceau"></div>
+      <div class="tab" opens="tama" content="Tuka Luna Marceau"></div>
 
 
 
@@ -2102,6 +2108,58 @@
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Tuka+Luna+Marceau" title=""
           target="_blank">Tuka Luna Marceau</a>. A shy elf that once lived in the forest of a fantasy world.  Though she has found herself in the modern world and is enjoying it quite a lot.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="friede">
+      <div class="image" img="https://i.imgur.com/z4w1dZj.png"></div>
+      <h2 class="header">Of the Painting of Ariandel</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Sister+Friede" title=""
+          target="_blank">Friede</a>. A guardian of Father Ariandel who rests in the freezing depths of the painting.  She won't take kindly to strangers.  Watch out, she has three phases.~
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="ainz">
+      <div class="image" img="https://i.imgur.com/NXg6mvu.png"></div>
+      <h2 class="header">AINZ OOOOOL GOOOOOWN!</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Lord+Ainz" title=""
+          target="_blank">Ainz</a>. The lord of all! He will conquer your worlds and bring you salvation!  He is the almighty.. AIIIINZ OOOOOL GOOOOOWN!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="a18">
+      <div class="image" img="https://i.imgur.com/BDnPUGZ.png"></div>
+      <h2 class="header">Beep boop.</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Lazuli+18" title=""
+          target="_blank">Android 18</a>. Did you hear, guys?  She's an android, not a human.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="holo">
+      <div class="image" img="https://i.imgur.com/fLjIwMk.png"></div>
+      <h2 class="header">The Wise Wolf</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Wolf+Spirit+Holo" title=""
+          target="_blank">Holo</a>. Alive for many years, thought of as a deity of some kind.  With her blessings, your crops will be bountiful.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="alma">
+      <div class="image" img="https://i.imgur.com/lwDZQYU.gif"></div>
+      <h2 class="header">Sadistic Assassin</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Alma+Judikhali" title=""
+          target="_blank">Alma</a>. A deadly assassin, born and raised for the specific purpose to kill.  But now the agency doesn't want her anymore; she's too damn violent!  So she roams the lands now.  Will you let her join your party?
+
+<div class="inmenu-tab" id="tama">
+      <div class="image" img="https://i.imgur.com/49BmxcE.png"></div>
+      <h2 class="header">Tama!  No wait-- Matilda..?</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Tama" title=""
+          target="_blank">Tama/Matilda</a>. A catgirl princess who would rather adventure.  Does more need to be said?  Her party keeps calling her Tama though, for some reason.  
       </div>
     </div>
 
