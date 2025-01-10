@@ -1772,12 +1772,12 @@
       <div class="tab" opens="lina" content="Lina Inverse"></div>
       <div class="tab" opens="maria" content="Maria the Witch"></div>
       <div class="tab" opens="tuka" content="Tuka Luna Marceau"></div>
-      <div class="tab" opens="friede" content="Tuka Luna Marceau"></div>
-      <div class="tab" opens="ainz" content="Tuka Luna Marceau"></div>
-      <div class="tab" opens="a18" content="Tuka Luna Marceau"></div>
-      <div class="tab" opens="holo" content="Tuka Luna Marceau"></div>
-      <div class="tab" opens="alma" content="Tuka Luna Marceau"></div>
-      <div class="tab" opens="tama" content="Tuka Luna Marceau"></div>
+      <div class="tab" opens="friede" content="Friede"></div>
+      <div class="tab" opens="ainz" content="Ainz Ool Gown"></div>
+      <div class="tab" opens="a18" content="Android 18"></div>
+      <div class="tab" opens="holo" content="Holo"></div>
+      <div class="tab" opens="alma" content="Alma"></div>
+      <div class="tab" opens="tama" content="Tama/Matilda"></div>
 
 
 
