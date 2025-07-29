@@ -1777,7 +1777,15 @@
       <div class="tab" opens="a18" content="Android 18"></div>
       <div class="tab" opens="holo" content="Holo"></div>
       <div class="tab" opens="alma" content="Alma"></div>
-      <div class="tab" opens="tama" content="Tama/Matilda"></div>
+      <div class="tab" opens="yura" content="Yura"></div>
+      <div class="tab" opens="shizu" content="Shizu Izawa"></div>
+      <div class="tab" opens="serra" content="Serra Keto"></div>
+      <div class="tab" opens="youko" content="Tama Youko"></div>
+      <div class="tab" opens="roxy" content="Roxy Migurdia"></div>
+      <div class="tab" opens="zerotwo" content="Zero Two"></div>
+      <div class="tab" opens="marcus" content="Marcus Fenix"></div>
+      <div class="tab" opens="atou" content="Atou"></div>
+      <div class="tab" opens="carmilla" content="Carmilla"></div>
 
 
 
@@ -2165,6 +2173,86 @@
       </div>
     </div>
 
+<div class="inmenu-tab" id="yura">
+      <div class="image" img="https://i.imgur.com/hjhwblC.gif"></div>
+      <h2 class="header">Hair stealer!</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Yura" title=""
+          target="_blank">Yura of the Hair</a>. A malicious demon that takes the skull of those she slays and adds the hair of the victim to her collection.  Do you want to join it?~
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="shizu">
+      <div class="image" img="https://i.imgur.com/kKoVlYu.gif"></div>
+      <h2 class="header">Hero of Fire</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Shizu+Izawa" title=""
+          target="_blank">Shizu Izawa</a>. A hero with a fiery spirit trapped inside of her.  She uses its power to deliver powerful fire attacks.  But there is something deeper with her.. something more depressing.  
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="serra">
+      <div class="image" img="https://i.imgur.com/B9rXd7W.jpeg"></div>
+      <h2 class="header">Dual Saber Sister</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Serra+Keto" title=""
+          target="_blank">Serra Keto</a>. An eager dual lightsaber wielder who even went up against Darth Vader.  Her skills of fighting and force make her a force to be reckoned with.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="youko">
+      <div class="image" img="https://i.imgur.com/sZ48cON.png"></div>
+      <h2 class="header">Kitsune Illusionist</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Tama+Youko" title=""
+          target="_blank">Tama Youko</a>. A fox woman who wants to better understand humanity and grow closer to them.  Her mastery of illusion magic makes her hard to confront directly.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="roxy">
+      <div class="image" img="https://i.imgur.com/4Y6XoCe.png"></div>
+      <h2 class="header">Water Expert</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Shishou" title=""
+          target="_blank">Roxy Migurdia</a>. A King class in water magic.  She is part of the demon race that seeks to make a difference in the world with her magic.  She even tutors every once in a while.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="zerotwo">
+      <div class="image" img="https://i.imgur.com/XGBodjv.png"></div>
+      <h2 class="header">Miscievous Pinkette</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Pink+Menace" title=""
+          target="_blank">Zero Two</a>. A vicious pinkette with a love for honey and an itching to make trouble.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="marcus">
+      <div class="image" img="https://i.imgur.com/AJLKhvX.png"></div>
+      <h2 class="header">War Veteren</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Marcus+Fenix" title=""
+          target="_blank">Marcus Fenix</a>. A war veteren who was once imprisoned, but released to fight off a wave of monseters due to his insane skills.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="atou">
+      <div class="image" img="https://i.imgur.com/eTZFmZX.png"></div>
+      <h2 class="header">The Evil Hero</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Atou" title=""
+          target="_blank">Atou</a>. A villainous elf 'hero' whose power grows as time passes.  When she kills an opponent, she has a chance to absorb their powers and make them her own.  She's deeply loyal to the 'King of Ruin'.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="carmilla">
+      <div class="image" img="https://i.imgur.com/pR3bpjf.jpeg"></div>
+      <h2 class="header">Queen of Ghosts</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Carmilla+the+Wraith" title=""
+          target="_blank">Carmilla</a>. A powerful wraith of a woman who died in a mansion long ago.  She hasn't let anyone live inside of that mansion for hundreds of years, until recently.
+      </div>
+    </div>
 
 
     <!--
