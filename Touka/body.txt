@@ -1786,6 +1786,9 @@
       <div class="tab" opens="marcus" content="Marcus Fenix"></div>
       <div class="tab" opens="atou" content="Atou"></div>
       <div class="tab" opens="carmilla" content="Carmilla"></div>
+      <div class="tab" opens="valkyrie" content="Valkyrie"></div>
+      <div class="tab" opens="jasmine" content="Jasmine"></div>
+
 
 
 
@@ -2253,6 +2256,25 @@
           target="_blank">Carmilla</a>. A powerful wraith of a woman who died in a mansion long ago.  She hasn't let anyone live inside of that mansion for hundreds of years, until recently.
       </div>
     </div>
+
+<div class="inmenu-tab" id="valkyrie">
+      <div class="image" img="https://i.ibb.co/40wdDDB/37e832e1791ddb6f60b1f817a2f4ed6ed7d20eebr1-538-302-hq.gif"></div>
+      <h2 class="header">Goddess of Destruction</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Goddess+of+Destruction" title=""
+          target="_blank">Valkyrie</a>.  A goddess of war, an immortal divine being with the power to destroy anything.  She's easy to anger, yet easy to please.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="jasmine">
+      <div class="image" img="https://i.ibb.co/9mbYhjFz/hq720.jpg"></div>
+      <h2 class="header">Nimble Adventurer</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Jasmine+Flamesworth" title=""
+          target="_blank">Jasmine</a>. An adventurer that was shunned by her family for not having the aptitute of fire like the rest of them, she uses daggers and nimble movement to carve her foes.
+      </div>
+    </div>
+
 
 
     <!--
