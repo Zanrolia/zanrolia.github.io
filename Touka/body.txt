@@ -1787,7 +1787,11 @@
       <div class="tab" opens="atou" content="Atou"></div>
       <div class="tab" opens="carmilla" content="Carmilla"></div>
       <div class="tab" opens="valkyrie" content="Valkyrie"></div>
+      <div class="tab" opens="sitri" content="Sitri Smart"></div>
+      <div class="tab" opens="sophia" content="Sophia Femto"></div>
       <div class="tab" opens="jasmine" content="Jasmine"></div>
+      <div class="tab" opens="jasmine" content="Jasmine"></div>
+
 
 
 
@@ -2272,6 +2276,24 @@
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Jasmine+Flamesworth" title=""
           target="_blank">Jasmine</a>. An adventurer that was shunned by her family for not having the aptitute of fire like the rest of them, she uses daggers and nimble movement to carve her foes.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="sitri">
+      <div class="image" img="https://i.ibb.co/1tfXk1sG/ezgif-com-resize-8.jpg"></div>
+      <h2 class="header">The Alchemist</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Sitri+Smart" title=""
+          target="_blank">Sitri</a>. An alchemist and scientist who is part of the world's best party; the Grieving Souls.  She shows a lack of morals and disregards other's feelings, especially when it involves collecting the body parts of the powerful dead.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="sophia">
+      <div class="image" img="https://i.ibb.co/N6MvMdFF/classroom-for-heroes-2nd-trailer-hero.jpg"></div>
+      <h2 class="header">The Artificial Hero</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Sophia+Femto" title=""
+          target="_blank">Sophia</a>. An experiment made to surpass the hero.  She is the last version of such an experiment.  She also has the souls and personalities of the previous versions within her.  Expect crazy stuff with her!
       </div>
     </div>
 
