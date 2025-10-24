@@ -1788,9 +1788,9 @@
       <div class="tab" opens="carmilla" content="Carmilla"></div>
       <div class="tab" opens="valkyrie" content="Valkyrie"></div>
       <div class="tab" opens="sitri" content="Sitri Smart"></div>
-      <div class="tab" opens="sophia" content="Sophia Femto"></div>
-      <div class="tab" opens="jasmine" content="Jasmine"></div>
-      <div class="tab" opens="jasmine" content="Jasmine"></div>
+      <div class="tab" opens="sophie" content="Sophia Femto"></div>
+      <div class="tab" opens="18black" content="18 Black"></div>
+      
 
 
 
@@ -2288,12 +2288,21 @@
       </div>
     </div>
 
-<div class="inmenu-tab" id="sophia">
+<div class="inmenu-tab" id="sophie">
       <div class="image" img="https://i.ibb.co/N6MvMdFF/classroom-for-heroes-2nd-trailer-hero.jpg"></div>
       <h2 class="header">The Artificial Hero</h2>
       <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Sophia+Femto" title=""
-          target="_blank">Sophia</a>. An experiment made to surpass the hero.  She is the last version of such an experiment.  She also has the souls and personalities of the previous versions within her.  Expect crazy stuff with her!
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Sophitia+Femto" title=""
+          target="_blank">Sophie</a>. An experiment made to surpass the hero.  She is the last version of such an experiment.  She also has the souls and personalities of the previous versions within her.  Expect crazy stuff with her!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="18black">
+      <div class="image" img="https://i.ibb.co/gMgGSkJV/ezgif-com-crop-1.jpg"></div>
+      <h2 class="header">Destroyer of Worlds</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Android+18+Black" title=""
+          target="_blank">18 Black</a>. A genderbent Zamasu who took the body of Android 18 for her infinite stamina and powerful body.  Cower in fear!
       </div>
     </div>
 
