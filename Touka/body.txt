@@ -1790,6 +1790,7 @@
       <div class="tab" opens="sitri" content="Sitri Smart"></div>
       <div class="tab" opens="sophie" content="Sophia Femto"></div>
       <div class="tab" opens="18black" content="18 Black"></div>
+      <div class="tab" opens="firekeeper" content="Firekeeper"></div>
       
 
 
@@ -2303,6 +2304,15 @@
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Android+18+Black" title=""
           target="_blank">18 Black</a>. A genderbent Zamasu who took the body of Android 18 for her infinite stamina and powerful body.  Cower in fear!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="firekeeper">
+      <div class="image" img="https://i.ibb.co/1JQfpT07/yes.jpg"></div>
+      <h2 class="header">Tender of Flames</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Firekeeper" title=""
+          target="_blank">The Firekeeper</a>. A blonde, loving woman who will tend to your every need.
       </div>
     </div>
 
