@@ -1791,6 +1791,7 @@
       <div class="tab" opens="sophie" content="Sophia Femto"></div>
       <div class="tab" opens="18black" content="18 Black"></div>
       <div class="tab" opens="firekeeper" content="Firekeeper"></div>
+      <div class="tab" opens="rize" content="Rize"></div>
       
 
 
@@ -2316,7 +2317,14 @@
       </div>
     </div>
 
-
+<div class="inmenu-tab" id="rize">
+      <div class="image" img="https://i.ibb.co/bjDNWKZY/ezgif-com-effects.jpg"></div>
+      <h2 class="header">The Binge Eater</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Rize" title=""
+          target="_blank">Rize Kamishiro</a>. A physchopathic ghoul that loves to devour humans en mass.
+      </div>
+    </div>
 
     <!--
  ========================
