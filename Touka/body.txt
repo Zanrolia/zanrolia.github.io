@@ -1792,6 +1792,8 @@
       <div class="tab" opens="18black" content="18 Black"></div>
       <div class="tab" opens="firekeeper" content="Firekeeper"></div>
       <div class="tab" opens="rize" content="Rize"></div>
+      <div class="tab" opens="marin" content="Marin Kitagawa"></div>
+
       
 
 
@@ -2323,6 +2325,15 @@
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Rize" title=""
           target="_blank">Rize Kamishiro</a>. A physchopathic ghoul that loves to devour humans en mass.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="marin">
+      <div class="image" img="https://i.ibb.co/RT5SBwzQ/nut.jpg"></div>
+      <h2 class="header">The Cosplayer</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=The+Cosplayer" title=""
+          target="_blank">Marin Kitagawa</a>. A cosplayer that loves to be her favorite characters!
       </div>
     </div>
 
