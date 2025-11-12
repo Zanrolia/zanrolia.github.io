@@ -1793,6 +1793,7 @@
       <div class="tab" opens="firekeeper" content="Firekeeper"></div>
       <div class="tab" opens="rize" content="Rize"></div>
       <div class="tab" opens="marin" content="Marin Kitagawa"></div>
+      <div class="tab" opens="akiramado" content="Akira Mado"></div>
 
       
 
@@ -2334,6 +2335,15 @@
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=The+Cosplayer" title=""
           target="_blank">Marin Kitagawa</a>. A cosplayer that loves to be her favorite characters!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="akiramado">
+      <div class="image" img="https://i.ibb.co/n8rMLnNR/ezgif-com-effects-1.jpg"></div>
+      <h2 class="header">The Ghoul Investigator</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Akira+Mado" title=""
+          target="_blank">Akira</a>. A ghoul investigator that wants to rid the world of flesh eaters in disguise, and any other threat to humanity.
       </div>
     </div>
 
