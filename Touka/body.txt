@@ -2518,7 +2518,7 @@
       <div class="image" img="https://i.ibb.co/d0ZrHCmD/rukusu-knight-w0man-ezgif-com-resize.jpg"></div>
       <h2 class="header">Princess Protector</h2>
       <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Clare+Symphonia" title=""
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Claire+Symphonia" title=""
           target="_blank">Claire</a>. A pretty angry soldier most of the time, especially in front of idiots that piss her off!
       </div>
     </div>
