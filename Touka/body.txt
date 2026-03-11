@@ -2270,7 +2270,7 @@
     </div>
 
 <div class="inmenu-tab" id="valkyrie">
-      <div class="image" img="https://i.ibb.co/40wdDDB/37e832e1791ddb6f60b1f817a2f4ed6ed7d20eebr1-538-302-hq.gif"></div>
+      <div class="image" img="https://i.ibb.co/sxppFgc/ezgif-com-effects-1.jpg"></div>
       <h2 class="header">Goddess of Destruction</h2>
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Goddess+of+Destruction" title=""
