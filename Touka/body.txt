@@ -1794,11 +1794,14 @@
       <div class="tab" opens="rize" content="Rize"></div>
       <div class="tab" opens="marin" content="Marin Kitagawa"></div>
       <div class="tab" opens="akiramado" content="Akira Mado"></div>
-
-      
-
-
-
+      <div class="tab" opens="krasia" content="Krasia Annerose"></div>
+      <div class="tab" opens="myne" content="Myne"></div>
+      <div class="tab" opens="jahi" content="Jahi"></div>
+      <div class="tab" opens="panamera" content="Panamera"></div>
+      <div class="tab" opens="vergil" content="Vergil (female)"></div>
+      <div class="tab" opens="suited" content="Suited"></div>
+      <div class="tab" opens="sango" content="Sango"></div>
+      <div class="tab" opens="io" content="Io"></div>
 
 
 
@@ -2344,6 +2347,78 @@
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Akira+Mado" title=""
           target="_blank">Akira</a>. A ghoul investigator that wants to rid the world of flesh eaters in disguise, and any other threat to humanity.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="krasia">
+      <div class="image" img="https://i.ibb.co/G3nNnP6Y/nut.jpg"></div>
+      <h2 class="header">Support Mage stuck Healer</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Krasia+Annerose" title=""
+          target="_blank">Krasia</a>. A bow wielding support mage that takes good care of her party.  Even if one of the members is utterly annoying.  She's better than that!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="myne">
+      <div class="image" img="https://i.ibb.co/kZ0g3b7/2.png"></div>
+      <h2 class="header">Sin Bearer of Wrath</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Myne" title=""
+          target="_blank">Myne</a>. A wrathful girl far beyond the years of the typical human.  Money-loving and ready to brawl at a moment's notice!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="jahi">
+      <div class="image" img="https://i.ibb.co/604fdysp/The-Demon-Kings-Daughter-EP1-1.jpg></div>
+      <h2 class="header">Demon Lord's Secretary</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Jahi" title=""
+          target="_blank">Jahi</a>. An evil, EVIL demon that serves her lord at his every whim.  It's a tough job, trying to teach his good child to be bad.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="panamera">
+      <div class="image" img="https://i.ibb.co/yc8LDCtG/2.jpg"></div>
+      <h2 class="header">Cocky Battle Mage</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Panamera" title=""
+          target="_blank">Panamera</a>. A viscount fire battle mage that is more than willing to take you on.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="vergil">
+      <div class="image" img="https://i.ibb.co/qMqQn8jt/image-ezgif-com-effects.png"></div>
+      <h2 class="header">Judgement Cut</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=On+the+Verge+of+Cummin" title=""
+          target="_blank">Vergil</a>. She needs more power.  Give it to her right nao.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="suited">
+      <div class="image" img="https://i.ibb.co/s9yXKyRc/bust.png"></div>
+      <h2 class="header">Clozers's Best</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Suited" title=""
+          target="_blank">Suited</a>. A cute, curious girl that will take your heart and Kaiju parts.  Yoohoo.~  ☆
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="sango">
+      <div class="image" img="https://i.ibb.co/xrkPTKC/ezgif-com-crop-1.png"></div>
+      <h2 class="header">Big Boomerang Demon Slayer</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Sango+Demon+Slayer" title=""
+          target="_blank">Sango</a>. A demon slayer that throws a big boomerang as a weapon.  What else do you need in your life?
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="io">
+      <div class="image" img="https://i.ibb.co/Lzxtd7Vy/asdf.jpg"></div>
+      <h2 class="header">Quiet Vampire</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Io" title=""
+          target="_blank">Io</a>. A cute, quiet vampire that tries her best to break away from the life she was made to do.
       </div>
     </div>
 
