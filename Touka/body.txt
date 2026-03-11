@@ -1801,7 +1801,18 @@
       <div class="tab" opens="vergil" content="Vergil (female)"></div>
       <div class="tab" opens="suited" content="Suited"></div>
       <div class="tab" opens="sango" content="Sango"></div>
-      <div class="tab" opens="io" content="Io"></div>
+      <div class="tab" opens="tama" content="Tama"></div>
+      <div class="tab" opens="chisato" content="Chisato"></div>
+      <div class="tab" opens="tsugumi" content="Tsugumi"></div>
+      <div class="tab" opens="darkmagiciangirl" content="Dark Magician Girl"></div>
+      <div class="tab" opens="connor" content="Connor Kenway"></div>
+      <div class="tab" opens="jeannealter" content="Jeanne Alter"></div>
+      <div class="tab" opens="zamasu" content="Zamasu"></div>
+      <div class="tab" opens="a4" content="YoRHa A4"></div>
+      <div class="tab" opens="kaneki" content="Kaneki"></div>
+      <div class="tab" opens="jasmine" content="Jasmine Flamesworth"></div>
+      <div class="tab" opens="claire" content="Claire"></div>
+  
 
 
 
@@ -2419,6 +2430,105 @@
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Io" title=""
           target="_blank">Io</a>. A cute, quiet vampire that tries her best to break away from the life she was made to do.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="tama">
+      <div class="image" img="https://i.ibb.co/FqHFZSV/ezgif-com-effects-1.jpg"></div>
+      <h2 class="header">Cat Adventurer</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Tama" title=""
+          target="_blank">Tama</a>. A meowing adventurer that wants to find treasures and be rich!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="chisato">
+      <div class="image" img="https://i.ibb.co/k1sD8Q9/image-2024-10-22-190340057.png"></div>
+      <h2 class="header">Bullet Dodging, Non-lethal</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Chisato" title=""
+          target="_blank">Chisato</a>. A member of a secret organization made to prevent crime without the public knowing.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="tsugumi">
+      <div class="image" img="https://i.ibb.co/cXcYsCQM/download-ezgif-com-crop.jpg"></div>
+      <h2 class="header">Special Sight Officer</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Tsugumi+Nazar" title=""
+          target="_blank">Tsugumi</a>. An 'other' slayer that has Clairvoyance.  She can see right through things.  Even into your body!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="darkmagiciangirl">
+      <div class="image" img="https://i.ibb.co/Lzxtd7Vy/asdf.jpg"></div>
+      <h2 class="header">Summonable Waifu</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Dark+Magician+Gal" title=""
+          target="_blank">DMG</a>. Your favorite Yu-gi-oh monster!  (If you like Dark Magician more, I don't blame you.)
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="connor">
+      <div class="image" img="https://i.ibb.co/wDfXBhg/ezgif-com-crop.jpg"></div>
+      <h2 class="header">Native-American Assassin</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Connor+Kenway" title=""
+          target="_blank">Connor</a>. A man fixated on freedom.  Down with the Templars.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="jeannealter">
+      <div class="image" img="https://i.ibb.co/BFFqVSV/jeanne.png"></div>
+      <h2 class="header">Hateful French</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Alter+Jeanne" title=""
+          target="_blank">Jeanne</a>. Down with the French!  --Or is it the English now?  She doesn't know anymore.. She just kills things when she gets angry now.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="zamasu">
+      <div class="image" img="https://i.ibb.co/TxT5zc3T/25-zamasu03.jpg"></div>
+      <h2 class="header">The Ultimate God</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Zamasu" title=""
+          target="_blank">Zamasu</a>. 'I am justice given form.. I am the world.  Noooow venerate the most noble, splended, and supremely powerful god.. ZAMASU!'
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="a4">
+      <div class="image" img="https://i.ibb.co/mVmKR3gV/ezgif-com-crop-1.jpg"></div>
+      <h2 class="header">YoRHa Unit</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=YoRHa+Type+A+No+4" title=""
+          target="_blank">A4</a>. An experimental YoRHa unit with lots of emotion!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="kaneki">
+      <div class="image" img="https://i.ibb.co/Y47Z1KX9/ezgif-com-crop-2.jpg"></div>
+      <h2 class="header">The Best DBD Killer</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Ken+Kaneki" title=""
+          target="_blank">Kaneki</a>. A tortured soul that struggles with endless hunger of human flesh.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="jasmine">
+      <div class="image" img="https://i.ibb.co/3560M5mS/ezgif-com-effects-2.jpg"></div>
+      <h2 class="header">Air User-Reject</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Jasmine+Flamesworth" title=""
+          target="_blank">Jasmine</a>. A member of a family that is reknown for their flame magic, rejected by said family for being proficient in wind magic instead.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="claire">
+      <div class="image" img="https://i.ibb.co/d0ZrHCmD/rukusu-knight-w0man-ezgif-com-resize.jpg"></div>
+      <h2 class="header">Princess Protector</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Clare+Symphonia" title=""
+          target="_blank">Claire</a>. A pretty angry soldier most of the time, especially in front of idiots that piss her off!
       </div>
     </div>
 
