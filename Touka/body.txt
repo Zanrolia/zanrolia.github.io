@@ -1812,6 +1812,8 @@
       <div class="tab" opens="kaneki" content="Kaneki"></div>
       <div class="tab" opens="jasmine" content="Jasmine Flamesworth"></div>
       <div class="tab" opens="claire" content="Claire"></div>
+      <div class="tab" opens="io" content="Io"></div>
+
   
 
 
