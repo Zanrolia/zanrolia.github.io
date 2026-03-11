@@ -2433,15 +2433,6 @@
       </div>
     </div>
 
-<div class="inmenu-tab" id="tama">
-      <div class="image" img="https://i.ibb.co/FqHFZSV/ezgif-com-effects-1.jpg"></div>
-      <h2 class="header">Cat Adventurer</h2>
-      <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Tama" title=""
-          target="_blank">Tama</a>. A meowing adventurer that wants to find treasures and be rich!
-      </div>
-    </div>
-
 <div class="inmenu-tab" id="chisato">
       <div class="image" img="https://i.ibb.co/k1sD8Q9/image-2024-10-22-190340057.png"></div>
       <h2 class="header">Bullet Dodging, Non-lethal</h2>
@@ -2461,7 +2452,7 @@
     </div>
 
 <div class="inmenu-tab" id="darkmagiciangirl">
-      <div class="image" img="https://i.ibb.co/Lzxtd7Vy/asdf.jpg"></div>
+      <div class="image" img="https://i.ibb.co/rfQBQ9BW/ezgif-com-crop-3.jpg"></div>
       <h2 class="header">Summonable Waifu</h2>
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Dark+Magician+Gal" title=""
