@@ -2369,7 +2369,7 @@
     </div>
 
 <div class="inmenu-tab" id="jahi">
-      <div class="image" img="https://i.ibb.co/604fdysp/The-Demon-Kings-Daughter-EP1-1.jpg></div>
+      <div class="image" img="https://i.ibb.co/604fdysp/The-Demon-Kings-Daughter-EP1-1.jpg"></div>
       <h2 class="header">Demon Lord's Secretary</h2>
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Jahi" title=""
