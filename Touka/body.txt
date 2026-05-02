@@ -1813,6 +1813,8 @@
       <div class="tab" opens="jasmine" content="Jasmine Flamesworth"></div>
       <div class="tab" opens="claire" content="Claire"></div>
       <div class="tab" opens="io" content="Io"></div>
+      <div class="tab" opens="kana" content="Kana Arima"></div>
+      <div class="tab" opens="fuu" content="Fuu"></div>
 
   
 
@@ -2522,6 +2524,24 @@
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Claire+Symphonia" title=""
           target="_blank">Claire</a>. A pretty angry soldier most of the time, especially in front of idiots that piss her off!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="kana">
+      <div class="image" img="https://i.ibb.co/sdzbMPCg/hq720.jpg"></div>
+      <h2 class="header">The Child Prodigy</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Kana+Arima" title=""
+          target="_blank">Kana</a>. A talented star that shines brightly on the screen!
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="fuu">
+      <div class="image" img="https://i.ibb.co/0yGYTckJ/37bf13e27fac6f8ed94f67b418c0cd2f.jpg"></div>
+      <h2 class="header">The Seven Tailed Jinchuriki</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Seven+Tails+Jinchuriki" title=""
+          target="_blank">Fuu</a>. A once energetic girl turned puppet, hosting the power of the Seven Tails.
       </div>
     </div>
 
