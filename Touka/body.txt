@@ -1815,6 +1815,10 @@
       <div class="tab" opens="io" content="Io"></div>
       <div class="tab" opens="kana" content="Kana Arima"></div>
       <div class="tab" opens="fuu" content="Fuu"></div>
+      <div class="tab" opens="yotsuyu" content="Yotsuyu"></div>
+      <div class="tab" opens="zotza" content="Zotza"></div>
+      <div class="tab" opens="myro" content="Myro"></div>
+      <div class="tab" opens="towa" content="Towa (Dragon Ball)"></div>
 
   
 
@@ -2162,7 +2166,7 @@
       <div class="image" img="https://i.imgur.com/NXg6mvu.png"></div>
       <h2 class="header">AINZ OOOOOL GOOOOOWN!</h2>
       <div class="scroller">
-        <a target="_blank" href="https://roleplay.chat/profile.php?user=Lord+Ainz" title=""
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Ainz+Ooal+Gown" title=""
           target="_blank">Ainz</a>. The lord of all! He will conquer your worlds and bring you salvation!  He is the almighty.. AIIIINZ OOOOOL GOOOOOWN!
       </div>
     </div>
@@ -2542,6 +2546,42 @@
       <div class="scroller">
         <a target="_blank" href="https://roleplay.chat/profile.php?user=Seven+Tails+Jinchuriki" title=""
           target="_blank">Fuu</a>. A once energetic girl turned puppet, hosting the power of the Seven Tails.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="myro">
+      <div class="image" img="https://i.ibb.co/RGx8MHb8/1.jpg"></div>
+      <h2 class="header">Pianist Turned Royalty</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Myro" title=""
+          target="_blank">Myro</a>. A woman given intense power to get revenge for the one who gave it to her.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="zotza">
+      <div class="image" img="https://i.ibb.co/5xvLfZ1N/noivern-pokemon-x-y-by-ningeko16-d68xuvu.png"></div>
+      <h2 class="header">Noivern Gijinka</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Zotza" title=""
+          target="_blank">Zotza</a>. A fighter of a former champion now wandering for a place to go.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="yotsuyu">
+      <div class="image" img="https://i.ibb.co/WYjvQ20/hot-nut.webp"></div>
+      <h2 class="header">Courtesan gone AWOL</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Yotsuyu" title=""
+          target="_blank">Yotsuyu</a>. An abused woman who finally bit back, but on a grander scale anyone would dare think.
+      </div>
+    </div>
+
+<div class="inmenu-tab" id="towa">
+      <div class="image" img="https://i.ibb.co/21NscytM/ezgif-com-webp-to-png-converter.png"></div>
+      <h2 class="header">Sister of the Demon King</h2>
+      <div class="scroller">
+        <a target="_blank" href="https://roleplay.chat/profile.php?user=Towa+the+Demon" title=""
+          target="_blank">Towa</a>. An evil demon that seeks to reshape the universe in her twisted, agony-filled image.
       </div>
     </div>
 
